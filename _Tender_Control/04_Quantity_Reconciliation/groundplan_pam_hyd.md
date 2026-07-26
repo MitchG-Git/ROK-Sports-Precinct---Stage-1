@@ -4,7 +4,7 @@
 **Set directory:** `TriCore Docs\Groundplan Take off\260701_ Public Amenities  Hydraulic  Rev T1`
 **Underlying drawing set:** 25015-H-PAM series, Harris Kmon Solutions (HKS), "ISSUE FOR TENDER" 17.06.2026
 **Estimator:** Denis (Groundplan take-off tool)
-**Extracted:** 26.07.2026 (Claude, automated visual extraction)
+**Extracted:** 26.07.2026 (automated visual extraction; full independent re-read/verification pass same day — all legend quantities re-confirmed 1:1)
 **Files in set:** 10 (8 sheet pages + 2 Groundplan legend pages; 11 PDF pages total — legend F is 2 pages)
 
 ---
@@ -16,10 +16,10 @@
 | `A H-B844~1.pdf` | 25015-H-PAM-000 | Cover Sheet | **T1** | No (base drawing only) |
 | `B H-2A67~1.pdf` | 25015-H-PAM-001 | Abbreviations, Legend & Symbols | **T1** | No |
 | `C H-2FB8~1.pdf` | 25015-H-PAM-002 | General Notes | **T1** | No |
-| `D H-PAM-~1.pdf` | 25015-H-PAM-100 | Ground Floor Sanitary Plumbing Layout | **T1** | **Yes — sewer / vent / SW markers** |
+| `D H-PAM-~1.pdf` | 25015-H-PAM-100 | Ground Floor Sanitary Plumbing Layout (page 04 of 06) | **T1** | **Yes — sewer / vent / SW markers** |
 | `D H-PAM-~1-legend.pdf` | (Groundplan legend for Plan D) | — | — | Legend, 1 page |
-| `E H-PAM-~3.pdf` | 25015-H-PAM-101 | Roof Level Storm Water Layout | **T1** | No Groundplan legend for this plan; teal at eaves/DPs judged to be base-drawing storm-water colour (see §6) |
-| `F H-PAM-~2.pdf` | 25015-H-PAM-200 | Ground Floor Water Reticulation Layout | **T1** | **Yes — water / small sewer / big-ticket (HWU)** |
+| `E H-PAM-~3.pdf` | 25015-H-PAM-101 | Roof Level Storm Water Layout (page 05 of 06) | **T1** | No Groundplan legend for this plan; teal at eaves/DPs judged to be base-drawing storm-water colour (see §6.3, §7) |
+| `F H-PAM-~2.pdf` | 25015-H-PAM-200 | Ground Floor Water Reticulation Layout (page 06 of 06) | **T1** | **Yes — water / small sewer / big-ticket (HWU)** |
 | `F H-PAM-~2-legend.pdf` | (Groundplan legend for Plan F) | — | — | Legend, 2 pages |
 | `G H-8810~1.pdf` | 25015-H-PAM-300 | Details | **T1** | No |
 | `H-PAM-~4.pdf` | 25015-H-PAM-301 | Details | **T1** | No |
@@ -35,10 +35,10 @@
 | Legend key (colour/symbol) | Item (verbatim) | Qty | Unit |
 |---|---|---|---|
 | Magenta/pink line | DWV PVC PIPE 100MM SN6 | 60.71 | m |
-| Pink line (short-dash) | DWV PVC PIPE 50 mm SN8 | 6.93 | m |
+| Pink/red line (short) | DWV PVC PIPE 50 mm SN8 | 6.93 | m |
 | Green tick | DWV BEND 100 X 90 DEG | 20 | EA |
 | Red tick | DWV BEND 100 X 45 DEG | 21 | EA |
-| Orange double-arrow/valve symbol | DWV JUNCTION 100 X 45 DEG | 22 | EA |
+| Orange double-arrow | DWV JUNCTION 100 X 45 DEG | 22 | EA |
 | Yellow/gold tick | DWV BEND 50 X 85 Deg | 4 | EA |
 | Crimson tick | DWV BEND 50 X 45 DEG | 2 | EA |
 | Cyan circle | DWV PIPE REDUCER 100 X 65MM | 1 | EA |
@@ -64,7 +64,7 @@
 |---|---|---|---|
 | Red/green star (asterisk) | has already measured in civil sw | 2 | EA |
 
-> This is an **exclusion marker**, not a quantity to price in this set: Denis flagged the 2 × Ø100 DP/storm-water connection points shown on the sanitary layout (near grids 1/A and 5/A) as already captured in the **civil storm water** take-off. Reconcile against the civil SW set — see §6 item 3.
+> This is an **exclusion/annotation marker**, not a quantity to price in this set: Denis flagged the 2 × Ø100 DP/storm-water connection points shown on the sanitary layout (near grids 1/A and 5/A) as already captured in the **civil storm water** take-off. Reconcile against the civil SW set — see §6.3.
 
 ---
 
@@ -77,7 +77,7 @@
 | Magenta/pink line | DWV PVC PIPE 100MM SN6 | 0.45 | m |
 | Green tick | DWV BEND 100 X 90 DEG | 1 | EA |
 
-> Small sewer pick-up measured on the water sheet (likely the HWU safe-tray waste / tundish connection zone at the HWU position near grid 2–3/A–B).
+> Small sewer pick-up measured on the water sheet (likely the HWU safe-tray waste / tundish connection zone at the HWU position near grid 2–3/A–B). Ensure no double-count against Plan D sewer.
 
 ### 3.2 Group: "260701_Public Amenities Block Hydraulic Water Rev T1"
 
@@ -103,10 +103,10 @@
 | Red/crimson diamond | PEX - 20 Cu Crimp Adapter | 1 | EA |
 | Crimson half-shield | PEX - 20 Elbow | 16 | EA |
 | Crimson double-arrow | PEX - 20 Tee Equal | 7 | EA |
-| Blue bell (page 2) | THERMOSTATIC MIXING VALV *(sic)* | 1 | EA |
-| Green dash-dot line (page 2) | 20 PEX PIPE_RED (meter ) | 5.89 | m |
+| Blue bell (legend page 2) | THERMOSTATIC MIXING VALV *(sic)* | 1 | EA |
+| Green dash-dot line (legend page 2) | 20 PEX PIPE_RED (meter ) | 5.89 | m |
 
-> Legend page 2 also contains a **repeated empty group header** "260701_Public Amenities Block Hydraulic Water Rev T1" with no items under it — benign export artefact, no quantities lost.
+> Legend page 2 also contains a **repeated empty group header** "260701_Public Amenities Block Hydraulic Water Rev T1" with no items under it — benign export/pagination artefact, no quantities lost.
 
 ### 3.3 Group: "260701_Public Amenities Block Hydraulic Big ticket item Rev T1"
 
@@ -114,7 +114,7 @@
 |---|---|---|---|
 | Red/pink outline triangle | Rheem HWU | 1 | EA |
 
-> Drawing specification for this item (annotation on PAM-200): **RHEEM Heavy Duty Electric Storage, indoor/outdoor, 50L, 3 × 3.6 kW, 240L first-hour delivery @ 50°C rise, Model 61305007 or equally approved**, complete with safety tray per AS3500, PTR valve run to tray outlet with air gap.
+> Drawing specification for this item (annotation on PAM-200): **RHEEM Heavy Duty Electric Storage, indoor/outdoor, 50L, 3 × 3.6 kW, 240L first-hour delivery @ 50°C rise, Model 61305007 or equally approved**, complete with safety tray per AS3500, PTR valve run to tray outlet with air gap between tray outlet and PTR released pipe.
 
 ---
 
@@ -170,37 +170,39 @@
 | PEX 20 equal tee | — | 7 | **7** | EA |
 | Thermostatic mixing valve (TMV) | — | 1 | **1** | EA |
 | **Rheem HWU 50L electric (Model 61305007)** | — | 1 | **1** | EA |
-| *(Excluded marker)* DP/SW points "already measured in civil sw" | 2 | — | (2) | EA |
+| *(Excluded marker — annotation, do not price)* DP/SW points "already measured in civil sw" | 2 | — | (2) | EA |
 
 ---
 
 ## 5. Subtotal / grand-total reconciliation
 
-- **No printed per-page subtotals or grand-total sheet exists in this set.** The two Groundplan legend pages ARE the per-plan totals (system-generated by Groundplan), and the tables in §2–§3 transcribe them 1:1. §4 is my arithmetic roll-up of the two legends; the only cross-plan addition is DWV 100 SN6: 60.71 + 0.45 = **61.16 m**, and DWV bend 100×90: 20 + 1 = **21 EA**. No conflicts found between legend pages and anything printed on the mark-up sheets (the mark-up sheets carry no printed totals).
+- **No printed per-page subtotals or grand-total sheet exists in this set.** The two Groundplan legend pages ARE the per-plan totals (system-generated by Groundplan), and §2–§3 transcribe them 1:1 (verified twice against the rendered legend PDFs). §4 is my arithmetic roll-up of the two legends; the only cross-plan additions are DWV 100 SN6: 60.71 + 0.45 = **61.16 m**, and DWV bend 100×90: 20 + 1 = **21 EA**. No conflicts exist between legend pages and anything printed on the mark-up sheets (the mark-up sheets carry no printed totals).
 - Groundplan measurement-group names embed the source rev: "…Rev T1" on every group — consistent with the T1 sheets they overlay.
 
 ---
 
-## 6. Observations / anomalies (drawing annotation vs measured mark-up)
+## 6. Observations / anomalies (drawing ANNOTATION vs MEASURED mark-up)
 
-1. **CO count: drawing shows 7 "CO" annotations, take-off counts 6 clear outs.** PAM-100's text layer carries seven "CO WC" annotation pairs along the WC bank plus the PWD; Denis's legend total is 6 EA "100 mm clear out". Either one CO symbol was missed or one annotation pair is a duplicate/superseded label — **verify before pricing** (delta = 1 × Ø100 CO).
-2. **Sanitary fixtures are NOT in this take-off.** Drawing annotations show approx. 8 × WC (7 in main bank + 1 PWD), 1 × BSN, 1 × CSK (cleaner's sink), 2 × TR — none appear as legend items. Confirm fixtures are carried in a separate fixtures schedule/set (as with the clubhouse) or they will be missed.
-3. **Storm water excluded by design:** PAM-101 (Plan E) has no Groundplan legend and no measured items; the 2 marker points on Plan D say "has already measured in civil sw". BUT PAM-101 shows **4 × Ø100 DP** callouts (2 each end) plus a Ø65 VP and "24700 mm² ECS" eaves gutter note, while only **2 EA** were flagged to civil. Reconcile the civil SW take-off to confirm all 4 PAM downpipes (and gutter/rainwater head connections) are captured somewhere.
+1. **CO count: drawing text shows 7 "CO" annotations, take-off counts 6 clear outs.** PAM-100's text layer carries seven "CO WC" annotation pairs along the WC bank (plus a further CO-like mark at the PWD WC); Denis's legend total is 6 EA "100 mm clear out". Either one CO symbol was missed or one annotation is duplicated/superseded — **verify before pricing** (delta = 1 × Ø100 CO).
+2. **Sanitary fixtures are NOT in this take-off.** Drawing annotations show approx. 8 × WC (7 in main bank + 1 PWD), 1 × BSN, 1 × CSK/CLSK (cleaner's sink), 2 × TR — none appear as legend items. Confirm fixtures are carried in the separate fixtures count (`groundplan_fixture_count.md`) or they will be missed.
+3. **Storm water excluded by design:** PAM-101 (Plan E) has no Groundplan legend and no measured items; the 2 marker points on Plan D say "has already measured in civil sw". BUT PAM-101 shows **4 × Ø100 DP** callouts (2 each end) plus a Ø65 VP and "24700 mm² ECS" eaves-gutter note, while only **2 EA** were flagged to civil. Reconcile the civil SW take-off to confirm all 4 PAM downpipes (and gutter/rainwater connections) are captured somewhere.
 4. **Vent measure looks light:** 65mm vent = 1.93 m + 2 bends on Plan D. The VP runs in-wall and terminates above roof (shown on PAM-101); a full riser height would typically exceed 1.93 m. Possible plan-view-only measure with no vertical allowance — check whether verticals were meant to be picked up here or in a riser allowance.
-5. **TMV count = 1 EA**, while the PAM-200 note reads "PROVIDE THERMOSTATIC MIXING VALVES IN STAINLESS STEEL LOCKABLE CABINETS… (TYPICAL)" (plural). One TMV is plausible for a single-HWU block, but I could not resolve individual TMV symbols at render resolution — verify.
-6. **Group-name date inconsistency (cosmetic):** sewer groups are named "260722_…" while vent/SW/water/big-ticket groups are "260701_…" and the folder is 260701. Same job, different Groundplan group-creation dates; no quantity impact.
-7. **HKS titleblock page-numbering errors in the base drawings (not Denis's doing):** cover says "1 of 06" yet the schedule lists 8 sheets; both details sheets (PAM-300, PAM-301) are numbered "10 of 06". Revision is T1 throughout regardless.
-8. **Legend typos (transcribed verbatim):** "DOEMSTIC" water meter, "THERMOSTATIC MIXING VALV", "DWV BEND 50 X 85 Deg" (85° is a real DWV bend angle — assume intentional).
-9. **Plan F sewer pick-up (0.45 m + 1 bend)** sits on the water sheet — appears to be the HWU safe-tray/tundish waste connection; ensure it is not double-counted against Plan D's sewer measure.
+5. **TMV count = 1 EA**, while the PAM-200 note reads "PROVIDE THERMOSTATIC MIXING VALVES IN STAINLESS STEEL LOCKABLE CABINETS… (TYPICAL)" (plural). One TMV is plausible for a single-HWU block, but individual TMV symbols could not be resolved at render resolution — verify.
+6. **Spec vs measure — water pipe material:** PAM-002 note WS2 requires pipes > DN22 to be **316 stainless steel with press-fit couplings**, yet the take-off measures **copper tube Type B 25/32 mm with B-press fittings**. Deliberate estimating substitution or a miss — confirm pricing basis/qualification in the tender letter.
+7. **Group-name date inconsistency (cosmetic):** sewer groups are named "260722_…" while vent/SW/water/big-ticket groups are "260701_…" and the folder is 260701. Same job, different Groundplan group-creation dates; no quantity impact.
+8. **HKS titleblock page-numbering errors in the base drawings (not Denis's doing):** cover says "1 of 06" yet the schedule lists 8 sheets; both details sheets (PAM-300, PAM-301) are numbered "10 of 06". Revision is T1 throughout regardless.
+9. **Legend typos (transcribed verbatim):** "DOEMSTIC" water meter, "THERMOSTATIC MIXING VALV", "DWV BEND 50 X 85 Deg" (85° is a plausible DWV bend nomination — assume intentional).
+10. **Plan F sewer pick-up (0.45 m + 1 bend)** sits on the water sheet — appears to be the HWU safe-tray/tundish waste connection; ensure it is not double-counted against Plan D's sewer measure.
 
 ## 7. Could-not-verify list (no numbers guessed — all quantities above are from the Groundplan legend totals)
 
-- **Symbol-by-symbol recount on the A1 sheets:** at the rendered resolution the individual tick/junction symbols on Plan D (20 + 21 + 22 high-count items) and Plan F (15 elbows, 16 PEX elbows, 7 + 7 tees) cannot be individually distinguished and recounted visually. The legend totals are Groundplan system counts and are taken as authoritative; a screen-zoom recount in Groundplan is the only way to independently verify them.
+- **Symbol-by-symbol recount on the A1 sheets:** at rendered resolution the individual tick/junction symbols on Plan D (20 + 21 + 22 high-count items) and Plan F (15 elbows, 16 PEX elbows, 7 + 7 tees) cannot be individually distinguished and recounted. The legend totals are Groundplan system counts and are taken as authoritative; a screen-zoom recount in Groundplan is the only way to independently verify them.
+- **Exact placement of the 2 EA "has already measured in civil sw" markers** — believed to be the two Ø100 DP riser connections at grids 1/A and 5/A on PAM-100 (small green/red dots at the "UP Ø100" hexagons); marker glyphs too small to confirm conclusively.
 - **Whether PAM-200 carries one or more TMV symbols** (see §6.5).
 - **The 7th CO annotation** vs 6 counted clear outs (see §6.1).
-- **Plan E teal marks at the eaves/DP positions:** judged to be the base drawing's storm-water pipe colour (teal per HKS legend PAM-001), not Groundplan mark-up — but colour alone cannot conclusively distinguish them at this resolution. No legend entries exist for Plan E either way.
-- **Copper "type B 20 mm" 0.96 m:** a very short measure; where it sits on the plan could not be pinpointed visually.
+- **Plan E teal marks at the eaves/DP positions:** judged to be the base drawing's storm-water pipe colour (teal per HKS legend on PAM-001), not Groundplan mark-up — but colour alone cannot conclusively distinguish them at this resolution. No legend entries exist for Plan E either way.
+- **Copper "Type B 20 mm" 0.96 m:** a very short measure; its position on the plan could not be pinpointed visually.
 
 ---
 
-*Extraction complete: 11 PDF pages read across 10 files. All quantities transcribed from Groundplan legend pages; nothing estimated.*
+*Extraction complete: 11 PDF pages read across 10 files, then fully re-read for verification. All quantities transcribed from Groundplan legend pages; nothing estimated.*
