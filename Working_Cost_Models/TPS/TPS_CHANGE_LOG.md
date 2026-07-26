@@ -11,52 +11,62 @@
 
 | | ex GST |
 |---|---:|
-| **STAGE 1A TOTAL** (lump sum + PC sums + provisional) | **$1,741,527.08** |
-| **STAGE 1B TOTAL** (lump sum + PC sums + provisional) | **$266,255.24** |
-| **TPS GRAND TOTAL** | **$2,007,782.32** |
-| — of which base sell (`N64`) | $1,668,168.48 |
+| **STAGE 1A TOTAL** (lump sum + PC sums + provisional) | **$1,743,304.82** |
+| **STAGE 1B TOTAL** (lump sum + PC sums + provisional) | **$266,489.36** |
+| **TPS GRAND TOTAL** | **$2,009,794.18** |
+| — of which base sell (`N64`) | $1,670,180.34 |
 | — of which PC sums + provisionals (`N78`) | $339,613.84 |
-| Total cost before markup (`R39`) | $1,157,643.67 |
+| Total cost before markup (`R39`) | $1,159,948.87 |
 | Effective markup (`R49/R39`) | **41.50%** (was 45.73%) |
+
+*(Totals include the Rule 4 equipment-test adjustments of §12 below: +$2,011.86 net. Pre-equipment-test figures were 1A $1,741,527.08 / 1B $266,255.24 / total $2,007,782.32.)*
 
 Held separately, **not** in the tendered sum: EBC add-prices $22,405.74; alternate deltas ALT-1 $36,891.78 / ALT-2 $1,169.23.
 
 ---
 
-## Bridge: old $273,056.54 → new $2,007,782.32 ex GST
+## Bridge: old $273,056.54 → new $2,009,794.18 ex GST
 
 | Step | $ | Running |
 |---|---:|---:|
 | **OLD sub-total `N64`** (NBC $81,329.70 + PAM $17,272.79 + Siteworks $174,454.06) | | **273,056.54** |
 | 1. Remove GST rows (`N66` $27,305.65 / `N68` $300,362.20) — model is now ex-GST throughout | 0.00 | 273,056.54 |
 | 2. Re-base markup 45.73% → 41.50% (profit now on total cost, not on cost+prelims+O/H), applied to the **old** cost base | −7,263.76 | 265,792.78 |
-| 3. Correct the PAM HWU rate (`W25` 315 L model → 50 L Rheem 613/050) | −1,635.54 | 264,157.24 |
-| 4. Wire the orphaned NBC Rheem HWU block `AC17` into `N16` (qty corrected 3 → 2) | +8,929.51 | 273,086.75 |
-| 5. **Cost growth × 1.415 markup** (detail below) | +1,395,081.74 | 1,668,168.48 |
-| **= NEW base sell `N64` ex GST** | | **1,668,168.48** |
-| 6. PC sums now separately identified (fixtures, drinking fountains, bubblers) + $20,000 provisional connection fees in **both** stages | +339,613.84 | **2,007,782.32** |
-| **= NEW GRAND TOTAL ex GST `N87`** | | **2,007,782.32** |
+| 3. **Big-ticket net movement** (detail below) | +6,043.97 | 271,836.75 |
+| 4. **Cost growth × 1.415 markup** (detail below) | +1,398,343.59 | 1,670,180.34 |
+| **= NEW base sell `N64` ex GST** | | **1,670,180.34** |
+| 5. PC sums now separately identified (fixtures, drinking fountains, bubblers) + $20,000 provisional connection fees in **both** stages | +339,613.84 | **2,009,794.18** |
+| **= NEW GRAND TOTAL ex GST `N87`** | | **2,009,794.18** |
 
-Step 5 in detail — total cost rose from **$171,720.18** to **$1,157,643.67** (**+$985,923.49**):
+Step 3 in detail — the big-ticket blocks moved from $22,808.73 to $28,852.70:
+
+| Movement | $ |
+|---:|---:|
+| Orphaned NBC Rheem HWU block `AC17` wired into `N16` at the corrected qty 2 (it reached **no** total before) | +8,329.51 |
+| PAM HWU rate corrected — `W25` $3,438.29 (315 L model) → $2,016.08 (50 L Rheem 613/050) | −1,635.54 |
+| Three remaining `Installation_MH` tokens zeroed as Rule 4 duplicates (`W16` $250 + `Z16` $200 + `W30` $200) | −650.00 |
+| **Net** | **+6,043.97** |
+
+Step 4 in detail — total cost rose from **$171,720.18** to **$1,159,948.87** (**+$988,228.69**):
 
 | Cost driver | at cost |
 |---|---:|
 | **Labour** — 166 base crew-days + 1,399.8 LH supervision hours at the ×1.08 FIFO rates (previously **$0 priced anywhere**) | +661,284.94 |
 | **Plant** — Phase 7 plant roll-up (previously **$0**) | +39,539.01 |
-| **Subbies / testing / CCTV / hydro tests / Form 72** (was $2,085 of compaction testing only) | +30,475.00 |
-| **Materials, net** — adopted quantities, new scope rows (DP stubs, vent risers, articulation, seismic, AS1851, temp water), **less** the Ø200 copper→HDPE re-rate and the 316 SS re-rate | +11,251.22 |
-| Contingency & deliveries on the above (×1.18 Siteworks/PAM, ×1.12 NBC) | +110,777.95 |
+| **Subbies / testing / CCTV / hydro tests / Form 72 / equipment storage** (was $2,085 of compaction testing only) | +31,675.00 |
+| **Materials, net** — adopted quantities, new scope rows (DP stubs, vent risers, articulation, seismic, AS1851, temp water, HWU plinths), **less** the Ø200 copper→HDPE re-rate and the 316 SS re-rate | +12,031.22 |
+| Contingency & deliveries on the above (×1.18 Siteworks/PAM, ×1.12 NBC) | +111,103.15 |
 | **Accommodation** — Phase 7 Option A (14 apt-months + 225 LH nights) | +87,715.37 |
 | **Flights** — 51 person-months × 2 returns × 2 legs × $220 | +44,880.00 |
-| **Total cost growth** | **+985,923.49** |
+| **Total cost growth** | **+988,228.69** |
 
-Note within the materials line: the Ø200 main re-rate **reduced** cost by **$23,226.61** (old copper line $46,345.00 → new HDPE $23,118.39), which is why a large volume of quantity and scope additions nets to only +$11,251.22.
+Note within the materials line: the Ø200 main re-rate **reduced** cost by **$23,226.61** (old copper line $46,345.00 → new HDPE $23,118.39), which is why a large volume of quantity and scope additions nets to only +$12,031.22.
 
 **The old $300,362.20 "incl GST" figure is withdrawn.** It was $273,056.54 + 10% GST on a materials-and-subbies-only sell that contained **no labour, no plant, no accommodation and no supervision**, and it silently omitted the NBC hot water units. It must not be reused or compared like-for-like.
 
 **D6 director flag (carried from the audit):** the old model's pump-station block (`W37` $468,000 → `W43` $545,700) fed **no roll-up cell**. Any quote previously circulated off `N68` never included the pump station — its removal moves no headline number.
 
-Cost composition of the new model (pre-contingency, across the three work areas): labour $661,284.94 · plant $39,539.01 · subbies $32,560.00 · materials $144,491.38 · = $877,875.33, plus contingency/deliveries $147,172.79, accommodation $87,715.37 and flights $44,880.00 = $1,157,643.67.
+Cost composition of the new model (pre-contingency, across the three work areas): labour $661,284.94 · plant $39,539.01 · subbies $33,760.00 · materials $145,271.38 · = $879,855.33, plus contingency/deliveries $147,498.15, accommodation $87,715.37 and flights $44,880.00 = $1,159,948.87.
 
 ---
 
@@ -98,7 +108,7 @@ Escalation factors left untouched as verified correct: PE ×1.38, PVC ×1.38, Su
 **(a) Pump station block DELETED** — the whole `V34:W43` block (`W37` $468,000 → `W43` $545,700) removed, merged cells unmerged first. Note row written at `V34`:
 > "Sewer pump station EXCLUDED — installed by Council per Addendum 2 (10 Jul 2026); interfaces per interface ledger L6; add-price held in EBC register (APS 14065 basis) — see EBC_Alternates."
 
-**(b) NBC Rheem HWU block wired into the summary** — `AC14` qty **3 → 2** (per `QUANTITY_RECONCILIATION` TPS_NBC: take-off double-count across legend pages H+J removed; 2 drawn on H-NBC-200/202). `N16` rewritten `=S16+W17+Z17` → **`=S16+W17+Z17+AC17`**. `AC17` now contributes **$8,929.51**; it previously reached no total at all.
+**(b) NBC Rheem HWU block wired into the summary** — `AC14` qty **3 → 2** (per `QUANTITY_RECONCILIATION` TPS_NBC: take-off double-count across legend pages H+J removed; 2 drawn on H-NBC-200/202). `N16` rewritten `=S16+W17+Z17` → **`=S16+W17+Z17+AC17`**. `AC17` now contributes **$8,329.51** (after the Rule 4 token zeroing of repair 12; $8,929.51 before it); it previously reached no total at all.
 Also corrected: the PAM HWU rate (`W25`) $3,438.29 → **$2,016.08** — the PAM unit is a Rheem 50 L 613/050 (H-PAM-200), not the 315 L model whose rate had been used.
 
 **(c) `S39` dead formula removed** (`=SUM(S13:S26)` — mixed/mislabelled range, referenced by nothing).
@@ -113,7 +123,7 @@ Also corrected: the PAM HWU rate (`W25`) $3,438.29 → **$2,016.08** — the PAM
 | `R43` O/H | `=R39*Q43` (already on cost) | unchanged |
 | `R47` Profit | `=R45*Q47` — profit on **cost + prelims + O/H** | **`=R39*Q47`** — profit on **cost** |
 
-Effective markup `R49/R39`: **45.73% → 41.50%**, now agreeing with the label at `Q51`. The old chain compounded to cost × 1.235 × 1.18 = **×1.45730**; the new chain is cost × (1 + 0.055 + 0.18 + 0.18) = **×1.41500**. On the new cost base the re-base removes **$48,968.33** of compounded profit; on the old cost base (as shown in the bridge) it is **−$7,263.76**.
+Effective markup `R49/R39`: **45.73% → 41.50%**, now agreeing with the label at `Q51`. The old chain compounded to cost × 1.235 × 1.18 = **×1.45730**; the new chain is cost × (1 + 0.055 + 0.18 + 0.18) = **×1.41500**. On the new cost base the re-base removes **$49,065.84** of compounded profit; on the old cost base (as shown in the bridge) it is **−$7,263.76**.
 
 ---
 
@@ -229,7 +239,7 @@ Tradelink refused a 316 SS rate (Gap #2); Reece Q-459014431 priced 22 / 28 / 35 
 
 **Plant** loaded into the Equip blocks from the Phase 7 plant roll-up: 13–16 T 16 d · 8 T 6 d · 3–5 T 19 d · 1.8 T 24 d · trench roller 22 d · wacker 28 d · <6 T tipper 18 d · scissor lift 13 d · vac trailer 1 d · hydro-ex 20 hr · water truck 30 hr · crane/HIAB 25 hr. **PE butt welder + EF processor** (22 d total) is **not in any hire register** — carried as a stated ~$350/day allowance to be quoted at Phase 6. Scissor lift is on a weekly register rate converted to $30/day and **flagged** for Phase 6 confirmation.
 
-**Accommodation** — Phase 7 **Option A** (recommended) as cost row `R32`: 14 apartment-months × $4,606.06 (a crew of 3 per apartment) + LH 225 individual nights × $103.2468 = **$87,715.38**. **Option B** (all-individual, 1,275 nights = $131,639.67) is documented in the same note as the not-taken alternative — a **$43,924.29** premium. No sharing with TCS (§5.2).
+**Accommodation** — Phase 7 **Option A** (recommended) as cost row `R32`: 14 apartment-months × $4,606.06 (a crew of 3 per apartment) + LH 225 individual nights × $103.2468 = **$87,715.37**. **Option B** (all-individual, 1,275 nights = $131,639.67) is documented in the same note as the not-taken alternative — a **$43,924.29** premium. No sharing with TCS (§5.2).
 **Flights** — new cost row `R33`: 51 person-months × 2 returns × 2 legs × $220 = **$44,880.00** (assumption stated).
 
 Bedding/pipe-surround import and spoil haulage are now **formula-linked to the take-off helper blocks** (`I902/M902`, `I971/M971`, `I892/M892`) so they follow the adopted pipe lengths automatically.
@@ -270,13 +280,13 @@ Double-count control recorded on the sheet: the 140 LH supervision days and the 
 
 | | Cell | ex GST |
 |---|---|---:|
-| 1A base sell (NBC + Siteworks + 146/166 of accommodation & flights) | `N81` | 1,488,843.25 |
+| 1A base sell (NBC + Siteworks + 146/166 of accommodation & flights) | `N81` | 1,490,620.98 |
 | 1A PC sums | `N82` | 252,683.84 |
-| **STAGE 1A TOTAL** | `N83` | **1,741,527.08** |
-| 1B base sell (PAM sheet incl. the 1B site branches T2-09 + 20/166 share) | `N84` | 179,325.24 |
+| **STAGE 1A TOTAL** | `N83` | **1,743,304.82** |
+| 1B base sell (PAM sheet incl. the 1B site branches T2-09 + 20/166 share) | `N84` | 179,559.36 |
 | 1B PC sums | `N85` | 86,930.00 |
-| **STAGE 1B TOTAL** | `N86` | **266,255.24** |
-| **GRAND TOTAL** | `N87` | **2,007,782.32** |
+| **STAGE 1B TOTAL** | `N86` | **266,489.36** |
+| **GRAND TOTAL** | `N87` | **2,009,794.18** |
 | Tie check `N64 + N78 − N87` | `N88` | **0.00** ✓ |
 
 Accommodation and flights are split 146 / 20 crew-days per the Phase 7 stage allocation. The 1B site branch take-offs (T2-09, 4 crew-days) are carried on the PAM sheet, which acts as the 1B roll-up collector — the branch fitting is the 1A/1B line (interface L9).
@@ -317,16 +327,60 @@ Four rates per H002 n.24 (soft/hard × trench/pit), TPS excavations only, extra-
 
 - `LinkSources(xlExcelLinks)` returned **null** — Excel confirms **no external links** remain.
 - Formula-error census via `SpecialCells(xlCellTypeFormulas, xlErrors)` across all 12 sheets: **0 errors**.
-- Re-read with `data_only=True`: **5,206** formulas, **0** with error values, **0** with no cached value.
+- Re-read with `data_only=True`: **5,209** formulas, **0** with error values, **0** with no cached value.
 - **14 computed-vs-expected checks, 0 divergent cells** — including `N64 = N16+N23+N29+N32+N33`, `R49/R39 = 1.4150` exactly, `R42/R43/R47` each = the correct percentage of `R39`, `N87 = N64 + N78 = N83 + N86`, tie check `N88 = 0.00`, and all three labour rates to the cent.
 
 **Defect found and fixed during the audit:** two "Basis" note strings on `Sched3_Extract` began with `"= "`, so openpyxl wrote them into `<f>` elements as invalid formulas, which made Excel refuse to open the workbook. Both were rewritten as plain text and a workbook-wide sweep confirmed no other pseudo-formula strings. *(Diagnosis note: this presented as a generic COM open failure; it was isolated by a per-sheet bisect. A related trap was confirmed in passing — severing external links while `[n]` formulas remain anywhere also makes Excel reject the file. Our sever step replaces the formulas with literals, so the repaired model is clean.)*
 
 ---
 
+## Repair 12 — Rule 4 fixture and equipment test (TENDER_PROMPT §2 Rule 4, third test)
+
+Full test written to `_Tender_Control\07_Commercial_Reconciliation\EQUIPMENT_TEST_TPS.md`. **14 equipment items tested against all nine Rule 4 determinations** (supply · delivery · storage · installation · fixings/accessories · connection · testing/commissioning · controls · supply ownership): **12 complete on first pass, 2 fixings gaps + 1 cross-cutting storage gap closed, 4 duplicate installation tokens neutralised.** No item remains MISSING.
+
+**The `Installation_MH` tokens were duplicates, not shortfalls.** The big-ticket blocks carried token *dollar* figures labelled `Installation_MH` — GIT $250, HW pump $200, NBC HWUs $600, PAM HWU $200 ($1,250 total). Testing each against Phase 7 showed installation labour is already fully loaded as crew-days:
+
+| Token | Was | Now | Covering Phase 7 activity |
+|---|---:|---:|---|
+| `W16` GIT | 250 | **0** | **T1-08** — 8 crew-days Crew 1; rate basis explicitly *"GIT excavation/set"*; 3–5 T excavator 4 d + crane 1 d. Commissioning **T5-02** |
+| `Z16` HW pump | 200 | **0** | **T4-03** — 3 crew-days Crew 4, *"2x Rheem 315L HWU + HW circulating pump + flow/return loop"* |
+| `AC16` NBC HWUs | 600 | **0** | **T4-03** (same activity; crane truck 0.5 d for HWU set). Commissioning **T5-06** *"…HWU…"* |
+| `W30` PAM HWU | 200 | **0** | **T4-06** — 1 crew-day Crew 4, *"PAM Rheem 50L HWU + TMV + Ø32 check-meter assembly"* |
+
+Each token cell keeps an in-cell note naming the covering activity ID, so the labour is traceable rather than lost, and cannot be re-added later by someone reading a $0 as an omission.
+
+> **Recorded so it is not re-litigated:** searching the Phase 7 `Activity` column for "hot water" returns nothing, which reads like a missing HWU/pump installation. It is a column artefact — "Hot water" is the value in the **`System`** column, while the **`Activity`** text names the Rheem units and the pump directly. Both activities were already loaded (NBC Crew 4 = 21 crew-days includes T4-03's 3; PAM Crew 4 = 5 includes T4-06's 1). Verified against `PROGRAMME_LABOUR_PLANT.xlsx`, not inferred.
+
+**Genuine gaps found and closed:**
+
+| Gap | Fix | Basis |
+|---|---|---|
+| HWU **SS plinth/stand + fixings** priced nowhere. H-NBC-301/H-PAM-301 call up safe tray + SS plinth + seismic strap; the tray was in the big-ticket block and the strap in the seismic allowance, but the plinth was in neither | NBC r933 2 EA @ $260 · PAM r854 1 EA @ $260 | Estimator basis — fabricated 316 SS plinth ~$220 + dynabolt/Unistrut fixings ~$40. Materials only; install labour already in T4-03/T4-06 |
+| **Storage** — a distinct Rule 4 determination, costed for no item | SW r153 $1,200 long-lead equipment storage & double-handling allowance | Long leads per Phase 7: 316 SS 10–14 wks, booster + cabinet 10–12 wks, Rheem 4–6 wks, Stoddart specials 8–12 wks; supplier storage charges bite after 30 days (Humes Service Fees basis). Explicitly **not** a duplicate of the 20 ft site container (Prelim & OH `B80`) — that is the on-site store, this covers off-site holding and the extra handling movement |
+
+**Net effect:** cost +$1,980 pre-contingency (+$2,305.20 after contingency) → +$3,261.86 of sell at the 41.5% chain, less $1,250 of removed tokens = **+$2,011.86**. Stage 1A +$1,777.74, Stage 1B +$234.12.
+
+**Rule 4 wording controls captured for the submission** (full list in the test document): the Billi units are **Principal-supplied — install and connect only**, never "Billi units included"; fixture supply is a separate PC line, never a blanket "fixtures included"; fountains/bubblers are PC Sums with **slabs by others and signage excluded**; extinguishers are EBC with an add-price held; backflow **registration** rides with the excluded approval lodgement (X2); electrical isolators, panels and control cabling to the HWUs, pump and chilled fountains are by the electrical trade.
+
+### Big-ticket markup quantum — for Director decision (structure left AS IS)
+
+The four big-ticket blocks take purchase × 1.15 and add freight un-marked-up, sitting outside the normal cost→markup chain. **Unchanged**, but now quantified:
+
+| Item | Cost (purchase + freight) | Current sell | Normal chain (cost × 1.415) | Delta |
+|---|---:|---:|---:|---:|
+| 1500 L Viking GIT + lids | 8,773.28 | 10,051.77 | 12,414.19 | +2,362.42 |
+| HW circulating pump set | 6,925.83 | 7,942.20 | 9,800.05 | +1,857.84 |
+| Rheem 315 L HWU × 2 + safe trays | 7,282.18 | 8,329.51 | 10,304.28 | +1,974.78 |
+| Rheem 50 L HWU × 1 + safe tray | 2,218.88 | 2,529.21 | 3,139.72 | +610.50 |
+| **TOTAL** | **25,200.17** | **28,852.70** | **35,658.24** | **+6,805.55** |
+
+Current effective margin on this equipment is **14.49%** against the model's **41.50%**. Adopting the normal chain would add **$6,805.55** (1A +$6,195.05, 1B +$610.50), taking the grand total to **$2,016,599.73**. Note that **$850 of freight currently carries no margin at all**, and that — now that installation is proven to sit in the crew-day blocks — the ×1.15 is doing only a supply-margin job, not a disguised installation allowance.
+
+---
+
 ## Open items — NOT closed by this repair
 
-1. **Big-ticket equipment carries only ×1.15 + freight + install — no prelims/O/H/profit.** This is pre-existing architecture (audit defect 7) and was **preserved** as instructed; repair 3 covered only defects (a)–(e). Grease trap, HW pump set, NBC HWUs and the PAM HWU (~$30,102 of sell) therefore sit outside the 41.5% markup. **Director decision required** before close — correcting it would add roughly $11–12k of sell.
+1. **Big-ticket equipment carries only ×1.15 + freight — no prelims/O/H/profit.** Pre-existing architecture (audit defect 7), **preserved** as instructed. Now precisely quantified above: **+$6,805.55** if run through the normal 41.5% chain. **Director decision.**
 2. **Benchmark-derived rates pending RFQ:** Ø200 HDPE PE100 SDR11 DN250 (Gap #5); 316 SS press **fittings** (Gap #2); seismic hardware (Gap #3); articulation joints (Gap #4); non-chilled CF400 (Gap #6). All tagged in-cell.
 3. **June-2024 cached rates** now frozen as literals in `Material Rates_Master`, `Equip&HIRE_Master` and `Misc Subbie Rates_Master` are ≥2 years old at a 2027 start — Phase 5 re-sourcing still outstanding; every affected row carries its Source tag.
 4. **Fixture counts are LOW confidence** (Opens #18): 7 of 9 architectural sheets were never counted. The adopted 93 NBC / 15 PAM counts drive both the fit-off labour and the PC-sum extension. Phase 4 recount + line-by-line Tradelink reconciliation is **mandatory** before award.
@@ -337,4 +391,5 @@ Four rates per H002 n.24 (soft/hard × trench/pit), TPS excavations only, extra-
 
 ---
 
-*Repairs executed 26–27 Jul 2026. Original master workbook unmodified. All outputs under `Working_Cost_Models\TPS\`.*
+*Repairs 1–11 executed 26 Jul 2026; repair 12 (Rule 4 equipment test) 27 Jul 2026. Original master workbook unmodified.*
+*Outputs: `Working_Cost_Models\TPS\ROK_TPS_CostModel_V2.xlsx` · `Working_Cost_Models\TPS\TPS_CHANGE_LOG.md` · `_Tender_Control\07_Commercial_Reconciliation\EQUIPMENT_TEST_TPS.md`.*
