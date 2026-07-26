@@ -95,4 +95,14 @@ Sources: 11 structured document notes in `01_Document_Register/notes/` (per-doc 
 - Hydrant block plan approval BEFORE manufacture; FRQ final inspection 2-week notice (VOL38 §12.17/§25) — TPS programme
 - Rock rate schedule MUST be tendered: extra-over soft AND hard, trenches AND pits (H002 n.24) — both entities
 
+## H. Geotech (NQL2024-0320 Rev 0 — read 184/184, all §5.5 values verified)
+
+| # | Conflict / delta | Disposition |
+|---|---|---|
+| H1 | Refusal is broader than the prompt's 11 locations: **25 of 36 test locations refused**, shallowest TP03 0.70 m; XW rock 0.2–2.2 m at 6 test pits. Rock exposure on shallow trenching is materially more likely than the 11-location list implies. | PRICE (rock allowance basis states "bore results available" per H002 n.24 — extent quantified in Phase 4 overlay) + rate schedule |
+| H2 | §5.3.3 batter rule verified as 1.5H:1V for excavations **less than 2 m deep** (not only beyond 2 m). Read literally, every trench with personnel entry needs 1.5H:1V batters, 3H:1V/benching at perched water, or shoring — Denis's 0.45 m wide vertical-wall profile is non-conforming wherever workers enter. | PRICE (Director options: trench-shield allowance for entered runs vs batter widening; Phase 6/7 carries shields) + QUAL (basis stated) |
+| H3 | Addendum 7 Q3 premise "collapsible sand indicated by the Geotech report" — the phrase/condition appears **nowhere** in NQL2024-0320. | INT (record; no action — screw-pile question isn't ours) |
+| H4 | Design subgrade CBR 1.5%, swell to 7.5%; high-plasticity clays excluded from structural fill; **no survey levels for any test location** (borehole depths cannot be tied to design RLs precisely). | QUAL (refusal-vs-invert overlay is approximate — stated) |
+| H5 | Gomersall Rd stockpile (Council fill source) not covered by this report; Add 1 said further testing "to follow" — never issued. | QUAL (imported/Council fill quality by others) |
+
 **Master rule driving RFIs: H002 n.15 / VOL38 §3.58 — every ambiguity above that we don't RFI is deemed priced at the larger quantity / more expensive component. RFI schedule to be drafted in Phase 8 pack (08_Risks_Assumptions_Qualifications/RFI_SCHEDULE.md).**
