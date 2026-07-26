@@ -1,0 +1,257 @@
+1a1dbe176bc233b499d35a57db7513f2941c99ab9759f177830c9149be99005b *./.gitattributes
+e09b850d732a864032652220d5a67db4cc3235ffddaa12cf693b75207eefb79b *./Material/01 - Project Specific/Fixtures/tradelink/1066143_ROCKHAMPTON_SPORTS_PRECINCT.pdf
+ae9e0e239a9441b169975fee3692af5f822e3583fa500f05257ee640c6915942 *./Material/01 - Project Specific/Material/CIVIL SW QUOTE/CIVIL SW DETENTION TANK/ATLAN/26-87004 ROCKHAMPTON NETBALL CENTRE NORMAN GARDENS - TRICORE.pdf
+7267258829b2c27a436eec03c5bba2340b6fb2174626df590dbe7873b23eb3d7 *./Material/01 - Project Specific/Material/CIVIL SW QUOTE/CIVIL SW HDPE PIPE/ATLAN/26-87004-1 (SN8) ROCKHAMPTON NETBALL CENTRE NORMAN GARDENS STG 1 - TRICORE.pdf
+f61a9abaa3fd57e84ba1021c8bf1bece59fe18aebd96944f964ef5221af4860e *./Material/01 - Project Specific/Material/CIVIL SW QUOTE/RCP HEADWALL CULVERT ETC/Humes/Humes Service Fees.pdf
+07a2da203176cf22983e7cad2b06937250c09c98cca40bc50a8735c580a24f77 *./Material/01 - Project Specific/Material/CIVIL SW QUOTE/RCP HEADWALL CULVERT ETC/Humes/Humes Tender & Contract Terms - Holcim (Australia) Pty Ltd - trading as Humes (April 2026).pdf
+e700c6f848adf98a2936e9c8fc076dad19289192b7ef52023ad2c665dad5196a *./Material/01 - Project Specific/Material/CIVIL SW QUOTE/RCP HEADWALL CULVERT ETC/Humes/Humes Terms Sale.pdf
+4593a6e0f48032a1f6d3779f196048c3ecb6521689a24cd1529c4824d1a9373c *./Material/01 - Project Specific/Material/CIVIL SW QUOTE/RCP HEADWALL CULVERT ETC/Humes/HUMES_Q21642316_REV2_TRICORE PLUMBING_ROCKHAMPTON SPORTS PRECINCT #10260517.pdf.pdf
+92ffdd4f54c2b3f9f0774885a010f55bf023918127ea471505e82f794277ac58 *./Material/01 - Project Specific/Material/CIVIL SW QUOTE/RCP HEADWALL CULVERT ETC/Humes/SS_HUME QUOTE.pdf
+8a64c99e01393dd127e2dfd1be1e7d731503fa321702e4ec98f28678699847e7 *./Material/01 - Project Specific/Material/CIVIL SW QUOTE/RCP HEADWALL CULVERT ETC/Jaybro/stephen quote.msg
+08319ab73fe2c71db24ebebf5eed928b9badf36be0a1a3f8a91b5027ac45823d *./Material/01 - Project Specific/Material/CIVIL SW QUOTE/REECE CIVIL QUOTE FOR ALL/Q-459014445-260716_095312503-line.pdf
+88d467997d693a4fda5907ac21a3a46054b7d9b738dd425e5f03a76b18751d3a *./Material/01 - Project Specific/Material/Hydraulic/APS SEWER STATION/Quote_No_14065 - Rockhampton Sports Precinct.pdf
+8f34cb7774f258426b0cd877ee8e19020dff03e8dff04450d36bb80c66fa8384 *./Material/01 - Project Specific/Material/Hydraulic/reece all package/equipment and material/Q-459014431-260716_062410652-line.pdf
+44f7eec10bb51860b70187d1d691dce4a81cc63568158ea94af98181073a2011 *./Material/01 - Project Specific/Material/Hydraulic/reece all package/trade waste/Q-459014438-260716_062210445-line.pdf
+cf3529da56d4bcdae0ad0952bb34438b776ddf4335d3ee323b73cd0b9e82b275 *./Material/01 - Project Specific/Material/Hydraulic/Tradelink/1065005_TRICORE_PLUMBING_SERVICES_PTY_LTD.pdf
+de159427d4aca3058e8d2f6bbc32d4b30b2e527b707d6b02fea46ce13ed2c245 *./Material/01 - Project Specific/Material/Hydraulic/Tradelink/1066334_TRICORE_CIVIL_SERVICES_PTY_LTD.pdf
+93516ac5537bf35679cafdea3bad5583176aa020529a2d49804ff3e2f81c3781 *./Material/01 - Project Specific/Material/Hydraulic/Tradelink/6595064_ROCKHAMPTON_SPORTS_PRECINCT.pdf
+cf3529da56d4bcdae0ad0952bb34438b776ddf4335d3ee323b73cd0b9e82b275 *./Material/01 - Project Specific/Material/quote reference from previous or other project/tlink civil sw/1065005_TRICORE_PLUMBING_SERVICES_PTY_LTD.pdf
+dbc27275ca9d6f5a2c1e97ea0ee5e3fccb13d4f18503fe1f8431eaf36e8e0128 *./Material/01 - Project Specific/Material/quote reference from previous or other project/tlink copper/1057751_CQU_ROCKHAMPTON_TAFE_CONSOLIDATION.pdf
+cf2fcda6b96fd70ec8162960a058349d7af48cbc67043d3fa2d6969cab090455 *./Material/02 - Other Recent ROK Proj/Anaconda_Material/big ticket item/reece/Q-459012370-260213_094206398-line.pdf
+ea91b3bf66792f7defa19aa11144e365d6e1ea5a16c1641e2739fd999ee0ea3a *./Material/02 - Other Recent ROK Proj/Anaconda_Material/civil sw pipe/Reece/Q-459012377-260213_065409459-line.pdf
+84233b57a8794f5916347134bbb6e667ea7549c748ee38de88650fc59d72bc7c *./Material/02 - Other Recent ROK Proj/Anaconda_Material/stormack , detention tank, ocean protect chamber package/ocean protect/13C-DN3300-OP-SD.pdf
+c690e1a15e97e955723c1bec3ff2bd2d34b1adad7ab2239fd5cb13ce42b0b71c *./Material/02 - Other Recent ROK Proj/Anaconda_Material/stormack , detention tank, ocean protect chamber package/ocean protect/19901 - 337-341 Yaamba Rd, NTH ROCKHAMPTON (Anaconda) - Tricore.pdf
+f931d4ecc4ad4d3a9067490e7bf04fd7d459996be791956bf393d54786b7b8ba *./Material/02 - Other Recent ROK Proj/Anaconda_Material/stormack , detention tank, ocean protect chamber package/ocean protect/20C-DN3300-OP-SD.pdf
+40510e0a264b2c30dc8910d2303a7788325adad4153244ebbc9c14c63680a22f *./Material/02 - Other Recent ROK Proj/Anaconda_Material/stormack , detention tank, ocean protect chamber package/ocean protect/OceanGuard Installation Guide.pdf
+eb75e2343fcd0ef3b5d317cb4100b50efb2b83b22a1e8fe7967e1d168138ff49 *./Material/02 - Other Recent ROK Proj/Anaconda_Material/stormack , detention tank, ocean protect chamber package/ocean protect/StormFilter Installation Guide.pdf
+2ca1c082f1edd24c6d2f3c6795b33b458ee363647f92b2b2261b09bff5e9e3be *./Material/02 - Other Recent ROK Proj/Anaconda_Material/stormack , detention tank, ocean protect chamber package/ocean protect/UrbanPond-Flyer-2024.pdf
+b162bce4c38efca116aa10cebff5ed3603063dd00c790c665388fc85e375d506 *./Material/02 - Other Recent ROK Proj/Anaconda_Material/stormack , detention tank, ocean protect chamber package/ocean protect/UrbanPond-Installation-Manual_2024.pdf
+d9d5e850552c3a3cd5f2ecef452c01c0c55d8116d653f2ae5d1edd1a21e256fa *./Material/02 - Other Recent ROK Proj/Anaconda_Material/stormack , detention tank, ocean protect chamber package/ocean protect/UrbanPond-OP-WO_OUTLET.pdf
+4d110235acedac3b3e88024ac43cb2a143c6a662c8b0da2d704653722053429b *./Material/02 - Other Recent ROK Proj/CQUTafe_Material/big ticket and misc/aps pumps/Quote_No_13825 - CQU Rockhampton.pdf
+62faa355a576c4c2ba2f38ce55fba18232d45c1c9ae541406a5de1632072606d *./Material/02 - Other Recent ROK Proj/CQUTafe_Material/big ticket and misc/jaybro/Tricore Civil - Pits.pdf
+57131bbb6e7ebfdedb57a66897b1292a9272e5f543b8dd931cac17d5a2826125 *./Material/02 - Other Recent ROK Proj/CQUTafe_Material/big ticket and misc/Reece/Q-459013148-260414_11241617-line.pdf
+1afbd47415b5e8bc1c0b3d11ec883ae7f137e51043303f4cec538f502ff595a8 *./Material/02 - Other Recent ROK Proj/CQUTafe_Material/big ticket and misc/tradelink/1057331_TRICORE_PLUMBING_SERVICES_PTY_LTD 260420.pdf
+4e7632ab530d74e2aa96d3ac1520370e1017095a174503fdd0764f5c6e399f5e *./Material/02 - Other Recent ROK Proj/CQUTafe_Material/big ticket and misc/tradelink/1057331_TRICORE_PLUMBING_SERVICES_PTY_LTD.pdf
+dbc27275ca9d6f5a2c1e97ea0ee5e3fccb13d4f18503fe1f8431eaf36e8e0128 *./Material/02 - Other Recent ROK Proj/CQUTafe_Material/big ticket and misc/tradelink/1057751_CQU_ROCKHAMPTON_TAFE_CONSOLIDATION copper.pdf
+d53734339efaba18dc9c531de601aefca3dd0f1468c06ae6f210573470488325 *./Material/02 - Other Recent ROK Proj/NAS_Material/Fixtures/1060158_NAS-ROCKHAMPTON_WAREHOUSE.pdf
+774b5804acff570a3327773a5467d9a2d7afb9ba5ebfbe32bce16066a9634cff *./Material/02 - Other Recent ROK Proj/NAS_Material/Fixtures/1067047_NAS_OFFICE_&_WAREHOUSE_-_26608534.pdf
+1a3262ddb74b56c74b393bb8083796eaeae2ca603c449fa7981a2ec05a8b450a *./Material/02 - Other Recent ROK Proj/NAS_Material/Fixtures/NAS OF Nitren  fixture schedule - Copy.xlsx
+5ec06398a2b418c298e1085ed1c5503b48c304a2a6365e01374350cb81dbf8e3 *./Material/02 - Other Recent ROK Proj/NAS_Material/Fixtures/ss_NAS OF Nitren  fixture schedule.xlsx
+7e6aed6e0350880f1680d7aa073786a80ed335f8c1b737b1a4f3e47730599462 *./Material/02 - Other Recent ROK Proj/NAS_Material/Material/civil storm water pipe line/tradelink/1065005_TRICORE_PLUMBING_SERVICES_PTY_LTD.pdf
+c74ff6074fb19210115c74f29457fd0eb98e6bda3a81180a5211d8e73e90e987 *./Material/02 - Other Recent ROK Proj/NAS_Material/Material/hydraluic material/reece/Q-459014437-260716_11061860-line.pdf
+8c9d2129d76a9f2417994057a08a56c659a2fe708fb5e113434afdd2c06eba62 *./Material/02 - Other Recent ROK Proj/NAS_Material/Material/hydraluic material/tradelink/1066369_TRICORE_CIVIL_SERVICES_PTY_LTD.pdf
+66d8f8d780eb4ff08ef94314556b7dc7be01993bc35b7edf116f165256c78865 *./Material/02 - Other Recent ROK Proj/NAS_Material/Material/pit and headwall/humes/DIRECT DEPOSIT DETAILS .pdf
+f61a9abaa3fd57e84ba1021c8bf1bece59fe18aebd96944f964ef5221af4860e *./Material/02 - Other Recent ROK Proj/NAS_Material/Material/pit and headwall/humes/Humes Service Fees.pdf
+07a2da203176cf22983e7cad2b06937250c09c98cca40bc50a8735c580a24f77 *./Material/02 - Other Recent ROK Proj/NAS_Material/Material/pit and headwall/humes/Humes Tender & Contract Terms - Holcim (Australia) Pty Ltd - trading as Humes (April 2026).pdf
+e700c6f848adf98a2936e9c8fc076dad19289192b7ef52023ad2c665dad5196a *./Material/02 - Other Recent ROK Proj/NAS_Material/Material/pit and headwall/humes/Humes Terms Sale.pdf
+895534fb08df8c6f7e2ad2a0c276f0f1cbe621577c11547cd7d0fa5cb182d2fe *./Material/02 - Other Recent ROK Proj/NAS_Material/Material/pit and headwall/humes/HUMES_Q21641195_REV1_TRICORE PLUMBING_260701 - 787 YAAMBA ROAD PARKHURST #10260567.pdf
+ac96360043f6b9484eac4afbbf9afe43c8cd01b96c192a3493f3fe6fc11e2715 *./Material/02 - Other Recent ROK Proj/NAS_Material/Material/pit and headwall/jaybro/tricore 20043160.pdf
+cf3529da56d4bcdae0ad0952bb34438b776ddf4335d3ee323b73cd0b9e82b275 *./Material/02 - Other Recent ROK Proj/NAS_Material/Material/pit and headwall/tradelink/1065005_TRICORE_PLUMBING_SERVICES_PTY_LTD.pdf
+7e6aed6e0350880f1680d7aa073786a80ed335f8c1b737b1a4f3e47730599462 *./Material/02 - Other Recent ROK Proj/NAS_Material/Material/pit and headwall/tradelink/ss_1065005_TRICORE_PLUMBING_SERVICES_PTY_LTD.pdf
+9e063b3893388f7967d54ef899dd5f7220dfde4a6a9d736b39e420f1c8d800e3 *./Tender Docs/260701-Paynters/00 Invitation to Tender/26-148 Invitation to Tender Letter.pdf
+36bc3709d04964aa8a1736a737ee84be93ab730d009f31f1b2a7393b5b41fa70 *./Tender Docs/260701-Paynters/00 Invitation to Tender/Tender Schedule 3 - Schedule of Rates.xlsx
+62405573239323502fb009131a74a3d064025bcfd31e04f192f69f31dcbb1689 *./Tender Docs/260701-Paynters/01 Drawings/1. Clubhouse (NBC)/Vol 06. Hydraulic Services/260701 Club house hydraulic Combine T1.pdf
+be439c643dde5365fa788b834c24638780505ee9ed00884e9596b04598f39ed4 *./Tender Docs/260701-Paynters/01 Drawings/1. Clubhouse (NBC)/Vol 06. Hydraulic Services/H-NBC-000-T1 COVER SHEET.pdf
+42565ec1176f9e14681785f34592aaf1900bba7dff7599139fb2cc9b60650039 *./Tender Docs/260701-Paynters/01 Drawings/1. Clubhouse (NBC)/Vol 06. Hydraulic Services/H-NBC-001-T1 LEGEND AND SYMBOLS.pdf
+48c134929f5dd03e8acf804e51f23670af641e7a628314af9578013e1e45e80a *./Tender Docs/260701-Paynters/01 Drawings/1. Clubhouse (NBC)/Vol 06. Hydraulic Services/H-NBC-002-T1 HYDRAULIC NOTES.pdf
+a48f67703710c12be6a815046b1e95db69027acd0bb4456db04bfd18d6b47000 *./Tender Docs/260701-Paynters/01 Drawings/1. Clubhouse (NBC)/Vol 06. Hydraulic Services/H-NBC-100-T1 GROUND FLOOR SANITARY PLUMBING LAYOUT - PART 1.pdf
+ffd452b00645613fcf90ffdac5bd3e137730bb748dd412f53ae8a910623e3d9b *./Tender Docs/260701-Paynters/01 Drawings/1. Clubhouse (NBC)/Vol 06. Hydraulic Services/H-NBC-101-T1 GROUND FLOOR SANITARY PLUMBING LAYOUT - PART 2.pdf
+7690a1caa56f0905441c575ffaacd7433d6317dbd5664a0077d3be2fa7108ea6 *./Tender Docs/260701-Paynters/01 Drawings/1. Clubhouse (NBC)/Vol 06. Hydraulic Services/H-NBC-102-T1 GROUND FLOOR SANITARY PLUMBING LAYOUT - PART 3.pdf
+4e0263682b6b33416afdf4c7f5f4e4344436a79bfab5ea34c9731eeb14872941 *./Tender Docs/260701-Paynters/01 Drawings/1. Clubhouse (NBC)/Vol 06. Hydraulic Services/H-NBC-103-T1 ROOF LEVEL STORM WATER LAYOUT.pdf
+f4b966d0c654814a4265e3dadaa521e9ad742d05d8f7f712c8e00faaa7414dcf *./Tender Docs/260701-Paynters/01 Drawings/1. Clubhouse (NBC)/Vol 06. Hydraulic Services/H-NBC-200-T1 GROUND FLOOR WATER RETICULATION LAYOUT - PART 1.pdf
+b187306c443b670de6df1badf261fee6ef9b1ec20ad425b4dfde4f82360f5fac *./Tender Docs/260701-Paynters/01 Drawings/1. Clubhouse (NBC)/Vol 06. Hydraulic Services/H-NBC-201-T1 GROUND FLOOR WATER RETICULATION LAYOUT - PART 2.pdf
+4085f2573f0d3ddadf8aadb87f29b3faf61c7bc1a59d6c3acb1872cf329e2c34 *./Tender Docs/260701-Paynters/01 Drawings/1. Clubhouse (NBC)/Vol 06. Hydraulic Services/H-NBC-202-T1 GROUND FLOOR WATER RETICULATION LAYOUT - PART 3.pdf
+9eb2f14a3d7472e29544d4cd5e7ca3a334eb0e820b32a05d2064c86dade26129 *./Tender Docs/260701-Paynters/01 Drawings/1. Clubhouse (NBC)/Vol 06. Hydraulic Services/H-NBC-300-T1 DETAILS.pdf
+a7e8e64fd9273382f18a757bb42056c649ce3859c80a35dbebbd41d2821e7ac7 *./Tender Docs/260701-Paynters/01 Drawings/1. Clubhouse (NBC)/Vol 06. Hydraulic Services/H-NBC-301-T1 DETAILS.pdf
+53d7bb17cd1f1f21624dd269873dce3ff91fef24cbc0240f942f75bf2b7a904a *./Tender Docs/260701-Paynters/01 Drawings/2. Public Amenities (PAM)/VOL 11. Hydraulic Services/260701 Public Amenities Hydraulic Combine  T1.pdf
+8bb6a85dcbcfdffaca60d7c3280c5794b74362c14268dc816ed580802a1c8952 *./Tender Docs/260701-Paynters/01 Drawings/2. Public Amenities (PAM)/VOL 11. Hydraulic Services/H-PAM-000-T1 COVER SHEET.pdf
+37bf45041947de5bc8d730bd8c68098e2731f1d78f2be415dc5ae0ad2d44b0c8 *./Tender Docs/260701-Paynters/01 Drawings/2. Public Amenities (PAM)/VOL 11. Hydraulic Services/H-PAM-001-T1 ABBREVIATIONS, LEGEND & SYMBOLS.pdf
+2e39818ee4b5aefb1326fa628429ea6ba18199964ea56b4f928b98fee139121b *./Tender Docs/260701-Paynters/01 Drawings/2. Public Amenities (PAM)/VOL 11. Hydraulic Services/H-PAM-002-T1 GENERAL NOTES.pdf
+630cbc32943a4444a946273d402c63ba6af726a107d4f3a1fe17aef93380913b *./Tender Docs/260701-Paynters/01 Drawings/2. Public Amenities (PAM)/VOL 11. Hydraulic Services/H-PAM-100-T1 GROUND FLOOR SANITARY PLUMBING LAYOUT.pdf
+f82649175f21a59ae963224af3572a16115f9a12e0fc1dfcff8dd8d731c00005 *./Tender Docs/260701-Paynters/01 Drawings/2. Public Amenities (PAM)/VOL 11. Hydraulic Services/H-PAM-101-T1 ROOF LEVEL STORM WATER LAYOUT.pdf
+881d34e26d2fe9bf7e88f53c244977ce4be4e4b1cef7fa6c7da3999cc674f503 *./Tender Docs/260701-Paynters/01 Drawings/2. Public Amenities (PAM)/VOL 11. Hydraulic Services/H-PAM-200-T1 GROUND FLOOR WATER RETICULATION LAYOUT.pdf
+6705648b2cda93ec937134d9bbcc6594b250a2fcad588e3d97796ef039dca3e1 *./Tender Docs/260701-Paynters/01 Drawings/2. Public Amenities (PAM)/VOL 11. Hydraulic Services/H-PAM-300-T1 DETAILS.pdf
+1e2c24fa5417f184c1431066fe7fc9dea4a791f16036364362dc4d43ad16f2de *./Tender Docs/260701-Paynters/01 Drawings/2. Public Amenities (PAM)/VOL 11. Hydraulic Services/H-PAM-301-T1 DETAILS.pdf
+1c32ea5671410289b9c2b6d8d2866073ebeabc28394b98948cd53afa200a300a *./Tender Docs/260701-Paynters/01 Drawings/4. Siteworks/VOL 15. Civil Engineering/260701 Sitework Civil SW Combine T1.pdf
+73e7242c76574b6b0758589f6dcda474f474e376755b0856222d96925d704f85 *./Tender Docs/260701-Paynters/01 Drawings/4. Siteworks/VOL 15. Civil Engineering/SE_12306_F1300-T1 STORMWATER DRAINAGE LAYOUT PLAN SHEET 1.pdf
+7d62be037092eb4565648870324324322ea054a5fe3c1670a9b15722a7e11879 *./Tender Docs/260701-Paynters/01 Drawings/4. Siteworks/VOL 15. Civil Engineering/SE_12306_F1301-T1 STORMWATER DRAINAGE LAYOUT PLAN SHEET 2.pdf
+12ec2571e55447c8b056ca6b63ff6729bf80176b4f900ecc369e9381426abe78 *./Tender Docs/260701-Paynters/01 Drawings/4. Siteworks/VOL 15. Civil Engineering/SE_12306_F1302-T1 STORMWATER DRAINAGE LAYOUT PLAN SHEET 3.pdf
+ca8268bb1c87546163a99668b77a59b5ac214e1eb53195c9d936cb8946bc240f *./Tender Docs/260701-Paynters/01 Drawings/4. Siteworks/VOL 15. Civil Engineering/SE_12306_F1303-T1 STORMWATER DRAINAGE LAYOUT PLAN SHEET 4.pdf
+bc4fc2ce067bf5c68df585fbcd79463f02c8a53d2a3cbf85e485e45d33abe36e *./Tender Docs/260701-Paynters/01 Drawings/4. Siteworks/VOL 15. Civil Engineering/SE_12306_F1304-T1 STORMWATER DRAINAGE LAYOUT PLAN SHEET 5.pdf
+0da43cfff31ed8593d59bbb617f8f9d3b00dde098f0fbf931040187e79104831 *./Tender Docs/260701-Paynters/01 Drawings/4. Siteworks/VOL 15. Civil Engineering/SE_12306_F1305-T1 STORMWATER DRAINAGE LAYOUT PLAN SHEET 6.pdf
+d93a38f0a79c9f29d5ccb66a9d549ed1c5a394401b3e515bb6855e3a0ef76874 *./Tender Docs/260701-Paynters/01 Drawings/4. Siteworks/VOL 15. Civil Engineering/SE_12306_F1310-T1 STORMWATER DRAINAGE PIT SCHEDULE.pdf
+8fcfe8eec44767921ae99cb8db488a5d7f8ddc5103de7d547289745826796a4a *./Tender Docs/260701-Paynters/01 Drawings/4. Siteworks/VOL 15. Civil Engineering/SE_12306_F1320-T1 STORMWATER DRAINAGE DETAILS SHEET 1.pdf
+515136cc4a59070524a1d222ecf36f7b23ccaf2298d2dbbec2250d5cf0fc30a0 *./Tender Docs/260701-Paynters/01 Drawings/4. Siteworks/VOL 15. Civil Engineering/SE_12306_F1321-T1 STORMWATER DRAINAGE DETAILS SHEET 2.pdf
+467535d81768ead1d5b4caac5b27f1f74ce1e764ed1d008cae1447e7af8c2277 *./Tender Docs/260701-Paynters/01 Drawings/4. Siteworks/VOL 15. Civil Engineering/SE_12306_F1322-T1 STORMWATER DRAINAGE DETAILS SHEET 3.pdf
+dd8b6d1450f12dc2137f1e57f50c14533e5cda9af389eecebd13a8cce7b6c1ee *./Tender Docs/260701-Paynters/01 Drawings/4. Siteworks/VOL 15. Civil Engineering/SE_12306_F1323-T1 STORMWATER DRAINAGE DETAILS SHEET 4.pdf
+9c0f06b05b81a818987d2cae28609b96ea547324ac19892f21545399fbe13626 *./Tender Docs/260701-Paynters/01 Drawings/4. Siteworks/VOL 15. Civil Engineering/SE_12306_F1324-T1 STORMWATER DRAINAGE DETAILS SHEET 5.pdf
+e3ba8fdc0903c7def36549079f7c2aebec5b4f1760ac4d15113468d2c01b4f70 *./Tender Docs/260701-Paynters/01 Drawings/4. Siteworks/VOL 15. Civil Engineering/SE_12306_F1325-T1 STORMWATER DRAINAGE DETAILS SHEET 5.pdf
+50fc7e6cc686fb4599e806776a0e2ee795466ad5bb9b6b0bf540c4a8be47f6ba *./Tender Docs/260701-Paynters/01 Drawings/4. Siteworks/VOL 15. Civil Engineering/SE_12306_F1350-T1 STORMWATER DRAINAGE LONG SECTIONS SHEET 1.pdf
+39321d8f639f5d94d73b33f407704efe4a12d2a4e58dbafef9d0c946921b8d79 *./Tender Docs/260701-Paynters/01 Drawings/4. Siteworks/VOL 15. Civil Engineering/SE_12306_F1351-T1 STORMWATER DRAINAGE LONG SECTIONS SHEET 2.pdf
+202fb56d6da076c0cc5b595b24b91691a577493d9a88fb4c206a0d0ae7ab3eb2 *./Tender Docs/260701-Paynters/01 Drawings/4. Siteworks/VOL 15. Civil Engineering/SE_12306_F1352-T1 STORMWATER DRAINAGE LONG SECTIONS SHEET 3.pdf
+930eeed876353931054566de77fa89037088ee8a876594ebe6bda1c69ce6e54a *./Tender Docs/260701-Paynters/01 Drawings/4. Siteworks/VOL 15. Civil Engineering/SE_12306_F1353-T1 STORMWATER DRAINAGE LONG SECTIONS SHEET 4.pdf
+22768ec7cacd443a3e1d271306d301d302549e1e1da8cb1263d6bba56d3acd91 *./Tender Docs/260701-Paynters/01 Drawings/4. Siteworks/VOL 15. Civil Engineering/SE_12306_F1354-T1 STORMWATER DRAINAGE LONG SECTIONS SHEET 5.pdf
+cf69ffacb7b2996be6ee30e2297ccdfc788db9f717f158241c651742bc6dc466 *./Tender Docs/260701-Paynters/01 Drawings/4. Siteworks/VOL 15. Civil Engineering/SE_12306_F1355-T1 STORMWATER DRAINAGE LONG SECTIONS SHEET 6.pdf
+3281b369e49d2dec8b390c68d37a46cb272c1dde50f080ebe14a02c0c40fd687 *./Tender Docs/260701-Paynters/01 Drawings/4. Siteworks/VOL 15. Civil Engineering/SE_12306_F1356-T1 STORMWATER DRAINAGE LONG SECTIONS SHEET 7.pdf
+620e4900e04b9dcbb65eb72be3f80d02f14082c51a5260cbb0e176d3dc1ef8c3 *./Tender Docs/260701-Paynters/01 Drawings/4. Siteworks/VOL 15. Civil Engineering/SE_12306_F1357-T1 STORMWATER DRAINAGE LONG SECTIONS SHEET 8.pdf
+76e96f5780892ff7176211ef411478d942b753cc4b778bcaaf77273823ea38e9 *./Tender Docs/260701-Paynters/01 Drawings/4. Siteworks/VOL 15. Civil Engineering/SE_12306_F1358-T1 STORMWATER DRAINAGE LONG SECTIONS SHEET 9.pdf
+7c99530ce4326807ac5d8d4173de84b1bb29dc86f1e1b80c5fa82e996e5e6fe5 *./Tender Docs/260701-Paynters/01 Drawings/4. Siteworks/VOL 15. Civil Engineering/SE_12306_F1359-T1 STORMWATER DRAINAGE LONG SECTIONS SHEET 10.pdf
+10536ca40952747379442ac1aa2ed8f848beaa910879b1a989378c75775fcee0 *./Tender Docs/260701-Paynters/01 Drawings/4. Siteworks/VOL 15. Civil Engineering/SE_12306_F1360-T1 STORMWATER DRAINAGE LONG SECTIONS SHEET 11.pdf
+c592fe97a78a301042e3fcdca009120c1b89d8250537276c31618e46346d27de *./Tender Docs/260701-Paynters/01 Drawings/4. Siteworks/VOL 15. Civil Engineering/SE_12306_F1361-T1 STORMWATER DRAINAGE LONG SECTIONS SHEET 12.pdf
+32dfc2a09039c87a279fd5c81b17daffac970906461bc5a90feb04386cf50d73 *./Tender Docs/260701-Paynters/01 Drawings/4. Siteworks/VOL 15. Civil Engineering/SE_12306_F1362-T1 STORMWATER DRAINAGE LONG SECTIONS SHEET 14.pdf
+f98bdc8efe2813e605f044523e497220d741b24f51563c2e8387cd2bf4f8c034 *./Tender Docs/260701-Paynters/01 Drawings/4. Siteworks/VOL 15. Civil Engineering/SE_12306_F1363-T1 STORMWATER DRAINAGE LONG SECTIONS SHEET 15.pdf
+624dbbe196296e4d64739941944546766721917057035581d37030de362993e8 *./Tender Docs/260701-Paynters/01 Drawings/4. Siteworks/VOL 17. Hydraulic Services/260701 Site work Hydraulic Combine T1.pdf
+e4dfd59dd1ff6a06affb24e8f47da42a4d4c775fe56d11e8e8eb275d5254060e *./Tender Docs/260701-Paynters/01 Drawings/4. Siteworks/VOL 17. Hydraulic Services/H001-T1 COVER SHEET, DRAWING SCHEDULE, SYMBOLS AND ABBREVIATIONS.pdf
+7b1ba0fce49f7c8eba1fdd17b57a568f8cda3b2eca3d213b58ce9fbc79d03d24 *./Tender Docs/260701-Paynters/01 Drawings/4. Siteworks/VOL 17. Hydraulic Services/H002-T1 SPECIFICATION.pdf
+e4c9deba5acb3ae8187d14e7054dd831aa8579e81fb6b64e3534c6484fed234a *./Tender Docs/260701-Paynters/01 Drawings/4. Siteworks/VOL 17. Hydraulic Services/H003-T1 STAGE 1 SITE RETICULATION.pdf
+199c360c7543b22f856372ee83a56e4f30b13afcfdd8f2c58efaab48967c0b40 *./Tender Docs/260701-Paynters/01 Drawings/4. Siteworks/VOL 17. Hydraulic Services/H300-T1 DETAILS.pdf
+b828679440bcfb3895aeae9ecab191a1231bd401cb01935d6c917cc5cdf9d7d2 *./Tender Docs/260701-Paynters/01 Drawings/4. Siteworks/VOL 17. Hydraulic Services/QCPS32VC-A01 Q-MAX FORTIS 3200 PUMP STATION GENERAL LAYOUT (SECTIONAL PLAN VIEW).pdf
+fc169f65560142e116e5c7124796dff60a2960cceeecc100b54313c36ba46de2 *./Tender Docs/260701-Paynters/01 Drawings/4. Siteworks/VOL 17. Hydraulic Services/QCPS32VC-A02 Q-MAX FORTIS 3200 PUMP STATION GENERAL LAYOUT (SECTIONAL ELEVATION).pdf
+e368b3180ccaa74eae45ef70a8fc24a1f813abe592a6ff99857f4712c5638867 *./Tender Docs/260701-Paynters/01 Drawings/VOL 20 - SE_12306_SKT_CMP_SUB-STAGES_B.pdf
+f4a5102138ccb58546e09fb13a4a90902bdc56fb605c14012cf94512d3a14431 *./Tender Docs/260701-Paynters/02 Specifications/1. Clubhouse and Amenities Architectural Specifications/VOL 25. Clubhouse  - FF&E Schedule T1.pdf
+70d8481fde54738df5a319f85f38ae3803fb80ae94045dff3e4d2771added1fb *./Tender Docs/260701-Paynters/02 Specifications/1. Clubhouse and Amenities Architectural Specifications/VOL 28. Amenities - FF&E Schedule T1.pdf
+203a597c7a3262a5383c957f5c1567d38e9eeba60a30997ef1b5d2ac75c9b20a *./Tender Docs/260701-Paynters/02 Specifications/4. Hydraulic Services/VOL 38 - Hydraulic Services Specification-T1.pdf
+f3ec7a3e7c17fb494cb8b126f01ad2ae77ada88e453a8d9f5d1a09262896df2c *./Tender Docs/260701-Paynters/02 Specifications/VOL 21 - Invitation to Tender - Part 2 - Technical Specification.pdf
+402c7cc8c5a8e8a826ecbe2dd3cc76959cdceca2a5dea0a84cbdf8ed8d01aa3a *./Tender Docs/260701-Paynters/Addendum 1/Attachment 14 - Vegetation and Fauna Management Plan.pdf
+63febc8f6ddda46ad375e7b2f5cda198717efaff4176af7d54db1568fd0b7c2f *./Tender Docs/260701-Paynters/Addendum 1/Civil/x01_pd_02-07-2026 (For Information Only).dwg
+09568e38b467e8c3d166b5bb2fc7ea3098dd72cfd76cc87742f02f7667ee53eb *./Tender Docs/260701-Paynters/Addendum 1/Civil/x01_pf_02-07-2026 (For Information Only).dwg
+fa04dca90d085d6d4893747c2de629a5f9fd60316d28639d112647ea2eed96ab *./Tender Docs/260701-Paynters/Addendum 1/Landscape/24523-ST1-MDC-L-SITE_02-07-2026 (For Information Only).dwg
+14904c2cf2a627c67e1f86d882cc6a0bca4c1fe2abe09e9a774723cff7426a57 *./Tender Docs/260701-Paynters/Addendum 1/Rockhampton Sports Precinct.pdf
+1427788c0dbafea170d128a2e15e866ee32e7bec5f13f9b9a5dd1c80e7742437 *./Tender Docs/260701-Paynters/Addendum 10/16699_Addendum No. 10.pdf
+4bac13ecb7e2d73023773dab5dd21c4ffa71f77e140b3f5844b4541399dfbf53 *./Tender Docs/260701-Paynters/Addendum 10/16699_Addendum No. 8.pdf
+47eb3918acd21db1229d241cd888e1dbb8d1f0099bb9ac72a9f25b25cfd7082b *./Tender Docs/260701-Paynters/Addendum 10/16699_Addendum No. 9.pdf
+6a42ab47cbe41662c89f84eb5aec4a361262c388c28003ce20358e07fd606190 *./Tender Docs/260701-Paynters/Addendum 10/24253_RSP-LSC-Transmittal-[TENDER].pdf
+292aa514281ff3a595d9c7add9a5f9383b3579baf12dcf86aa1c80aed909c74c *./Tender Docs/260701-Paynters/Addendum 10/25015-E-SITE-304_T2.pdf
+c9d7fb3833cc35c16ccb679aa1d174fe591316909850f25241dfc6f79cfa7a92 *./Tender Docs/260701-Paynters/Addendum 10/25015-E-SITE-306_T2.pdf
+fa6a776296b93bf72c49228161384ca24a363879483e4fc278b2081fb9a0ba2f *./Tender Docs/260701-Paynters/Addendum 10/LD-2101 SURFACE FINISHES PLAN 01.pdf
+f9bb95c1a189de28613c3f1c2e48d5865bb1e669f3b63e2c3c41d3b969d0eb85 *./Tender Docs/260701-Paynters/Addendum 10/LD-2102 SURFACE FINISHES PLAN 02.pdf
+fb1ea1cd27acc0370b4088ae50f09d6de68adb8a1eca94ec85690c6edb769f79 *./Tender Docs/260701-Paynters/Addendum 10/LD-2103 SURFACE FINISHES PLAN 03.pdf
+eec4489c9c1b0fb4e92c6b18f795f53f3684f7e9dd67f0f137a4d4758b7c010f *./Tender Docs/260701-Paynters/Addendum 10/LD-2104 SURFACE FINISHES PLAN 04.pdf
+6c6a029535bdf776aa119cc4e957b8b20dd777937fd8d26e5a7cf1c47d9857ad *./Tender Docs/260701-Paynters/Addendum 10/LD-2105 SURFACE FINISHES PLAN 05.pdf
+73b5c3d0a9b470445d23e92cf0d584502d560c442e6bd61714b4882b4094bce8 *./Tender Docs/260701-Paynters/Addendum 10/LD-2106 SURFACE FINISHES PLAN 06.pdf
+98a1cfb55716ba3aa8ad84884fbb7f4bfe86d7c8b5dd71e4fd3c2639fba9012a *./Tender Docs/260701-Paynters/Addendum 10/LD-2109 SURFACE FINISHES PLAN 09.pdf
+1d3576ccad14703a64e0c44849c9c6a86a187b195ac14a3c739f70db53f0dc4a *./Tender Docs/260701-Paynters/Addendum 10/MOD-AR-NBC-2001-T2-ELEVATIONS - SHEET 01.pdf
+4e8a3e66dbd9bef1d13c067716af8a88cbc270cb571cc4859b548ca404dcedbb *./Tender Docs/260701-Paynters/Addendum 10/MOD-AR-NBC-2002-T2-ELEVATIONS - SHEET 02.pdf
+74de09883a00d5ca63e2f5aa6612cbc790799400b7e30d478e66e6f262186545 *./Tender Docs/260701-Paynters/Addendum 10/MOD-AR-NBC-5102-T2-DOOR & WINDOW SCHEDULES.pdf
+3a96d1230b01eb0ebfa9b9b500715aba789e12ad283c9aa88563cc4ceb741328 *./Tender Docs/260701-Paynters/Addendum 10/ROCKHAMPTON SPORTS PRECINCT RevB.dwg
+267973530aae47b9ada48ef916864a5606f52a67d7c00f84bd943c47538951da *./Tender Docs/260701-Paynters/Addendum 10/ROCKHAMPTON SPORTS PRECINCT _ March 2025.dwg
+56715c9b589ac4f12592b29821bd67e61173ca785885672d1c41b884133d934b *./Tender Docs/260701-Paynters/Addendum 10/SE_12306_3DM001_STG1_DESIGN_3D Component_13-07-2026.dwg
+58d15763e998ec517fd167260b5103d005014fcc6642bedafb4c72a6ea994f05 *./Tender Docs/260701-Paynters/Addendum 10/SE_12306_RPT006_B Design Report.pdf
+0af7c1d0d7eae0689a3fd361a13b5234cecfbc443df4ddeda36e2d950125e42e *./Tender Docs/260701-Paynters/Addendum 2/Rockhampton Sports Precinct.pdf
+292aa514281ff3a595d9c7add9a5f9383b3579baf12dcf86aa1c80aed909c74c *./Tender Docs/260701-Paynters/Addendum 5/Attachments/25015-E-SITE-304_T2.pdf
+c9d7fb3833cc35c16ccb679aa1d174fe591316909850f25241dfc6f79cfa7a92 *./Tender Docs/260701-Paynters/Addendum 5/Attachments/25015-E-SITE-306_T2.pdf
+9bd89ac7314966e810c1b9fa8a1ae20b248f28346c9a9f4466d5c1c00f2f6cdc *./Tender Docs/260701-Paynters/Addendum 5/Rockhampton Sports Precinct.pdf
+a68ec65cfddb12a015547e6c3cb1c00ba8f34a033dda296666009db89b553e29 *./Tender Docs/260701-Paynters/Addendum 7/16699_Addendum No. 7.pdf
+4bac13ecb7e2d73023773dab5dd21c4ffa71f77e140b3f5844b4541399dfbf53 *./Tender Docs/260701-Paynters/Addendum 8/16699_Addendum No. 8.pdf
+1d3576ccad14703a64e0c44849c9c6a86a187b195ac14a3c739f70db53f0dc4a *./Tender Docs/260701-Paynters/Addendum 8/MOD-AR-NBC-2001-T2-ELEVATIONS - SHEET 01.pdf
+4e8a3e66dbd9bef1d13c067716af8a88cbc270cb571cc4859b548ca404dcedbb *./Tender Docs/260701-Paynters/Addendum 8/MOD-AR-NBC-2002-T2-ELEVATIONS - SHEET 02.pdf
+56715c9b589ac4f12592b29821bd67e61173ca785885672d1c41b884133d934b *./Tender Docs/260701-Paynters/Addendum 8/SE_12306_3DM001_STG1_DESIGN_3D Component_13-07-2026.dwg
+58d15763e998ec517fd167260b5103d005014fcc6642bedafb4c72a6ea994f05 *./Tender Docs/260701-Paynters/Addendum 8/SE_12306_RPT006_B Design Report.pdf
+47eb3918acd21db1229d241cd888e1dbb8d1f0099bb9ac72a9f25b25cfd7082b *./Tender Docs/260701-Paynters/Addendum 9/16699_Addendum No. 9.pdf
+6a42ab47cbe41662c89f84eb5aec4a361262c388c28003ce20358e07fd606190 *./Tender Docs/260701-Paynters/Addendum 9/24253_RSP-LSC-Transmittal-[TENDER].pdf
+292aa514281ff3a595d9c7add9a5f9383b3579baf12dcf86aa1c80aed909c74c *./Tender Docs/260701-Paynters/Addendum 9/25015-E-SITE-304_T2.pdf
+c9d7fb3833cc35c16ccb679aa1d174fe591316909850f25241dfc6f79cfa7a92 *./Tender Docs/260701-Paynters/Addendum 9/25015-E-SITE-306_T2.pdf
+fa6a776296b93bf72c49228161384ca24a363879483e4fc278b2081fb9a0ba2f *./Tender Docs/260701-Paynters/Addendum 9/LD-2101 SURFACE FINISHES PLAN 01.pdf
+f9bb95c1a189de28613c3f1c2e48d5865bb1e669f3b63e2c3c41d3b969d0eb85 *./Tender Docs/260701-Paynters/Addendum 9/LD-2102 SURFACE FINISHES PLAN 02.pdf
+fb1ea1cd27acc0370b4088ae50f09d6de68adb8a1eca94ec85690c6edb769f79 *./Tender Docs/260701-Paynters/Addendum 9/LD-2103 SURFACE FINISHES PLAN 03.pdf
+eec4489c9c1b0fb4e92c6b18f795f53f3684f7e9dd67f0f137a4d4758b7c010f *./Tender Docs/260701-Paynters/Addendum 9/LD-2104 SURFACE FINISHES PLAN 04.pdf
+6c6a029535bdf776aa119cc4e957b8b20dd777937fd8d26e5a7cf1c47d9857ad *./Tender Docs/260701-Paynters/Addendum 9/LD-2105 SURFACE FINISHES PLAN 05.pdf
+73b5c3d0a9b470445d23e92cf0d584502d560c442e6bd61714b4882b4094bce8 *./Tender Docs/260701-Paynters/Addendum 9/LD-2106 SURFACE FINISHES PLAN 06.pdf
+98a1cfb55716ba3aa8ad84884fbb7f4bfe86d7c8b5dd71e4fd3c2639fba9012a *./Tender Docs/260701-Paynters/Addendum 9/LD-2109 SURFACE FINISHES PLAN 09.pdf
+74de09883a00d5ca63e2f5aa6612cbc790799400b7e30d478e66e6f262186545 *./Tender Docs/260701-Paynters/Addendum 9/MOD-AR-NBC-5102-T2-DOOR & WINDOW SCHEDULES.pdf
+22372442019e4f8f069a598d411b8d5ab13b1f79a3151fe20998dd79f24079a8 *./Tender Docs/260701-Paynters/NQL2024-0320 AC Rev0 Geotechnical Investigation.pdf
+27d75a92f7f4a3678282f5d194bfff06c0a4982d7a0c9ff2050d5fc2cd495428 *./TriCore Docs/Denis Email updates/260724 _ ROK Sports Precinct_ CIVIL SW V1 Summaries .msg
+fabfd916904dddb0a4a8dc98b265101d82bf27e3bda9c6e6fc2af72ec504ed38 *./TriCore Docs/Denis Email updates/260724 _ ROK Sports Precinct_ CIVIL SW V1 Summaries.pdf
+3b0ed2e44f3e2b0428ceb618eeb38dccb0ce70c645fe215d158145de1a4e365b *./TriCore Docs/Denis Email updates/260724_ ROK SPORTS Hydraulic Summaries .msg
+6932c21cfa84e501a82812a93d942af0bb231c3264b9b12ad6f10746c4c0c2e6 *./TriCore Docs/Denis Email updates/260724_ ROK SPORTS Hydraulic Summaries.pdf
+fdaeb94ee45d8261a71717a144f98ae4069606ab73e1e1d8ec7aa69158a2abcb *./TriCore Docs/Groundplan Take off/260701_ Club house Architecture fixture count REV T1/FIXTURE COUNT CLUB HOUSE  p1.pdf
+4adf50bd3f093dd57661a02635bfd4b30ee418a8652a9f8319544355fe6d75c5 *./TriCore Docs/Groundplan Take off/260701_ Club house Architecture fixture count REV T1/FIXTURE COUNT CLUB HOUSE  p2-legend.pdf
+4184e5e563c65278cd422a4e1d027bcfaead10508a78e4df6aa063fa1e0cc74c *./TriCore Docs/Groundplan Take off/260701_ Club house Architecture fixture count REV T1/FIXTURE COUNT CLUB HOUSE  p2.pdf
+ac0299e5aa7c982d76eae0dfc48ae044d3046750179f889d8bded2b188269149 *./TriCore Docs/Groundplan Take off/260701_ Club house Architecture fixture count REV T1/FIXTURE COUNT CLUB HOUSE  p3.pdf
+626500f4fb8568c37e29080b74f109964151ebfa650ad6ba165b76d771c68285 *./TriCore Docs/Groundplan Take off/260701_ Club house Architecture fixture count REV T1/FIXTURE COUNT CLUB HOUSE  p4.pdf
+96384f8153d1ab64e1cda5067826adb2f201492e6afc555cbb81d10f8c407819 *./TriCore Docs/Groundplan Take off/260701_ Club house Architecture fixture count REV T1/FIXTURE COUNT CLUB HOUSE  p5-legend.pdf
+7dabee5baaf4803e6e414f53148524989a93718692e78eb4822baa765fa074c3 *./TriCore Docs/Groundplan Take off/260701_ Club house Architecture fixture count REV T1/FIXTURE COUNT CLUB HOUSE  p5.pdf
+54e92d3f6f3b63e94433fcd3f9d407874df06beef630d72a02f0f65c65e4b6f1 *./TriCore Docs/Groundplan Take off/260701_ Club house Architecture fixture count REV T1/FIXTURE COUNT CLUB HOUSE  p6.pdf
+d98b06281aa60acac7fbc397b626070249ef4089c4f1f3d88348fc49550e1fd4 *./TriCore Docs/Groundplan Take off/260701_ Club house Architecture fixture count REV T1/FIXTURE COUNT CLUB HOUSE  p7.pdf
+6932833e46fb0fdea63658f893823f79c0d08cef997a9eba6fa3e85a291ff2c9 *./TriCore Docs/Groundplan Take off/260701_ Club house Architecture fixture count REV T1/FIXTURE COUNT CLUB HOUSE  p8.pdf
+781b8d0305814497817bd6a9a0767fcdac810a0b45a886b7070f0a19940fd120 *./TriCore Docs/Groundplan Take off/260701_ Club house Architecture fixture count REV T1/FIXTURE COUNT CLUB HOUSE  p9.pdf
+498ade415348d561c8206a9d6eeb6bcc131e387c9bc6f08927c9dc28f9205df5 *./TriCore Docs/Groundplan Take off/260701_ Public Amenities  Hydraulic  Rev T1/A H-B844~1.pdf
+4bc2fa59040c215a1e0bd80c99cfb60db06c0aaa1c84c199043e2f8cdb862acf *./TriCore Docs/Groundplan Take off/260701_ Public Amenities  Hydraulic  Rev T1/B H-2A67~1.pdf
+7876ecbe58f2e52559b9443d257d5124cfda96e9ed092de298df4fca4881573f *./TriCore Docs/Groundplan Take off/260701_ Public Amenities  Hydraulic  Rev T1/C H-2FB8~1.pdf
+58d04e7dd8868de2390977f631378e0480b4db68611aa08175a72414d418b2d9 *./TriCore Docs/Groundplan Take off/260701_ Public Amenities  Hydraulic  Rev T1/D H-PAM-~1-legend.pdf
+35cf7ab4dbeb9ec56ff2a6ad2ff155d0d52104729e48e1cdf6deddefd7cec201 *./TriCore Docs/Groundplan Take off/260701_ Public Amenities  Hydraulic  Rev T1/D H-PAM-~1.pdf
+b6cff7c3b42052e534ac6f430f1c14aec1cc8e1e81b369203db67197ae6bb66a *./TriCore Docs/Groundplan Take off/260701_ Public Amenities  Hydraulic  Rev T1/E H-PAM-~3.pdf
+d5284ad0f7bb1fd31dbcaa6722d9048f8223f5d84b04f98d6ef76ad2192da2a5 *./TriCore Docs/Groundplan Take off/260701_ Public Amenities  Hydraulic  Rev T1/F H-PAM-~2-legend.pdf
+89a51b6f2904697c13eec76510cf9c5dd71362ef3cae56d11defe511a1e63747 *./TriCore Docs/Groundplan Take off/260701_ Public Amenities  Hydraulic  Rev T1/F H-PAM-~2.pdf
+5a3c2f94cf82c39150890715c94fc1a3e0269254c05ee7a87c340049f26645eb *./TriCore Docs/Groundplan Take off/260701_ Public Amenities  Hydraulic  Rev T1/G H-8810~1.pdf
+1c85f145a7d4e5204749d11a5b7ff2ad5902de368e7dac7a5388b78dd4c16e73 *./TriCore Docs/Groundplan Take off/260701_ Public Amenities  Hydraulic  Rev T1/H-PAM-~4.pdf
+8352c93be2eae1080c45f7b3ecf0fbefc523cd4a7079e51c0cdae84a95b3c8e3 *./TriCore Docs/Groundplan Take off/260701_Clubhouse Hydraulic  Rev T1/A H-NBC-~1.pdf
+cfe147513f82d8174514897b9e9ec7359549bcc639001c1333a1be251e013c25 *./TriCore Docs/Groundplan Take off/260701_Clubhouse Hydraulic  Rev T1/B H-AF9C~1.pdf
+be794efed0a0dbbd16511edf9bf0d85e5737d3e6baeb92c039c9364e6ce221c0 *./TriCore Docs/Groundplan Take off/260701_Clubhouse Hydraulic  Rev T1/C H-65D2~1.pdf
+cfb5b219e1c8392a7ee196dc94bcd5fba6e5b84aa43cc04f8bcf5f978a58ae81 *./TriCore Docs/Groundplan Take off/260701_Clubhouse Hydraulic  Rev T1/D H-47E7~1-legend.pdf
+7c955a3a8dd853ada59426112c4deb162f2c239c7108968240a2d605ab58a309 *./TriCore Docs/Groundplan Take off/260701_Clubhouse Hydraulic  Rev T1/D H-47E7~1.pdf
+cdcb0b1ca44382085545891fa339414be29299f5315333e827d096fbdc1b4b96 *./TriCore Docs/Groundplan Take off/260701_Clubhouse Hydraulic  Rev T1/E H-NBC-~4-legend.pdf
+4700f6b01a89eb9c15391814f048c342adfc75f249ad1356a272de2d63789570 *./TriCore Docs/Groundplan Take off/260701_Clubhouse Hydraulic  Rev T1/E H-NBC-~4.pdf
+35a650b75494deb384be98b59ba9bfaf4d790b8046e5b54c7b59cd3ea7305149 *./TriCore Docs/Groundplan Take off/260701_Clubhouse Hydraulic  Rev T1/F H-9C93~1-legend.pdf
+a5a2e7086b6a970b88b73b52361b45e5c7b1ba067615517eb6ab9a52e0956c2a *./TriCore Docs/Groundplan Take off/260701_Clubhouse Hydraulic  Rev T1/F H-9C93~1.pdf
+4a1ac1b60aaeda8016cdecccf7a0ac2a487ab3218e6730286f9262098af2f6cc *./TriCore Docs/Groundplan Take off/260701_Clubhouse Hydraulic  Rev T1/G H-D2FA~1.pdf
+a74a3541b0f31584b8281251a9ce3c761b58a10c48052b637c8c3470fdf4bb32 *./TriCore Docs/Groundplan Take off/260701_Clubhouse Hydraulic  Rev T1/H H-NBC-~2-legend.pdf
+d0a6ffaf737cc1174082134d7fedf73d7ea3d4adb80e2b14c835bfa6481019bc *./TriCore Docs/Groundplan Take off/260701_Clubhouse Hydraulic  Rev T1/H H-NBC-~2.pdf
+6a1a1a0b8b0c8f68f849580b28d43a2e6ff822b771345ae90744db95be768c05 *./TriCore Docs/Groundplan Take off/260701_Clubhouse Hydraulic  Rev T1/I H-7C9A~1-legend.pdf
+a566fa5cbf509a2beaa4757a948a89b7bc1b162412f7665ec281e2e33428b22b *./TriCore Docs/Groundplan Take off/260701_Clubhouse Hydraulic  Rev T1/I H-7C9A~1.pdf
+1ae19b24cf72980d652837deea435fa43ecb02e3df634312708c52730e8f99a8 *./TriCore Docs/Groundplan Take off/260701_Clubhouse Hydraulic  Rev T1/J H-ACD6~1-legend.pdf
+eb2d0ba2866fdbc6931cb4fe9c08ae82308f99fe078b594bf4b804c166bcf34a *./TriCore Docs/Groundplan Take off/260701_Clubhouse Hydraulic  Rev T1/J H-ACD6~1.pdf
+e762cf854d6106bfa23d5d5729d3a7add3d3e28ae6c2d926512b74ec7779e268 *./TriCore Docs/Groundplan Take off/260701_Clubhouse Hydraulic  Rev T1/K H-NBC-~3.pdf
+ed9f323d8c46e09bd75242e6ffa2ce97e1717761cb41d616573b65570630494b *./TriCore Docs/Groundplan Take off/260701_Clubhouse Hydraulic  Rev T1/L H-71E3~1.pdf
+8a9486d6125425be7b54eaab5dc3b08c1cad9eb9fb9d539ab0ce155930da2716 *./TriCore Docs/Groundplan Take off/260701_SITE WORK CIVIL SW REV T1/260701 Sitework Civil SW Combine T1  p1-legend.pdf
+be2adc06bc039869002408d9d8d5347abeb231788e6724197d000779fbcdffd2 *./TriCore Docs/Groundplan Take off/260701_SITE WORK CIVIL SW REV T1/260701 Sitework Civil SW Combine T1  p1.pdf
+ad581dd735e6a7d69e440d5a4fdcccdc073864aeec9381111044e86f24d44cdc *./TriCore Docs/Groundplan Take off/260701_SITE WORK CIVIL SW REV T1/260701 Sitework Civil SW Combine T1  p10.pdf
+04631c9aaa9d5dc0ec558defd9ca39bebda0d9f6e517a70542301841813b7820 *./TriCore Docs/Groundplan Take off/260701_SITE WORK CIVIL SW REV T1/260701 Sitework Civil SW Combine T1  p11.pdf
+c10f384c364b4a3fefafc00c4dc77b3e0ed7878c7b526a84a6de019f448d380e *./TriCore Docs/Groundplan Take off/260701_SITE WORK CIVIL SW REV T1/260701 Sitework Civil SW Combine T1  p12.pdf
+0944b1e5a38894173c6c1bc43f96f515f8c49cb7c98022baa6cc620ec11075f8 *./TriCore Docs/Groundplan Take off/260701_SITE WORK CIVIL SW REV T1/260701 Sitework Civil SW Combine T1  p13.pdf
+48787b9cafbfed042c04cd3ffeb1ca98e07f9d7c1f90bc5e5da3cd181c040fe5 *./TriCore Docs/Groundplan Take off/260701_SITE WORK CIVIL SW REV T1/260701 Sitework Civil SW Combine T1  p14.pdf
+55eeb75dbb2a7b0e5fdf6d9bb1f7e5ce48e45cde3a8283ca05d9af7bf6a66349 *./TriCore Docs/Groundplan Take off/260701_SITE WORK CIVIL SW REV T1/260701 Sitework Civil SW Combine T1  p15.pdf
+eb80b9943710560e03c7c5e2cdefe5ab26e15db90b61a59e73815ff0eb3143c7 *./TriCore Docs/Groundplan Take off/260701_SITE WORK CIVIL SW REV T1/260701 Sitework Civil SW Combine T1  p16.pdf
+568340d092a1db50c0c6b3676622a40903e7d15f9c8fcda0ca234b72f33c82bc *./TriCore Docs/Groundplan Take off/260701_SITE WORK CIVIL SW REV T1/260701 Sitework Civil SW Combine T1  p17.pdf
+e49a22346874ec46fe08f84ed6708d3221aa50a4d7c927481616bfa0362ebea2 *./TriCore Docs/Groundplan Take off/260701_SITE WORK CIVIL SW REV T1/260701 Sitework Civil SW Combine T1  p18.pdf
+64ba4ded35a0ab964d95604c6b19f447a111d4c27f91aa56d73617c5076a20c3 *./TriCore Docs/Groundplan Take off/260701_SITE WORK CIVIL SW REV T1/260701 Sitework Civil SW Combine T1  p19.pdf
+504a8fabbd97ed62df92c094de8aa865d9b5b298d86937c493e4974e7c682b78 *./TriCore Docs/Groundplan Take off/260701_SITE WORK CIVIL SW REV T1/260701 Sitework Civil SW Combine T1  p2-legend.pdf
+cc646ae2064c7bee45bbc5d656ccb023de5af586194aea4b9fbfbfaf1d7a974a *./TriCore Docs/Groundplan Take off/260701_SITE WORK CIVIL SW REV T1/260701 Sitework Civil SW Combine T1  p2.pdf
+353f1f5165f9e4e54f817e6063cda41446cfc99a9a71f13618198066a3ee8c83 *./TriCore Docs/Groundplan Take off/260701_SITE WORK CIVIL SW REV T1/260701 Sitework Civil SW Combine T1  p20.pdf
+ef2f1b1abd8617ced8fd2208ba8c964745bec15d312b8c49f3fce2aa8a144c0c *./TriCore Docs/Groundplan Take off/260701_SITE WORK CIVIL SW REV T1/260701 Sitework Civil SW Combine T1  p21.pdf
+359fe011334d611fe6d6b92ce2448a21ce157dad7753ebcd639d77376384dfb0 *./TriCore Docs/Groundplan Take off/260701_SITE WORK CIVIL SW REV T1/260701 Sitework Civil SW Combine T1  p22.pdf
+72ae944e7c735b1b04b6ee125f1b7d20c38ebfd90d72e55fb31ff2647861c2ec *./TriCore Docs/Groundplan Take off/260701_SITE WORK CIVIL SW REV T1/260701 Sitework Civil SW Combine T1  p23.pdf
+522e5ccf4b9832c6e4c9930dfa5e1222d9462910a36bb3a9d9bbacbc27286ded *./TriCore Docs/Groundplan Take off/260701_SITE WORK CIVIL SW REV T1/260701 Sitework Civil SW Combine T1  p24.pdf
+037ecde672aadd269cb6e99636631d179be6cf1b56ead37a849f88d89bfe6115 *./TriCore Docs/Groundplan Take off/260701_SITE WORK CIVIL SW REV T1/260701 Sitework Civil SW Combine T1  p25.pdf
+7d39479323b296c9604565c318f0efb0f5d2d1c8237c385ef3e884e331c4c0cc *./TriCore Docs/Groundplan Take off/260701_SITE WORK CIVIL SW REV T1/260701 Sitework Civil SW Combine T1  p26.pdf
+c8d3884458ee368fdec105f7630852cb7a101f636b8be50266c57e2d1b17cf50 *./TriCore Docs/Groundplan Take off/260701_SITE WORK CIVIL SW REV T1/260701 Sitework Civil SW Combine T1  p27.pdf
+72ca027907a0440a97d6eccecbb951cd0b8574bc3bf84fa72bbe2df297cb230a *./TriCore Docs/Groundplan Take off/260701_SITE WORK CIVIL SW REV T1/260701 Sitework Civil SW Combine T1  p3-legend.pdf
+34f9302be3cc0e4596a8f30593dacbd7dcafb53cb0664f64c938c1742e2ad8de *./TriCore Docs/Groundplan Take off/260701_SITE WORK CIVIL SW REV T1/260701 Sitework Civil SW Combine T1  p3.pdf
+3a5aceaf79e1b41b84e08ef0741b278bd31b5a9405a1b6c34644a03ac1bfda4f *./TriCore Docs/Groundplan Take off/260701_SITE WORK CIVIL SW REV T1/260701 Sitework Civil SW Combine T1  p4-legend.pdf
+f4e8a5e780a6b2ccdde38acbce7da86dc10ab63f101a0de3d4b1bbf3020bb834 *./TriCore Docs/Groundplan Take off/260701_SITE WORK CIVIL SW REV T1/260701 Sitework Civil SW Combine T1  p4.pdf
+e9370852644e51efa4dc95e1c57f049f731749abc214c42fd2a1b026c6101b25 *./TriCore Docs/Groundplan Take off/260701_SITE WORK CIVIL SW REV T1/260701 Sitework Civil SW Combine T1  p5-legend.pdf
+c308070d46f891f1c05cce228d3584c2aab3648233ecaac4b26c58364b1cddd5 *./TriCore Docs/Groundplan Take off/260701_SITE WORK CIVIL SW REV T1/260701 Sitework Civil SW Combine T1  p5.pdf
+9fec10439a6ff89967abc11ffa488cb7a50cc39cb7cb9866cc59542a18c4de1d *./TriCore Docs/Groundplan Take off/260701_SITE WORK CIVIL SW REV T1/260701 Sitework Civil SW Combine T1  p6-legend.pdf
+e48722a23c4737389515f3a879edad0484d68222a9a1506f2343697b8f6ef112 *./TriCore Docs/Groundplan Take off/260701_SITE WORK CIVIL SW REV T1/260701 Sitework Civil SW Combine T1  p6.pdf
+4f7b035b8155f1a3df10b1a8dd99cfb8559457b863cff0cc8d52a9818e4c50b1 *./TriCore Docs/Groundplan Take off/260701_SITE WORK CIVIL SW REV T1/260701 Sitework Civil SW Combine T1  p7.pdf
+9a3f1e6000827fb0c99027d3d2c4b91c886fa12c59329f7c6be84e2ed4db557a *./TriCore Docs/Groundplan Take off/260701_SITE WORK CIVIL SW REV T1/260701 Sitework Civil SW Combine T1  p8.pdf
+a7f79a998c02761de279262d86016ac00322358447e261ed741cb66a4355fd1e *./TriCore Docs/Groundplan Take off/260701_SITE WORK CIVIL SW REV T1/260701 Sitework Civil SW Combine T1  p9.pdf
+92396b0cd299400b6cd1f31022e9b2165cd2c946e42a6dbd7c284d87dcf3ba94 *./TriCore Docs/Groundplan Take off/260701_Sitework Hydraulic Rev T1/H001-T~1.pdf
+f6226fe2587d1137d2fa095943f9f80091920325e5c6295bef09888064b0c3b2 *./TriCore Docs/Groundplan Take off/260701_Sitework Hydraulic Rev T1/H002-T~1.pdf
+80a4f0c3fa20aa47d9316f63bf180b778a9c331d879a92cfd7079468ce079e9f *./TriCore Docs/Groundplan Take off/260701_Sitework Hydraulic Rev T1/H003-T~1-legend.pdf
+6d73d1a9b2929373dcee1c0ebf5d7314baace0999f1ea5a2cfcf2956ebbf2940 *./TriCore Docs/Groundplan Take off/260701_Sitework Hydraulic Rev T1/H003-T~1.pdf
+bfc0c2e605f4a3a5d8f2db75d960a6369e822ffdd3cb5482272ee25a2c0e0c6b *./TriCore Docs/Groundplan Take off/260701_Sitework Hydraulic Rev T1/H300-T~1.pdf
+4bd4354d9fe5ac0d68bd0d2ff0ad817f3206d191afccb2ce13ee0c028a6a036b *./TriCore Docs/Groundplan Take off/260701_Sitework Hydraulic Rev T1/QCPS32~A01.pdf
+13c0382914ef9dcb61b22a41c8bf6513b3785f215b99f5180b31e3c25867b61e *./TriCore Docs/Groundplan Take off/260701_Sitework Hydraulic Rev T1/QCPS32~A02.pdf
+e4792a0bd5379c04e4c5ad1494b5392844e246ccbebd1a58ea017d5730e9fe7f *./TriCore Docs/Master Cost Sheets/CQU Examples/CQU_TAFE- Civil Example.xlsx
+731693b01d24c6eeb0a3dc1150b4574bedb38da76d9014bc8589ac710767f19e *./TriCore Docs/Master Cost Sheets/CQU Examples/CQU_TAFE- HYD Example.xlsx
+08ab21f4b4c4af0b0c602175e1813acc8a2999de5dc095fbfddecee02734e8ca *./TriCore Docs/Master Cost Sheets/MasterCostSheet_Civ.V1.xlsx
+2828741c713afc8de5407cdc15864c3dde97a7478a811032f671b7242ebdb82e *./TriCore Docs/Master Cost Sheets/MasterCostSheet_Hyd.V1.xlsx
+728446fa381ea14a5655646b1c240d0c5e6830c957d961c97b19e8627b9ac571 *./TriCore Docs/Submission EXAMPLES/BACPLAY_Civil_SW.1.docx
+bad31128913194ae004397c7ce23e7ddb39546064144e31fc2b0d2101b5406cc *./TriCore Docs/Submission EXAMPLES/CQUTafe_CIV SW.docx
+2828a8486e76849fa1cb4351e99bc82ec0eab66dd33af45a6611d2d952f1fe71 *./TriCore Docs/Submission EXAMPLES/CQUTafe_HYD.docx
+a244939288d75d02beee18070cb1d55b64a55f5b5a6c2d1bdb85351daf1f26c3 *./TriCore Docs/Submission EXAMPLES/Limestone Creek - Tender Letter & Methodology.docx
+c5a8220228f37284248a076fadcecbeaf2e6c5dd00dd9d64c796d05d75e11def *./TriCore Docs/Submission EXAMPLES/SPS_CIVSW_Tender_Proposal_Q2380.docx
+b87f29c775fef8f3298ca70407e1021ab5e058fd5e62fce8ee9c3b23d4fd9216 *./TriCore Docs/Submission EXAMPLES/SPS_HYD_Tender_Proposal_Q2381.docx
+28cc38d59a5042bc312c20a3fb276a864e17ae4585051e4595acb4cfacdb3f48 *./TriCore Docs/Submission EXAMPLES/Testimonials/CQU Testimonial Letter.pdf
+52dd90e1e3b6975a9e270e9015729bb66df42d97eea7be264151037066bd55cd *./TriCore Docs/Submission EXAMPLES/Testimonials/GHD Testimonial Letter.pdf
