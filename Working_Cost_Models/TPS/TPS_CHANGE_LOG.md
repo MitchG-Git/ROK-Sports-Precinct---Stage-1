@@ -393,3 +393,77 @@ Current effective margin on this equipment is **14.49%** against the model's **4
 
 *Repairs 1–11 executed 26 Jul 2026; repair 12 (Rule 4 equipment test) 27 Jul 2026. Original master workbook unmodified.*
 *Outputs: `Working_Cost_Models\TPS\ROK_TPS_CostModel_V2.xlsx` · `Working_Cost_Models\TPS\TPS_CHANGE_LOG.md` · `_Tender_Control\07_Commercial_Reconciliation\EQUIPMENT_TEST_TPS.md`.*
+
+---
+
+## Repair 13 — Compaction testing quantities populated for PAM and Siteworks (Phase A remediation, 27 July 2026)
+
+**Director decision: compaction testing is INCLUDED.** Closes UC-05 / FAIL 3 on the cost side — the claim at submission §77 (*"Compaction testing of our own trench backfill at the allowance carried…"*) was package-wide with no work-area qualifier, but only `ClubHouse (NBC )` carried a quantity. `Public Amenities (PAM)` and `Siteworks ` held the identical rate lines at **zero**, with Siteworks carrying the longest trench runs in the entire package.
+
+Native Excel recalculation forced via COM after editing: **5,213 formulas · 0 errors · 0 `#REF!`/`#VALUE!`/`#DIV/0!` · 0 external references · 0 formulas without a computed result.**
+
+### Cells changed — before / after
+
+| Cell | Item | Before | After | Value |
+|---|---|---:|---|---:|
+| `Public Amenities (PAM)`!D145 | Compaction Testing - TEST | *(blank)* → $0 | `=ROUNDUP(C876*'ClubHouse (NBC )'!$D$147/'ClubHouse (NBC )'!$C$955,0)` | **3 ea** → **$345.00** |
+| `Public Amenities (PAM)`!D146 | Compaction Testing - Site Establishment | *(blank)* → $0 | `=ROUNDUP(D145/('ClubHouse (NBC )'!$D$147/'ClubHouse (NBC )'!$D$148),0)` | **1 ea** → **$90.00** |
+| `Siteworks `!D145 | Compaction Testing - TEST | *(blank)* → $0 | `=ROUNDUP(C886*'ClubHouse (NBC )'!$D$147/'ClubHouse (NBC )'!$C$955,0)` | **36 ea** → **$4,140.00** |
+| `Siteworks `!D146 | Compaction Testing - Site Establishment | *(blank)* → $0 | `=ROUNDUP(D145/('ClubHouse (NBC )'!$D$147/'ClubHouse (NBC )'!$D$148),0)` | **10 ea** → **$900.00** |
+
+Note cells `Public Amenities (PAM)`!H145, H146 and `Siteworks `!H145, H146 carry the full derivation. Rates untouched — `Misc Subbie Rates_Master`!D72 ($115/test) and D73 ($90/establishment), both already linked at E145/E146 on all three sheets. **`ClubHouse (NBC )`!D147 (15) and D148 (4) are unchanged** — NBC remains the reference basis.
+
+### Derivation — TEST count (per trench metre)
+
+Quantities were **derived, not copied**. NBC's 15 tests were tested against NBC's own adopted trench length:
+
+- `ClubHouse (NBC )`!C955 = **387.68 m** (`=SUM(D366:D370)+D724+D741+D742+D813` — the sheet's own in-ground pipe roll-up that also drives the bedding-sand and spoil-haulage helpers)
+- 15 tests ÷ 387.68 m = **1 test per 25.8 m**
+
+That frequency is **independently corroborated by the specification**: VOL 38 cl **3.62** compaction schedule mandates **1 test per 25 m in vehicular locations**, 1 per 50 m elsewhere, and 2 per layer at pits/pump stations (`_Tender_Control\01_Document_Register\notes\vol38_spec_pp1-77.md` lines 59 and 87). The model's NBC basis and the spec agree, so the NBC-derived ratio was adopted and written as a **live formula** rather than a literal.
+
+Applied to each sheet's own adopted trench metres:
+
+| Work area | Trench metres (cell) | x 15 / 387.68 | Adopted (ROUNDUP) |
+|---|---:|---:|---:|
+| ClubHouse (NBC) — reference | 387.68 (`C955`) | 15.00 | **15** (unchanged) |
+| Public Amenities (PAM) | 71.36 (`C876`) | 2.76 | **3** |
+| Siteworks | 924.56 (`C886`) | 35.77 | **36** |
+
+**Sanity check passes:** Siteworks (36) exceeds NBC (15) as it must — Siteworks carries the O200 site main (134.63 m), the 125 CW spine (236.88 m), the 125 fire main (217.73 m) and the 207.53 m gravity sewer, i.e. the great majority of trench length in the package.
+
+### Derivation — SITE ESTABLISHMENT count (per visit, derived separately)
+
+Establishment is a **per-mobilisation lab charge and does not scale with metres**, so it was derived on a separate basis: NBC's own **batching ratio** of tests presented per visit.
+
+- `ClubHouse (NBC )`!D147 ÷ D148 = 15 tests ÷ 4 establishments = **3.75 tests per lab visit**
+- PAM: 3 ÷ 3.75 = 0.80 → **1 visit**
+- Siteworks: 36 ÷ 3.75 = 9.60 → **10 visits**
+
+**Cross-checked two ways.** (i) The same answers fall out of NBC's visit *density* — 387.68 m ÷ 4 visits = 1 visit per 96.9 m; PAM 71.36 ÷ 96.9 = 0.74 → 1, Siteworks 924.56 ÷ 96.9 = 9.54 → 10. (ii) The result is consistent with the programme's own mobilisation logic: `PROGRAMME_LABOUR_PLANT.xlsx`!`TPS_Activities` **T1-12** carries a remobilisation allowance on the basis of *"3 separate mobilisations assumed (site mains / rough-in / fit-off)"*, with Siteworks spanning several separate service runs across the whole programme window.
+
+### Effect on the total
+
+The new rows sit inside each sheet's SUB TOTALS (`Public Amenities (PAM)`!F857 `=SUM(F15:F856)`; `Siteworks `!F867 `=SUM(F15:F866)`) and therefore attract each sheet's existing **x1.18 contingency** (`F860`/`F870`) before flowing to the 41.5% markup chain — the destination sheets' own conventions, unchanged.
+
+| | Cost added | After x1.18 | Sell added |
+|---|---:|---:|---:|
+| Public Amenities (PAM) | $435.00 | $513.30 | $726.32 |
+| Siteworks | $5,040.00 | $5,947.20 | $8,415.29 |
+| **Total** | **$5,475.00** | **$6,460.50** | **+$9,141.61** |
+
+| | Before | After |
+|---|---:|---:|
+| PAM sheet total `F864` | $109,134.30 | **$109,647.60** |
+| Siteworks sheet total `F874` | $447,371.10 | **$453,318.30** |
+| Stage 1A total `TCS $ Sched`!N83 | $1,743,304.82 | **$1,751,720.11** |
+| Stage 1B total `TCS $ Sched`!N86 | $266,489.36 | **$267,215.68** |
+| **GRAND TOTAL ex GST (`TCS $ Sched`!N87)** | **$2,009,794.18** | **$2,018,935.78** |
+
+**Movement +$9,141.61 (+0.455%).** Locked baseline $2,009,794.18, 2% band **$1,969,598.30 – $2,049,990.06** — **PASS, comfortably inside**. Tie check `TCS $ Sched`!N88 (`=N64+N78-N87`) = **0**.
+
+### Open item carried
+
+The submission wording at §77 is now **backed by cells on all three work areas** and no longer needs narrowing. Phase B should verify the sentence still reads correctly against the adopted counts (15 / 3 / 36 tests and 4 / 1 / 10 establishments) and against the standard cited at Appendix B query C13 — VOL 38 cl 3.62 also mandates **2 tests per layer at pits and pump stations**, which is not separately quantified in any of the three counts and remains inside the per-metre allowance.
+
+**Authority:** Director decision of 27 July 2026 — compaction testing included; quantities to be derived from the NBC basis rather than copied.

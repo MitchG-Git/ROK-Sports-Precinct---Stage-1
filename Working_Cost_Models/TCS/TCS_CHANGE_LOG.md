@@ -187,3 +187,124 @@ The Leading Hand is **row 13 of the work-area labour block**, extending straight
 The movement is exactly **$159,556.11 × 1.415 = $225,771.90** — the LH supervision cost now correctly attracting prelims, overhead and profit as direct cost does, instead of being absorbed inside a fixed 5.5% pool that could not fund it.
 
 **Net commercial effect:** the offer rises $225,772, and the prelims pool swings from a $119,146 shortfall to a $49,186 surplus. Supervision is recovered properly rather than eroding overhead and profit.
+
+---
+
+## 10. PHASE A REMEDIATION — 27 JULY 2026 (Director-authorised)
+
+Three surgical edits executed on `ROK_TCS_CostModel_V2.xlsx` under the "cell before sentence, both directions" standard. Native Excel recalculation forced via COM after editing: **600 formulas · 0 errors · 0 `#REF!`/`#VALUE!`/`#DIV/0!` · 0 external references · 0 formulas without a computed result.**
+
+### 10.1 Headline movement
+
+| | Before | After | Movement |
+|---|---:|---:|---:|
+| Stage 1A lump sum | $2,761,814.98 | **$2,815,365.59** | +$53,550.62 |
+| WSUD PC sum | $111,787.74 | $111,787.74 | unchanged |
+| Stage 1A incl PC | $2,873,602.72 | **$2,927,153.33** | +$53,550.62 |
+| Stage 1B lump sum | $113,131.26 | **$117,646.13** | +$4,514.87 |
+| **GRAND TOTAL ex GST (`TCS $ Sched`!D46)** | **$2,986,733.98** | **$3,044,799.46** | **+$58,065.49 (+1.944%)** |
+
+**Tolerance band check: PASS, but at the margin.** Locked baseline $2,986,733.98, 2% band $2,926,999.30 – $3,046,468.66. The new total sits **$1,669.20 below the upper limit (1.944% of a permitted 2%)**. Any further base addition of more than about $1,180 of pre-contingency material cost will breach the band.
+
+**Component split reconciles:** $2,815,365.59 (1A lump sum) + $111,787.74 (WSUD PC) + $117,646.13 (1B lump sum) = **$3,044,799.46** = `TCS $ Sched`!D46. Verified.
+
+### 10.2 Edit 1 — RPEQ certification EXCLUDED (Director decision, both entities)
+
+| Cell | Before | After |
+|---|---|---|
+| `Prelim_OH`!C26 | `1` (lot) | **`0`** |
+| `Prelim_OH`!F26 (`=C26*E26`) | `$3,500.00` | **`$0.00`** |
+| `Prelim_OH`!E26 | `3500` | `3500` — **rate retained for reference** |
+| `Prelim_OH`!G26 | "Estimator allowance; surveyor pickup attendance already in Stage subbies." | Rewritten — records the Director decision, the date, and the as-constructed consequence below |
+
+Row **not deleted**; quantity zeroed and annotated so the audit trail survives — the same convention already used for the Leading Hand row at `Prelim_OH`!B6.
+
+**Cascade chain (verified cell by cell):**
+`Prelim_OH`!F26 → `Prelim_OH`!F29 (`=SUM(F5:F27)`) **$62,561.25 → $59,061.25** → `Prelim_OH`!F32 variance and F33 variance %. **The chain stops there.** `Prelim_OH` is a bottom-up cross-check sheet only — its own header (`Prelim_OH`!B2) states *"Items here are NOT added to the sell — they are funded from the 5.5% pool"*, and the sell computes prelims independently at `TCS $ Sched`!D21 (`=D20*$C$8`) and D41 (`=D40*$C$8`). **Removing the $3,500 therefore has ZERO effect on the grand total.** The entire +$58,065.49 movement above comes from Edit 2.
+
+Post-edit prelims cross-check: allowance `Prelim_OH`!F31 **$114,003.99** (risen with the Edit 2 cost base) vs bottom-up F29 **$59,061.25** → surplus **$54,942.74**, bottom-up **48.2% below** the allowance (was 44.0%).
+
+> **FLAGGED FOR THE DIRECTOR — NOT ACTED ON.** The removed line read *"RPEQ certification **+ as-constructed drawing preparation**"*. Removing $3,500 removes **both**. As-constructeds are now **partially but not wholly covered**: ADAC XML preparation + validation remains separately priced at `Prelim_OH`!B25/F25 (**$4,500**), and as-constructed survey / ADAC attendance labour remains at `Stage1A_Drainage` A-10 (3 crew-days) and `Stage1B_Drainage` A-13, with surveyor as-con pickup at `Stage1A_Drainage`!C126 (5 days). What is now unpriced is the **RPEQ certification itself and the drafting of the as-constructed drawing sheets**. **No compensating adjustment has been made.** Stated here as a factual consequence for decision.
+
+### 10.3 Edit 2 — Grated-trench bedding/surround priced into base (locked §5.3)
+
+**Basis adopted: CONCRETE SURROUND + CRUSHED ROCK BASE, measured off the dimensioned drawing detail — not the pipe-trench quarry factor.**
+
+The prior audit (`EQUIPMENT_TEST_TCS.md` §5, `UNBACKED_CLAIMS_AUDIT.md` UC-03) recorded that *"no Hauraton install guide, manufacturer detail or drawing note exists anywhere in the repository"* and treated the basis as a Rule 2 "cannot determine". **That finding is superseded.** The detail does exist and is dimensioned, on the tendered drawing set:
+
+**Source: VOL 15 `SE_12306_F1320-T1` STORMWATER DRAINAGE DETAILS SHEET 1** — three typical sections, read directly off the PDF and cross-checked against the register transcription at `_Tender_Control\01_Document_Register\notes\vol15_layouts_pits_details.md` line 80 (*"Pro 200 Type 010 trench (concrete surround, crushed rock base)"*):
+
+| Detail | Concrete surround | Channel body | Crushed rock base |
+|---|---|---|---|
+| HAURATON RECYFIX PRO 200 TYPE 10 / TYPE 010 TRENCH | **500 wide** (119 + 262 + 119) x **350 deep** (200 channel + 150 under) | 262 x 200 | **100 thick**, 150 beyond concrete each side = **800 wide** |
+| HAURATON RECYFIX PRO 100 TYPE 010 TRENCH | **450 wide** (145 + 160 + 145) x **350 deep** | 160 x 200 | **100 thick**, 150 each side = **750 wide** |
+
+Channel depth 200 mm is confirmed independently by F1320 note 1 (*"all grated trench depths are 200 mm"*).
+
+Derived unit volumes: concrete **PRO200 = 0.500 x 0.350 − 0.262 x 0.200 = 0.1226 m3/m**; **PRO100 = 0.450 x 0.350 − 0.160 x 0.200 = 0.1255 m3/m**. Crushed rock **PRO200 = 0.080 m3/m**; **PRO100 = 0.075 m3/m**.
+
+**Rows added** (inserted via Excel COM so every downstream reference re-pointed natively; new IDs Q4/Q5 in 1A and Q2/Q3 in 1B do not collide with existing IDs, which retain their meaning in all existing registers):
+
+| Cell | Item | Formula | Qty | Rate | Total |
+|---|---|---|---:|---:|---:|
+| `Stage1A_Drainage`!A64:G64 (**Q4**) | Concrete surround, GT1–GT4 + GT7–GT9 | `=ROUND(C54*0.1226+C55*0.1255,1)` | **68.9 m3** | `=Materials_Master!$H$75` $400/m3 | **$27,560.00** |
+| `Stage1A_Drainage`!A65:G65 (**Q5**) | Crushed rock base, GT1–GT4 + GT7–GT9 | `=ROUND((C54*0.08+C55*0.075)*2.1,0)` | **94 T** | `=Materials_Master!$H$77` $48/T | **$4,512.00** |
+| `Stage1B_Drainage`!A12:G12 (**Q2**) | Concrete surround, GT5 + GT6 | `=ROUND(C8*0.1226+C7*0.1255,1)` | **5.8 m3** | `=Materials_Master!$H$75` $400/m3 | **$2,320.00** |
+| `Stage1B_Drainage`!A13:G13 (**Q3**) | Crushed rock base, GT5 + GT6 | `=ROUND((C8*0.08+C7*0.075)*2.1,0)` | **8 T** | `=Materials_Master!$H$77` $48/T | **$384.00** |
+
+Quantities are **live formulas driven off the GT length cells themselves** — `Stage1A_Drainage`!C54 (GT1–GT4, 548.8 m) and C55 (GT7–GT9, 13.1 m) = 561.9 m, matching the C-06 labour note; `Stage1B_Drainage`!C8 (GT6, 31.4 m) and C7 (GT5, 15.2 m) = 46.6 m. Total 608.5 m = the F1320 schedule sum.
+
+**Rate selection.** Concrete = `Materials_Master` **M65** (`H75`, $400/m3) — the model's own concrete rate, whose description already reads *"Concrete 32 MPa (spillway/**surrounds**)"* (source: old Civ rate table `SW_Mataterial`!E362). Crushed rock base = `Materials_Master` **M67** (`H77`, $48/T, Type 2.3 sub-base, ex old Civ CBR15 rate `SW_Mataterial`!E359) — a compacted crushed-rock base course, which is what the drawing calls up, **not** the 5–7 mm single-sized drainage bedding stone of M62. Both carry factor 1 (no directed category escalation; 2027 risk sits inside the x1.18 contingency), consistent with every other concrete/quarry rate in the model.
+
+**m3 to tonne conversion 2.10 T/m3** is the model's own implied Type 2.3 density, not an imported assumption: `EBC`!C20 carries 13 T of Type 2.3 sub-base against the `EBC`!C18 spillway geometry of 50 x 1.65 = 82.5 m2 x 0.075 m = 6.19 m3, giving 13 / 6.19 = 2.10.
+
+**Contingency and markup follow the destination sheets exactly** — the new rows sit inside `Stage1A_Drainage`!F74 (`=SUM(F6:F73)`, materials subtotal) which carries x1.18 at F75/F76, and inside `Stage1B_Drainage`!F16 with x1.18 at F17/F18; both then flow to the 41.5% chain unchanged.
+
+**Effect:** materials +$32,072.00 pre-contingency in 1A and +$2,704.00 in 1B (**+$34,776.00 total**) → +$41,035.68 after x1.18 → **+$58,065.49 of sell**.
+
+> **Recorded against the prior estimate.** The indicative figure carried in `EQUIPMENT_TEST_TCS.md` and `UNBACKED_CLAIMS_AUDIT.md` was about $7,626 pre-contingency, computed by applying the pipe-trench factor 0.203 T/m x $62/T to the 608.5 m run. That proxy is **4.6x too low** because it priced loose bedding stone only and no concrete. The audit itself flagged the proxy as unvalidated and warned that *"concrete haunching is at least as plausible a requirement and would carry a different, likely higher, cost"* — the drawing confirms it, and it does. The $7,626 sanity check is therefore **not met, correctly**: the measured detail governs (Rule 2).
+
+**Labour not adjusted.** `Stage1A_Drainage` C-06 (23 crew-days, 561.9 m) and `Stage1B_Drainage` C-08 (3 crew-days, 46.6 m) already state *"REINSTATED incl excavation & quarry"*. **FLAG:** those crew-day rates were built at 25 m/day with no benchmark and with the concrete-surround detail expressly *"not re-verified"* (`LABOUR_REVIEW_PACK.md` line 85). Placing, screeding and curing 74.7 m3 of surround concrete to a channel line may not sit inside 26 crew-days. **Not adjusted here — outside the authorised scope of this edit, and any addition would breach the 2% band.** Raised for Phase B.
+
+Cross-checked against the old workbook: `MasterCostSheet_Civ.V1.xlsx`!`SW_Mataterial` B243:I257 (the $164,860.30 set-aside at K258) contains **channel, end caps, trash boxes and transport only** — no quarry, no concrete. Its quarry table at B340:N351 is driven off `C310`/`C314` = **1,883 m of pipe trench only**. **GT bedding/surround was never priced in the old model either**, so no corroborating quantity existed and none was assumed.
+
+### 10.4 Edit 3 — E2 detention basin / concrete spillway: EXCLUDED, add-price retained
+
+**Decision recorded: EXCLUDE. Base stays $0. NOT converted to a Provisional Sum. NOT added to any total.**
+
+| Cell | Before | After |
+|---|---|---|
+| `EBC`!G24 | "Reinstatement: set Stage1A_Drainage labour B-07 = 10 cd; enter spillway material rows at X1; add 5 plant-days 3-5T." | Rewritten — records the Director disposition, the sub-component verification and the no-double-count confirmation |
+
+The `EBC` E2 add-price **$52,523.57** (`EBC`!F24) is **unchanged and intact** as a Rule 5 internal reinstatement price. `EBC`!B18:F23 untouched.
+
+**Sub-component verification (required before accepting the exclusion) — RESULT: NO pipe, pit or scour-pad element is bundled into E2.** Every component opened and tested against the Director's three limbs, against `SE_12306_F1323-T1` (spillway sections) and `SE_12306_F1305-T1` (basin layout):
+
+| `EBC` cell | Component | Pipe? | Pit? | Scour pad off a headwall? | Verdict |
+|---|---|---|---|---|---|
+| B18 | Spillway concrete 25 MPa, 125 thk x 50 m weir + 1.5 m aprons, 10.3 m3 | No | No | No — an overflow weir slab on the embankment crest at RL 29.700, not energy dissipation at a structure outlet | Excluded |
+| B19 | SL72 mesh central, 12 sheets | No | No | No | Excluded |
+| B20 | Type 2.3 sub-base 75 mm, 13 T | No | No | No | Excluded |
+| B22 | Labour B-07, 10 crew-days | — | — | — | Excluded |
+| B23 | Plant, 5 days 3–5 T + concrete gear | — | — | — | Excluded |
+
+**The basin's genuine pipe / pit / scour-pad elements are separate line items and are ALREADY IN BASE** — they were never part of E2 and are not affected by this exclusion:
+
+- `Stage1A_Drainage`!A61 **R3** — Basin rock D50 = 500 x 900 deep, C10 inlet/outlet, 236.997 m3 @ $110 = **$26,069.67** (this *is* the scour protection off the basin headwalls, per F1305/F1321)
+- `Stage1A_Drainage`!A32 **C6** — LBC 2700x1200 crowns, C10 basin outlet, 8 ea = **$47,135.60**
+- `Stage1A_Drainage`!A43 **H11** — BCC headwalls 2700x1200 (C10A/B), 2 ea = **$10,482.90**
+- `Stage1A_Drainage`!C96 **C-01** labour — C10 RCBC basin outlet, 6 crew-days
+
+**No sub-component requires promotion into base.**
+
+**No-double-count confirmed by direct cell read after recalculation:** `Stage1A_Drainage`!C67 (row X1, *"DETENTION BASIN EARTHWORKS / CONCRETE SPILLWAY — NOT PRICED"*) = **0**, F67 = **$0.00**; `Stage1A_Drainage`!C96 (labour **B-07**, *"Concrete spillway weir 50 m — HELD AT 0"*) = **0** crew-days, F96 = **$0.00**. (Both rows moved down two by the Edit 2 insertion — previously rows 65 and 94.)
+
+Basin **bulk earthworks** remain unpriceable in any form: never quantified in any drawing (F1305 annotation only), per `EBC`!B17 — unchanged.
+
+**Phase B action carried:** client-facing exclusion sentence still required in the submission. Its sibling exclusion (kerb chutes, `EBC` E1) is disclosed; this one is not. That is the whole of UC-07 and it is **not closed by this edit** — only the model side is.
+
+### 10.5 Cells changed — complete list
+
+`Prelim_OH`!C26 · `Prelim_OH`!G26 · `Stage1A_Drainage`!A64:G64 (inserted) · `Stage1A_Drainage`!A65:G65 (inserted) · `Stage1B_Drainage`!A12:G12 (inserted) · `Stage1B_Drainage`!A13:G13 (inserted) · `EBC`!G24. Nothing else was edited. Row insertions were performed natively in Excel so all downstream references re-pointed automatically — verified: `TCS $ Sched`!D15 now `=Stage1A_Drainage!$F$76`, D35 now `=Stage1B_Drainage!$F$18`, `Prelim_OH`!F31 now `=0.055*(Stage1A_Drainage!$F$138+Stage1B_Drainage!$F$44)`.
+
+**Authority:** Director decisions of 27 July 2026 — RPEQ excluded (both entities); GT quarry/bedding priced into base per locked §5.3; E2 detention basin / spillway excluded on the pipe-pit-scour-pad test with the add-price retained internally.
