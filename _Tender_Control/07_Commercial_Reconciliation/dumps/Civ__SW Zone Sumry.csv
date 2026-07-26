@@ -1,0 +1,178 @@
+﻿cell,formula,cached_value
+B1,,Project: 
+B2,,Tricore   -
+B3,,Stage 1 Version 1
+A4,,Item  
+A8,,B
+B8,,Labour
+H9,,TOTAL Labour
+B10,,From Proposed Program
+H11,=SUM(F13:F19),0
+B12,,DAY
+B13,,TRADESMAN_LEADING HAND
+C13,,Day
+E13,='Staff Rates'!E17,822.5
+F13,=E13*D13,0
+B14,,CREW - Fire & WAT
+C14,,Day
+E14,='Staff Rates'!E24,2152.5
+F14,=E14*D14,0
+B15,,CREW - Drainage
+C15,,Day
+E15,='Staff Rates'!E24,2152.5
+F15,=E15*D15,0
+B16,,CREW #3
+C16,,Day
+E16,='Staff Rates'!E31,2152.5
+F16,=E16*D16,0
+B17,,T/A & Apprentice
+C17,,Day
+E17,='Staff Rates'!E52,612.5
+F17,=E17*D17,0
+B18,,TRADESMAN.1
+C18,,Day
+E18,='Staff Rates'!E45,770
+F18,=E18*D18,0
+B19,,TRADESMAN.2
+C19,,Day
+E19,='Staff Rates'!E45,770
+F19,=E19*D19,0
+B21,,HOUR
+B22,,TRADESMAN_LEADING HAND
+C22,,HR
+E22,,0
+F22,=E22*D22,0
+B23,,TRADESMAN_PLUMBER_OPERATOR
+C23,,HR
+E23,,0
+F23,=E23*D23,0
+B24,,T/A & Apprentice
+C24,,HR
+E24,,0
+F24,=E24*D24,0
+B25,,Crew #1
+C25,,HR
+E25,,0
+F25,=E25*D25,0
+B26,,Crew #2
+C26,,HR
+E26,,0
+F26,=E26*D26,0
+A28,,C
+B28,,"Equipment, Hire, Subbies"
+H28,,TOTAL Equip
+B30,,Skid Steer Loader_Wheeled
+C30,,ea
+E30,,300
+F30,=E30*D30,0
+H30,=SUM(F30:F39),0
+B31,,Skid Steer Loader_Wheeled
+C31,,ea
+E31,,300
+F31,=E31*D31,0
+B32,,8Ton_Excavator
+C32,,ea
+E32,,300
+F32,=E32*D32,0
+B33,,20-24Ton_Excavator
+C33,,ea
+E33,,450
+F33,=E33*D33,0
+B34,,14-16Ton_Excavator
+C34,,ea
+E34,,440
+F34,=E34*D34,0
+B35,,6-12T_Tipper Truck
+C35,,ea
+E35,,400
+F35,=E35*D35,0
+B36,,<10T_Articulated Site Tipper
+C36,,ea
+E36,,341
+F36,=E36*D36,0
+B37,,Trench Roller_Dbl Drum_Remote
+C37,,ea
+E37,,180
+F37,=E37*D37,0
+B38,,Trench Roller_Dbl Drum_Remote
+C38,,ea
+E38,,180
+F38,=E38*D38,0
+B39,,<26Ft_Scissor Lift - Diesel
+C39,,ea
+E39,,150
+F39,=E39*D39,0
+B40,,Compaction Testing
+C40,,ea
+E40,,122
+F40,=E40*D40,0
+B41,,CCTV
+C41,,ea
+E41,,1680
+F41,=E41*D41,0
+B42,,Misc Hire/Tooling
+C42,,ea
+E42,,1680
+F42,=E42*D42,0
+B43,,"Flushing, protections"
+C43,,ea
+E43,,1680
+F43,=E43*D43,0
+B44,,Spoil removal
+C44,,ea
+E44,,4200
+F44,=E44*D44,0
+B46,,Maximesh to one pit
+C46,,ea
+E46,,1680
+F46,=E46*D46,0
+B47,,Pit customoziation
+C47,,ea
+E47,,1680
+F47,=E47*D47,0
+B48,,Humesceptor Crane Hire
+C48,,ea
+E48,,2677
+F48,=E48*D48,0
+B50,,Fuel - Diesel_Machinery & Equip/WEEK (Average)
+C50,,ea
+D50,,0
+E50,,2500
+F50,=E50*D50,0
+E51,,"**Mini tankers Avg 6,000/Mnth"
+A53,,D
+B53,,Material
+B55,,Material; 
+C55,,ea
+D55,,1
+E55,=SW_Mataterial!F302,502184.985
+F55,=E55*D55,502184.985
+B56,,Inground Quarry Products; Complete
+C56,,ea
+D56,,1
+E56,=SW_Mataterial!N343,33179.2132
+F56,=E56*D56,33179.2132
+B57,,MANHOLE Concrete
+C57,,ea
+D57,,1
+E57,=SW_Mataterial!H337,0
+F57,=E57*D57,0
+B58,,FILTER Install Inc Gravels & Crane
+C58,,ea
+D58,,0
+E58,,2120
+F58,=E58*D58,0
+B59,,Lean mix stab sand etc - ROADS
+C59,,ea
+D59,,0
+E59,,1650
+F59,=E59*D59,0
+A62,,E
+B62,,Misc
+C64,,M3
+D64,,0
+E64,,0
+F64,=E64*D64,0
+B70,,Total Taken forward to Summary
+E70,,Total
+F70,=SUM(F12:F69),535364.1982

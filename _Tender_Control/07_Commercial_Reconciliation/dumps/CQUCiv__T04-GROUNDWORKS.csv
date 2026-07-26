@@ -1,0 +1,587 @@
+﻿cell,formula,cached_value
+A1,,BUILDING 92
+A2,,GROUNDWORKS
+A3,,Code
+B3,,Description
+C3,,Quantity
+D3,,Unit
+E3,,Rate
+F3,,Total
+B4,,WORK MEASURED IN OTHER SECTIONS
+A5,,T04.1
+B5,,Stormwater drainage included in T32 HYDRAULICS
+D5,,Note
+B6,,PRELIMINARIES
+A7,,T04.2
+B7,,Site establishment & demobilisation
+C7,,1
+D7,,item
+E7,,51750
+F7,=C7*E7,51750
+A8,,T04.3
+B8,,Survey set-out
+C8,,1
+D8,,item
+E8,,9200
+F8,=C8*E8,9200
+A9,,T04.4
+B9,,As constructed survey
+C9,,1
+D9,,item
+E9,,8050
+F9,=C9*E9,8050
+B10,,EROSION AND SEDIMENT CONTROL
+A11,,T04.5
+B11,,Allow for erosion and sediment control
+C11,,1
+D11,,item
+E11,,13800
+F11,=C11*E11,13800
+B12,,EXCAVATION
+B13,,Siteworks
+A14,,T04.6
+B14,,"Clear the site of all vegetable matter, debris, rubbish etc.; including trees <= 500 girth complete with stumps and roots"
+C14,,8009
+D14,,m2
+E14,,5.4625
+F14,=C14*E14,43749.162500000006
+A15,,T04.7
+B15,,Excavate to remove top soil average 200 mm deep
+C15,,8009
+D15,,m2
+E15,,22.425
+F15,=C15*E15,179601.825
+B16,,Bulk Excavation
+B17,,Refer to Addendum 11 for further details
+A18,,T04.8
+B18,,Bulk earthwork; commencing at reduced level; bulk cut
+C18,,518
+D18,,m3
+E18,,43.7
+F18,=C18*E18,22636.600000000002
+A19,,T04.9
+B19,,Allow for imported fill placed in layers not exceeding 200 mm thick
+C19,,2735
+D19,,m3
+E19,,105.8
+F19,=C19*E19,289363
+A20,,T04.10
+B20,,Allow to proof roll sub-grade at pad level
+C20,,8009
+D20,,m2
+E20,,4.025
+F20,=C20*E20,32236.225000000002
+A21,,T04.11
+B21,,"Allow to trim, grade open excavated sub-grade"
+C21,,8009
+D21,,m2
+E21,,4.8875
+F21,=C21*E21,39143.9875
+B22,,FILLING AND HARDCORE
+A23,,T04.12
+B23,,"100 mm Thick Type 2.3 (CBR45%) material to building area :[4,291 m2]"
+C23,,430
+D23,,m3
+E23,,135.7
+F23,=C23*E23,58350.99999999999
+B24,,Total
+F24,=SUM(F7:F23),747881.8
+A26,,EXTERIOR ELEMENTS
+A27,,Code
+B27,,Description
+C27,,Quantity
+D27,,Unit
+E27,,Rate
+F27,,Total
+B28,,"ROADS, FOOTPATHS AND PAVED AREAS"
+B29,,External Pavements
+A30,,T37.1
+B30,,Concrete Crossover - 175 mm Thick concrete crossover with SL92 reinforcing fabric and necessary formwork as per Rockhampton Regional Council STD drawing CMDG-R-42
+C30,,324
+D30,,m2
+E30,,189.75
+F30,=C30*E30,61479
+A31,,T37.2
+B31,,Pavement Type 1 - 125 mm Deep pedestrian grade insitu coloured concrete CCS Prairie with light acid wash finish [PA1]
+C31,,118
+D31,,m2
+E31,,155.25
+F31,=C31*E31,18319.5
+A32,,T37.3
+B32,,Pavement Type 2 - 125 mm Deep pedestrian grade insitu coloured concrete CCS Paperbark with light acid wash finish [PA2]
+C32,,56
+D32,,m2
+E32,,155.25
+F32,=C32*E32,8694
+A33,,T37.4
+B33,,Pavement Type 3 - 125 mm Deep pedestrian grade insitu concrete with light acid wash finish [PA3]
+C33,,564
+D33,,m2
+E33,,155.25
+F33,=C33*E33,87561
+A34,,T37.5
+B34,,Tie into existing pavement
+C34,,20
+D34,,m
+E34,,109.25
+F34,=C34*E34,2185
+A35,,T37.6
+B35,,Allow for joints
+C35,,1060
+D35,,m2
+E35,,9.775
+F35,=C35*E35,10361.5
+B36,,"125 mm Deep pedestrian grade insitu coloured concrete footpath to match Landscape [PA1, PA2]"
+C36,,89
+D36,,m2
+E36,,155.25
+F36,=C36*E36,13817.25
+B37,,External Road Pavements
+A38,,T37.7
+B38,,"D&C concrete slab including finish, falls and drainage"
+C38,,487
+D38,,m2
+E38,,212.75
+F38,=C38*E38,103609.25
+A39,,T37.8
+B39,,"Proposed Pavement Type 2 - Compacted subgrade, varying depth imported CBR 10%, 125 mm thick Type 2.3 (CBR 45%) subbase, 125 mm thick Type 2.1 (CBR 80%) base and 50 mm thick AC14 dense graded asphalt wearing course"
+C39,,665
+D39,,m2
+E39,,212.75
+F39,=C39*E39,141478.75
+A40,,T37.9
+B40,,"Proposed Pavement Type 3 - Compacted subgrade, 120 mm thick Type 2.3 (CBR 45%) subbase and 180 mm thick 32MPa concrete slab with SL82 mesh top cover including necessary formwork"
+C40,,254
+D40,,m2
+E40,,218.5
+F40,=C40*E40,55499
+A41,,T37.10
+B41,,Tie in to existing pavement as per Granular Pavement Joint Detail on Civil drawing C140
+C41,,16
+D41,,m
+E41,,138
+F41,=C41*E41,2208
+A42,,T37.11
+B42,,Allow for joints not shown
+C42,,977
+D42,,m2
+E42,,9.775
+F42,=C42*E42,9550.175000000001
+B43,,Linemarking
+A44,,T37.12
+B44,,Allow for linemarking to new road
+C44,,1
+D44,,item
+E44,,8625
+F44,=C44*E44,8625
+B45,,Kerb Ramps
+A46,,T37.13
+B46,,Pedestrian kerb ramp
+C46,,1
+D46,,no
+E46,,4025
+F46,=C46*E46,4025
+B47,,Kerbs
+A48,,T37.14
+B48,,150 mm x 300 mm High barrier kerb as per Civil drawing C140 [BK]
+C48,,214
+D48,,m
+E48,,258.75
+F48,=C48*E48,55372.5
+B49,,Barrier kerb and channel [BKC]
+C49,,73
+D49,,m
+E49,,373.75
+F49,=C49*E49,27283.75
+A51,,BUILDING 21A
+A52,,GROUNDWORKS
+A53,,Code
+B53,,Description
+C53,,Quantity
+D53,,Unit
+E53,,Rate
+F53,,Total
+B54,,GENERAL CLARIFICATIONS
+A55,,T04.1
+B55,,"Refer drawing CQU-ROK-21A-G-ARC-20-01, CQU-ROK-21A-G-ARC-21-00"
+D55,,Note
+B56,,PRELIMINARIES
+A57,,T04.2
+B57,,Site establishment & demobilisation
+C57,,1
+D57,,item
+E57,,3450
+F57,=C57*E57,3450
+A58,,T04.3
+B58,,Survey set-out
+C58,,1
+D58,,item
+E58,,1150
+F58,=C58*E58,1150
+A59,,T04.4
+B59,,As constructed survey
+C59,,1
+D59,,item
+E59,,1150
+F59,=C59*E59,1150
+B60,,EROSION AND SEDIMENT CONTROL
+A61,,T04.5
+B61,,Allow for erosion and sediment control
+C61,,1
+D61,,item
+E61,,1725
+F61,=C61*E61,1725
+B62,,EXCAVATION
+B63,,Siteworks
+A64,,T04.6
+B64,,"Clear the site of all vegetable matter, debris, rubbish etc.; including trees <= 500 girth complete with stumps and roots, if required"
+C64,,93
+D64,,m2
+E64,,5.4625
+F64,=C64*E64,508.01250000000005
+A65,,T04.7
+B65,,"Excavate to remove top soil, average depth to be confirmed, if required"
+C65,,93
+D65,,m2
+E65,,22.425
+F65,=C65*E65,2085.525
+B66,,Total
+F66,=SUM(F57:F65),10068.5375
+A68,,EXTERIOR ELEMENTS
+A69,,Code
+B69,,Description
+C69,,Quantity
+D69,,Unit
+E69,,Rate
+F69,,Total
+B70,,GENERAL CLARIFICATIONS
+A71,,T37.1
+B71,,"Refer drawing CQU-ROK-21A-G-ARC-20-01, CQU-ROK-21A-G-ARC-21-00"
+D71,,Note
+B72,,"ROADS, FOOTPATHS AND PAVED AREAS"
+B73,,External footpath
+A74,,T37.2
+B74,,Assumed external paving as indicated on the drawings [approximate area: 78 m²]
+C74,,78
+D74,,m2
+E74,,143.75
+F74,=C74*E74,11212.5
+A76,,BUILDING 33
+A78,,GROUNDWORKS
+A79,,Code
+B79,,Description
+C79,,Quantity
+D79,,Unit
+E79,,Rate
+F79,,Total
+B80,,GENERAL CLARIFICATIONS
+B81,,"Refer drawing Drg 33-ST-DR-GDL-510-00-00 , 33-ST-DR-GDL-900-00-01"
+D81,,Note
+B82,,WORK MEASURED IN OTHER SECTIONS
+A83,,T04.1
+B83,,Stormwater drainage included in T32 HYDRAULICS
+D83,,Note
+B84,,PRELIMINARIES
+A85,,T04.2
+B85,,Site establishment & demobilisation
+C85,,1
+D85,,item
+E85,,4600
+F85,=C85*E85,4600
+A86,,T04.3
+B86,,Survey set-out
+C86,,1
+D86,,item
+E86,,1725
+F86,=C86*E86,1725
+A87,,T04.4
+B87,,As constructed survey
+C87,,1
+D87,,item
+E87,,1725
+F87,=C87*E87,1725
+B88,,EROSION AND SEDIMENT CONTROL
+A89,,T04.5
+B89,,Allow for erosion and sediment control
+C89,,1
+D89,,item
+E89,,1725
+F89,=C89*E89,1725
+B90,,EXCAVATION
+B91,,Siteworks
+A92,,T04.6
+B92,,"Clear the site of all vegetable matter, debris, rubbish etc.; including trees <= 500 girth complete with stumps and roots, if required"
+C92,,69
+D92,,m2
+E92,,5.4625
+F92,=C92*E92,376.9125
+A93,,T04.7
+B93,,"Excavate to remove top soil average 200 mm deep, if required"
+C93,,69
+D93,,m2
+E93,,22.425
+F93,=C93*E93,1547.325
+A94,,T04.8
+B94,,Existing wall to be temporarily supported during excavation and construction phase; Section A on drawing 33-ST-DR-GDL-900-00-01
+C94,,1
+D94,,item
+E94,,20700
+F94,=C94*E94,20700
+A95,,T04.9
+B95,,Temporary shoring by contractors engineer to allow safe excavation of lift pit base and support to existing ground floor structure; Section A on drawing 33-ST-DR-GDL-900-00-01
+C95,,1
+D95,,item
+E95,,40250
+F95,=C95*E95,40250
+A97,,EXTERIOR ELEMENTS
+A98,,Code
+B98,,Description
+C98,,Quantity
+D98,,Unit
+E98,,Rate
+F98,,Total
+B99,,GENERAL CLARIFICATIONS
+A100,,T37.1
+B100,,Generally refer drawing CQU-ROK-033-00-ARC-10-00
+D100,,Note
+B101,,"ROADS, FOOTPATHS AND PAVED AREAS"
+B102,,External footpath
+A103,,T37.2
+B103,,"Proposed footpath connection to lift,  match to existing [approx. area 6m2]"
+C103,,1
+D103,,item
+E103,,1035
+F103,=C103*E103,1035
+B104,,Concrete pathway from Building 33 to 34
+A105,,T37.3
+B105,,Allow item for proposed 2000mm wide concrete pathway from Building 33 to 34
+C105,,1
+D105,,item
+E105,,9200
+F105,=C105*E105,9200
+A108,,BUILDING 36
+A109,,GROUNDWORKS
+A110,,Code
+B110,,Description
+C110,,Quantity
+D110,,Unit
+E110,,Rate
+F110,,Total
+B111,,GENERAL CLARIFICATIONS
+A112,,T04.1
+B112,,"Refer drawing Drg 36-ST-DR-GDL-510-00-00, 00-ST-DR-A00-010-00-01,00-ST-DR-A00-010-00-02,00-ST-DR-A00-010-00-03, CQU-ROK-036-00-ARC-40-00"
+D112,,Note
+B113,,WORK MEASURED IN OTHER SECTIONS
+A114,,T04.2
+B114,,Stormwater drainage included in T32 HYDRAULICS
+D114,,Note
+B115,,PRELIMINARIES
+A116,,T04.3
+B116,,Site establishment & demobilisation
+C116,,1
+D116,,item
+E116,,18400
+F116,=C116*E116,18400
+A117,,T04.4
+B117,,Survey set-out
+C117,,1
+D117,,item
+E117,,4025
+F117,=C117*E117,4025
+A118,,T04.5
+B118,,As constructed survey
+C118,,1
+D118,,item
+E118,,4025
+F118,=C118*E118,4025
+B119,,EROSION AND SEDIMENT CONTROL
+A120,,T04.6
+B120,,Allow for erosion and sediment control
+C120,,1
+D120,,item
+E120,,5750
+F120,=C120*E120,5750
+B121,,EXCAVATION
+B122,,Siteworks
+A123,,T04.7
+B123,,"Clear the site of all vegetable matter, debris, rubbish etc.; including trees <= 500 girth complete with stumps and roots, if required [approximate area]"
+C123,,611
+D123,,m2
+E123,,5.4625
+F123,=C123*E123,3337.5875
+A124,,T04.8
+B124,,"Excavate to remove top soil average depth to be confirmed, if required [approximate area]"
+C124,,611
+D124,,m2
+E124,,22.425
+F124,=C124*E124,13701.675000000001
+A125,,EXTERIOR ELEMENTS
+A126,,Code
+B126,,Description
+C126,,Quantity
+D126,,Unit
+E126,,Rate
+F126,,Total
+B127,,GENERAL CLARIFICATIONS
+A128,,T37.1
+B128,,"Generally refer drawing CQU-ROK-036-GN-ARC-21-01, CQU-ROK-036-00-ARC-10-00,  C230, C240"
+D128,,Note
+B129,,"ROADS, FOOTPATHS AND PAVED AREAS"
+B130,,External Pavements
+A131,,T37.2
+B131,,"Proposed Pavement Type 1 - Compacted subgrade, 100 mm thick Type 2.5 (CBR 15%) subgrade replacement (provisional), 150 mm thick Type 2.5 (CBR 15%) lower course, 125 mm thick Type 2.3 (CBR 45%) subbase, 125 mm thick Type 2.1 (CBR 80%) base and 40 mm thick AC14 dense graded asphalt wearing course to proposed drop-off area and driveway"
+C131,,364
+D131,,m2
+E131,,224.25
+F131,=C131*E131,81627
+A132,,T37.3
+B132,,"Proposed Pavement Type 3 - Compacted subgrade, 120 mm thick Type 2.3 (CBR 45%) subbase and 180 mm thick 32MPa concrete slab with SL82 mesh top cover including necessary formwork"
+C132,,249
+D132,,m2
+E132,,218.5
+F132,=C132*E132,54406.5
+A133,,T37.4
+B133,,"Proposed Pavement Type 4 - Compacted subgrade, 140 mm thick Type 2.3 (CBR 45%) subbase and 160 mm thick 32MPa concrete slab with SL82 mesh top cover including necessary formwork"
+C133,,302
+D133,,m2
+E133,,201.25
+F133,=C133*E133,60777.5
+A134,,T37.5
+B134,,Allow for joints
+C134,,915
+D134,,m2
+E134,,9.775
+F134,=C134*E134,8944.125
+A135,,T37.6
+B135,,Allow for connection between footpath and proposed driveway
+C135,,24
+D135,,m
+E135,,109.25
+F135,=C135*E135,2622
+B136,,Line marking
+A137,,T37.7
+B137,,Allow for Line marking to new road
+C137,,1
+D137,,item
+E137,,2875
+F137,=C137*E137,2875
+A138,,T37.8
+B138,,"Allow for Line marking to car park, 90mmwide unbroken line"
+C138,,43
+D138,,m
+E138,,20.7
+F138,=C138*E138,890.1
+A139,,T37.9
+B139,,Install disabled symbol in accordance with AS2890.6
+C139,,1
+D139,,no
+E139,,632.5
+F139,=C139*E139,632.5
+A140,,T37.10
+B140,,"Yellow slip resistant line marking 150-200mm wide, spaced 200-300mm apart at 450"
+C140,,13
+D140,,m2
+E140,,86.25
+F140,=C140*E140,1121.25
+B141,,Kerbs
+A142,,T37.11
+B142,,150 mm x 300 mm High barrier kerb as per Civil drawing C240 [BKC]
+C142,,22
+D142,,m
+E142,,373.75
+F142,=C142*E142,8222.5
+B143,,Wheel Stops
+A144,,T37.12
+B144,,Wheel stopper 2000mm long
+C144,,5
+D144,,no
+E144,,299
+F144,=C144*E144,1495
+A147,,BUILDING 76
+A148,,GROUNDWORKS
+A149,,Code
+B149,,Description
+C149,,Quantity
+D149,,Unit
+E149,,Rate
+F149,,Total
+B150,,GENERAL CLARIFICATIONS
+A151,,T04.1
+B151,,Refer drawing CQU-ROK-076-GN-ARC-23-01
+D151,,Note
+B152,,PRELIMINARIES
+A153,,T04.2
+B153,,Site establishment & demobilisation
+C153,,1
+D153,,item
+E153,,4600
+F153,=C153*E153,4600
+A154,,T04.3
+B154,,Survey set-out
+C154,,1
+D154,,item
+E154,,1725
+F154,=C154*E154,1725
+A155,,T04.4
+B155,,As constructed survey
+C155,,1
+D155,,item
+E155,,1725
+F155,=C155*E155,1725
+B156,,EROSION AND SEDIMENT CONTROL
+A157,,T04.5
+B157,,Allow for erosion and sediment control
+C157,,1
+D157,,item
+E157,,2300
+F157,=C157*E157,2300
+B158,,EXCAVATION
+B159,,Siteworks
+A160,,T04.6
+B160,,"Clear the site of all vegetable matter, debris, rubbish etc.; including trees <= 500 girth complete with stumps and roots, if required"
+C160,,441
+D160,,m2
+E160,,5.4625
+F160,=C160*E160,2408.9625
+A161,,T04.7
+B161,,"Excavate to remove top soil, average depth to be confirmed, if required"
+C161,,441
+D161,,m2
+E161,,22.425
+F161,=C161*E161,9889.425000000001
+A163,,EXTERIOR ELEMENTS
+A164,,Code
+B164,,Description
+C164,,Quantity
+D164,,Unit
+E164,,Rate
+F164,,Total
+B165,,GENERAL CLARIFICATIONS
+A166,,T37.1
+B166,,Generally refer drawing CQU-ROK-076-GN-ARC-21-00
+D166,,Note
+B167,,"ROADS, FOOTPATHS AND PAVED AREAS"
+B168,,External Pavements
+A169,,T37.2
+B169,,Footpath finish to be confirmed
+C169,,75
+D169,,m2
+E169,,143.75
+F169,=C169*E169,10781.25
+B170,,Internal Pavements
+A171,,T37.3
+B171,,Footpath finish to be confirmed; to propagation and greenhouse
+C171,,114
+D171,,m2
+E171,,132.25
+F171,=C171*E171,15076.5
+B173,,Base BOQ Direct Civil Works
+F173,"=SUM(F7:F23,F30:F49,F57:F65,F74,F85:F95,F103:F105,F116:F124,F131:F144,F153:F161,F169:F171)",1783474.625
+B174,,Tender Completion / Risk Allowance (7.5%)
+F174,=F173*0.075,133760.596875
+B175,,Tender Value Excluding GST
+F175,=F173+F174,1917235.221875
+B176,,GST (10%)
+F176,=F175*0.1,191723.52218750003
+B177,,Tender Value Including GST
+F177,=F175+F176,2108958.7440625

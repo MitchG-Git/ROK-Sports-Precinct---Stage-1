@@ -1,0 +1,961 @@
+﻿cell,formula,cached_value
+B3,,INCLUDING GST (UNLESS NOTED OTHERWISE)
+B5,,TCS Accomodation Rates & Costs
+B6,,Hotel / Motel 
+C6,,Sngl Night
+D6,,Week
+E6,,Month
+F6,,Qtr
+B7,,"1 x Unit, 1 x Room"
+C7,,Motel Unit
+D7,,Private Unit
+A8,,Hidden
+B8,,No. of persons stayng;
+C8,,1
+B9,,Furnished
+C9,,YES
+B10,,*Serviced
+C10,,YES
+B11,,Individual/Private BATHROOM
+C11,,YES
+B12,,Individual/Private KITCHEN (Cooking) Faciliities Available - Microwave min.
+C12,,YES
+B13,,Individual/Private LAUNDRY Facilities Available
+C13,,YES
+B14,,Individual/Private LOUNGE ROOM Facilities Available
+C14,,YES
+C16,,Sngl Night
+D16,,Week
+E16,,Month
+F16,,Qtr
+B17,,Total Booking Cost 
+C17,=D17/7,112.85714285714286
+D17,,790
+E17,=D17*4,3160
+F17,=E17*3,9480
+B19,,TCS Housing Consumables; …..
+C19,=D19/7,0
+D19,,0
+E19,=D19*4,0
+F19,=E19*3,0
+B20,,TCS Laundry Allowance..?
+C20,=D20/7,0
+D20,,0
+E20,=D20*4,0
+F20,=E20*3,0
+B21,,TCS Additional Meals Allowance (If no cooking Facilities?)
+C21,=D21/7,0
+D21,,0
+E21,=D21*4,0
+F21,=E21*3,0
+B22,,TCS Furnishings?
+C22,=D22/7,0
+D22,,0
+E22,=D22*4,0
+F22,=E22*3,0
+B23,,TCS Cleaning/Servincing Allowance?
+C23,=D23/7,0
+D23,,0
+E23,=D23*4,0
+F23,=E23*3,0
+B25,,Total TCS Cost
+C25,=SUM(C17:C24),112.85714285714286
+D25,=SUM(D17:D24),790
+E25,=SUM(E17:E24),3160
+F25,=SUM(F17:F24),9480
+B26,,Total Cost Per Person
+C26,=D26/7,112.85714285714286
+D26,=D17/C8,790
+E26,=D26*4,3160
+F26,=E26*3,9480
+B28,,"1 x Unit, 1 x Room"
+C28,,Motel Unit
+D28,,Share Rooms
+A29,,Hidden
+B29,,No. of persons stayng;
+C29,,2
+B31,,Furnished
+C31,,YES
+B32,,*Serviced
+C32,,YES
+B33,,Individual/Private BATHROOM
+C33,,NO
+D33,,Share with Unit
+B34,,Individual/Private KITCHEN (Cooking) Faciliities Available - Microwave min.
+C34,,NO
+D34,,Share with Unit
+B35,,Individual/Private LAUNDRY Facilities Available
+C35,,YES
+B36,,Individual/Private LOUNGE ROOM Facilities Available
+C36,,YES
+C38,,Sngl Night
+D38,,Week
+E38,,Month
+F38,,Qtr
+B39,,Total Booking Cost 
+C39,=D39/7,101.42857142857143
+D39,,710
+E39,=D39*4,2840
+F39,=E39*3,8520
+B41,,TCS Housing Consumables; …..
+C41,=D41/7,0
+D41,,0
+E41,=D41*4,0
+F41,=E41*3,0
+B42,,TCS Laundry Allowance..?
+C42,=D42/7,0
+D42,,0
+E42,=D42*4,0
+F42,=E42*3,0
+B43,,TCS Additional Meals Allowance (If no cooking Facilities?)
+C43,=D43/7,0
+D43,,0
+E43,=D43*4,0
+F43,=E43*3,0
+B44,,TCS Furnishings?
+C44,=D44/7,0
+D44,,0
+E44,=D44*4,0
+F44,=E44*3,0
+B45,,TCS Cleaning/Servincing Allowance?
+C45,=D45/7,0
+D45,,0
+E45,=D45*4,0
+F45,=E45*3,0
+B47,,Total TCS Cost
+C47,=SUM(C39:C46),101.42857142857143
+D47,=SUM(D39:D46),710
+E47,=SUM(E39:E46),2840
+F47,=SUM(F39:F46),8520
+B48,,Total Cost Per Person
+C48,=D48/7,50.714285714285715
+D48,=D39/C29,355
+E48,=D48*4,1420
+F48,=E48*3,4260
+B50,,"1 x Unit, 1 x Room"
+C50,,Motel Unit
+D50,,Share Rooms
+A51,,Hidden
+B51,,No. of persons stayng;
+C51,,3
+B53,,Furnished
+C53,,YES
+B54,,*Serviced
+C54,,YES
+B55,,Individual/Private BATHROOM
+C55,,NO
+D55,,Share with Unit
+B56,,Individual/Private KITCHEN (Cooking) Faciliities Available - Microwave min.
+C56,,NO
+D56,,Share with Unit
+B57,,Individual/Private LAUNDRY Facilities Available
+C57,,YES
+B58,,Individual/Private LOUNGE ROOM Facilities Available
+C58,,YES
+C60,,Sngl Night
+D60,,Week
+E60,,Month
+F60,,Qtr
+B61,,Total Booking Cost 
+C61,=D61/7,130.71428571428572
+D61,,915
+E61,=D61*4,3660
+F61,=E61*3,10980
+B63,,TCS Housing Consumables; …..
+C63,=D63/7,0
+D63,,0
+E63,=D63*4,0
+F63,=E63*3,0
+B64,,TCS Laundry Allowance..?
+C64,=D64/7,0
+D64,,0
+E64,=D64*4,0
+F64,=E64*3,0
+B65,,TCS Additional Meals Allowance (If no cooking Facilities?)
+C65,=D65/7,0
+D65,,0
+E65,=D65*4,0
+F65,=E65*3,0
+B66,,TCS Furnishings?
+C66,=D66/7,0
+D66,,0
+E66,=D66*4,0
+F66,=E66*3,0
+B67,,TCS Cleaning/Servincing Allowance?
+C67,=D67/7,0
+D67,,0
+E67,=D67*4,0
+F67,=E67*3,0
+B69,,Total TCS Cost
+C69,=SUM(C61:C68),130.71428571428572
+D69,=SUM(D61:D68),915
+E69,=SUM(E61:E68),3660
+F69,=SUM(F61:F68),10980
+B70,,Total Cost Per Person
+C70,=D70/7,43.57142857142857
+D70,=D69/C51,305
+E70,=D70*4,1220
+F70,=E70*3,3660
+B72,,"1 x Unit, 2 x Room"
+C72,,Motel Unit
+D72,,Share House'
+A73,,Hidden
+B73,,No. of persons stayng;
+C73,,2
+B75,,Furnished
+C75,,YES
+B76,,*Serviced
+C76,,YES
+B77,,Individual/Private BATHROOM
+C77,,NO
+D77,,Share with Unit
+B78,,Individual/Private KITCHEN (Cooking) Faciliities Available - Microwave min.
+C78,,NO
+D78,,Share with Unit
+B79,,Individual/Private LAUNDRY Facilities Available
+C79,,YES
+B80,,Individual/Private LOUNGE ROOM Facilities Available
+C80,,YES
+C82,,Sngl Night
+D82,,Week
+E82,,Month
+F82,,Qtr
+B83,,Total Booking Cost 
+C83,=D83/7,254.28571428571428
+D83,,1780
+E83,=D83*4,7120
+F83,=E83*3,21360
+B85,,TCS Housing Consumables; …..
+C85,=D85/7,0
+D85,,0
+E85,=D85*4,0
+F85,=E85*3,0
+B86,,TCS Laundry Allowance..?
+C86,=D86/7,0
+D86,,0
+E86,=D86*4,0
+F86,=E86*3,0
+B87,,TCS Additional Meals Allowance (If no cooking Facilities?)
+C87,=D87/7,0
+D87,,0
+E87,=D87*4,0
+F87,=E87*3,0
+B88,,TCS Furnishings?
+C88,=D88/7,0
+D88,,0
+E88,=D88*4,0
+F88,=E88*3,0
+B89,,TCS Cleaning/Servincing Allowance?
+C89,=D89/7,0
+D89,,0
+E89,=D89*4,0
+F89,=E89*3,0
+B91,,Total TCS Cost
+C91,=SUM(C83:C90),254.28571428571428
+D91,=SUM(D83:D90),1780
+E91,=SUM(E83:E90),7120
+F91,=SUM(F83:F90),21360
+B92,,Total Cost Per Person
+C92,=D92/7,127.14285714285714
+D92,=D91/C73,890
+E92,=D92*4,3560
+F92,=E92*3,10680
+B94,,Full Apartment / Cabin / Villa (Tourist/Caravan Park)
+C94,,Sngl Night
+D94,,Week
+E94,,Month
+F94,,Qtr
+B95,,"1 x Unit, 1 x Room"
+C95,,*CABIN
+D95,,Private Unit
+A96,,Hidden
+B96,,No. of persons stayng;
+C96,,1
+B97,,Furnished
+C97,,YES
+B98,,*Serviced
+C98,,YES
+B99,,Individual/Private BATHROOM
+C99,,YES
+B100,,Individual/Private KITCHEN (Cooking) Faciliities Available - Microwave min.
+C100,,YES
+B101,,Individual/Private LAUNDRY Facilities Available
+C101,,YES
+B102,,Individual/Private LOUNGE ROOM Facilities Available
+C102,,YES
+B103,,"** Pool, BBQ, Games etc etc?"
+C104,,Sngl Night
+D104,,Week
+E104,,Month
+F104,,Qtr
+B105,,Total Booking Cost 
+C105,=D105/7,114.28571428571429
+D105,,800
+E105,=D105*4,3200
+F105,=E105*3,9600
+B107,,TCS Housing Consumables; …..
+C107,=D107/7,0
+D107,,0
+E107,=D107*4,0
+F107,=E107*3,0
+B108,,TCS Laundry Allowance..?
+C108,=D108/7,0
+D108,,0
+E108,=D108*4,0
+F108,=E108*3,0
+B109,,TCS Additional Meals Allowance (If no cooking Facilities?)
+C109,=D109/7,0
+D109,,0
+E109,=D109*4,0
+F109,=E109*3,0
+B110,,TCS Furnishings?
+C110,=D110/7,0
+D110,,0
+E110,=D110*4,0
+F110,=E110*3,0
+B111,,TCS Cleaning/Servincing Allowance?
+C111,=D111/7,0
+D111,,0
+E111,=D111*4,0
+F111,=E111*3,0
+B113,,Total TCS Cost
+C113,=SUM(C105:C112),114.28571428571429
+D113,=SUM(D105:D112),800
+E113,=SUM(E105:E112),3200
+F113,=SUM(F105:F112),9600
+B114,,Total Cost Per Person
+C114,=D114/7,114.28571428571429
+D114,=D113/C96,800
+E114,=D114*4,3200
+F114,=E114*3,9600
+A116,,Hidden
+B116,,"1 x Unit, 1 x Room"
+C116,,*UNIT/VILLA
+D116,,Share Rooms
+B117,,No. of persons stayng;
+C117,,2
+B118,,Furnished
+C118,,YES
+B119,,*Serviced
+C119,,YES
+B120,,Individual/Private BATHROOM
+C120,,NO
+D120,,Share with Unit
+B121,,Individual/Private KITCHEN (Cooking) Faciliities Available - Microwave min.
+C121,,NO
+D121,,Share with Unit
+B122,,Individual/Private LAUNDRY Facilities Available
+C122,,YES
+B123,,Individual/Private LOUNGE ROOM Facilities Available
+C123,,YES
+B124,,"** Pool, BBQ, Games etc etc?"
+C125,,Sngl Night
+D125,,Week
+E125,,Month
+F125,,Qtr
+B126,,Total Booking Cost 
+C126,=D126/7,142.85714285714286
+D126,,1000
+E126,=D126*4,4000
+F126,=E126*3,12000
+B128,,TCS Housing Consumables; …..
+C128,=D128/7,0
+D128,,0
+E128,=D128*4,0
+F128,=E128*3,0
+B129,,TCS Laundry Allowance..?
+C129,=D129/7,0
+D129,,0
+E129,=D129*4,0
+F129,=E129*3,0
+B130,,TCS Additional Meals Allowance (If no cooking Facilities?)
+C130,=D130/7,0
+D130,,0
+E130,=D130*4,0
+F130,=E130*3,0
+B131,,TCS Furnishings?
+C131,=D131/7,0
+D131,,0
+E131,=D131*4,0
+F131,=E131*3,0
+B132,,TCS Cleaning/Servincing Allowance?
+C132,=D132/7,0
+D132,,0
+E132,=D132*4,0
+F132,=E132*3,0
+B134,,Total TCS Cost
+C134,=SUM(C126:C133),142.85714285714286
+D134,=SUM(D126:D133),1000
+E134,=SUM(E126:E133),4000
+F134,=SUM(F126:F133),12000
+B135,,Total Cost Per Person
+C135,=D135/7,71.42857142857143
+D135,=D134/C117,500
+E135,=D135*4,2000
+F135,=E135*3,6000
+A137,,Hidden
+B137,,"1 x Unit, 1 x Room"
+C137,,*UNIT/VILLA
+D137,,Share Rooms
+B138,,No. of persons stayng;
+C138,,3
+B139,,Furnished
+C139,,YES
+B140,,*Serviced
+C140,,YES
+B141,,Individual/Private BATHROOM
+C141,,YES
+B142,,Individual/Private KITCHEN (Cooking) Faciliities Available - Microwave min.
+C142,,YES
+B143,,Individual/Private LAUNDRY Facilities Available
+C143,,YES
+B144,,Individual/Private LOUNGE ROOM Facilities Available
+C144,,YES
+B145,,"** Pool, BBQ, Games etc etc?"
+C146,,Sngl Night
+D146,,Week
+E146,,Month
+F146,,Qtr
+B147,,Total Booking Cost 
+C147,=D147/7,178.57142857142858
+D147,,1250
+E147,=D147*4,5000
+F147,=E147*3,15000
+B149,,TCS Housing Consumables; …..
+C149,=D149/7,0
+D149,,0
+E149,=D149*4,0
+F149,=E149*3,0
+B150,,TCS Laundry Allowance..?
+C150,=D150/7,0
+D150,,0
+E150,=D150*4,0
+F150,=E150*3,0
+B151,,TCS Additional Meals Allowance (If no cooking Facilities?)
+C151,=D151/7,0
+D151,,0
+E151,=D151*4,0
+F151,=E151*3,0
+B152,,TCS Furnishings?
+C152,=D152/7,0
+D152,,0
+E152,=D152*4,0
+F152,=E152*3,0
+B153,,TCS Cleaning/Servincing Allowance?
+C153,=D153/7,0
+D153,,0
+E153,=D153*4,0
+F153,=E153*3,0
+B155,,Total TCS Cost
+C155,=SUM(C147:C154),178.57142857142858
+D155,=SUM(D147:D154),1250
+E155,=SUM(E147:E154),5000
+F155,=SUM(F147:F154),15000
+B156,,Total Cost Per Person
+C156,=D156/7,59.523809523809526
+D156,=D155/C138,416.6666666666667
+E156,=D156*4,1666.6666666666667
+F156,=E156*3,5000
+B158,,"1 x Unit, 2 x Room"
+C158,,*UNIT/VILLA
+D158,,Share House'
+A159,,Hidden
+B159,,No. of persons stayng;
+C159,,2
+B160,,Furnished
+C160,,YES
+B161,,*Serviced
+C161,,YES
+B162,,Individual/Private BATHROOM
+C162,,YES
+B163,,Individual/Private KITCHEN (Cooking) Faciliities Available - Microwave min.
+C163,,YES
+B164,,Individual/Private LAUNDRY Facilities Available
+C164,,YES
+B165,,Individual/Private LOUNGE ROOM Facilities Available
+C165,,YES
+B166,,"** Pool, BBQ, Games etc etc?"
+C167,,Sngl Night
+D167,,Week
+E167,,Month
+F167,,Qtr
+B168,,Total Booking Cost 
+C168,=D168/7,185.71428571428572
+D168,,1300
+E168,=D168*4,5200
+F168,=E168*3,15600
+B170,,TCS Housing Consumables; …..
+C170,=D170/7,0
+D170,,0
+E170,=D170*4,0
+F170,=E170*3,0
+B171,,TCS Laundry Allowance..?
+C171,=D171/7,0
+D171,,0
+E171,=D171*4,0
+F171,=E171*3,0
+B172,,TCS Additional Meals Allowance (If no cooking Facilities?)
+C172,=D172/7,0
+D172,,0
+E172,=D172*4,0
+F172,=E172*3,0
+B173,,TCS Furnishings?
+C173,=D173/7,0
+D173,,0
+E173,=D173*4,0
+F173,=E173*3,0
+B174,,TCS Cleaning/Servincing Allowance?
+C174,=D174/7,0
+D174,,0
+E174,=D174*4,0
+F174,=E174*3,0
+B176,,Total TCS Cost
+C176,=SUM(C168:C175),185.71428571428572
+D176,=SUM(D168:D175),1300
+E176,=SUM(E168:E175),5200
+F176,=SUM(F168:F175),15600
+B177,,Total Cost Per Person
+C177,=D177/7,92.85714285714286
+D177,=D176/C159,650
+E177,=D177*4,2600
+F177,=E177*3,7800
+A179,,Hidden
+B179,,"1 x Unit, 2 x Room"
+C179,,*UNIT/VILLA
+D179,,Share Rooms
+B180,,No. of persons stayng;
+C180,,4
+B181,,Furnished
+C181,,YES
+B182,,*Serviced
+C182,,YES
+B183,,Individual/Private BATHROOM
+C183,,YES
+B184,,Individual/Private KITCHEN (Cooking) Faciliities Available - Microwave min.
+C184,,YES
+B185,,Individual/Private LAUNDRY Facilities Available
+C185,,YES
+B186,,Individual/Private LOUNGE ROOM Facilities Available
+C186,,YES
+B187,,"** Pool, BBQ, Games etc etc?"
+C188,,Sngl Night
+D188,,Week
+E188,,Month
+F188,,Qtr
+B189,,Total Booking Cost 
+C189,=D189/7,240
+D189,,1680
+E189,=D189*4,6720
+F189,=E189*3,20160
+B191,,TCS Housing Consumables; …..
+C191,=D191/7,0
+D191,,0
+E191,=D191*4,0
+F191,=E191*3,0
+B192,,TCS Laundry Allowance..?
+C192,=D192/7,0
+D192,,0
+E192,=D192*4,0
+F192,=E192*3,0
+B193,,TCS Additional Meals Allowance (If no cooking Facilities?)
+C193,=D193/7,0
+D193,,0
+E193,=D193*4,0
+F193,=E193*3,0
+B194,,TCS Furnishings?
+C194,=D194/7,0
+D194,,0
+E194,=D194*4,0
+F194,=E194*3,0
+B195,,TCS Cleaning/Servincing Allowance?
+C195,=D195/7,0
+D195,,0
+E195,=D195*4,0
+F195,=E195*3,0
+B197,,Total TCS Cost
+C197,=SUM(C189:C196),240
+D197,=SUM(D189:D196),1680
+E197,=SUM(E189:E196),6720
+F197,=SUM(F189:F196),20160
+B198,,Total Cost Per Person
+C198,=D198/7,60
+D198,=D197/C180,420
+E198,=D198*4,1680
+F198,=E198*3,5040
+B200,,"1 x Unit, 3 x Room"
+C200,,*UNIT/VILLA
+D200,,Share House'
+A201,,Hidden
+B201,,No. of persons stayng;
+C201,,3
+B202,,Furnished
+C202,,YES
+B203,,*Serviced
+C203,,YES
+B204,,Individual/Private BATHROOM
+C204,,YES
+B205,,Individual/Private KITCHEN (Cooking) Faciliities Available - Microwave min.
+C205,,YES
+B206,,Individual/Private LAUNDRY Facilities Available
+C206,,YES
+B207,,Individual/Private LOUNGE ROOM Facilities Available
+C207,,YES
+B208,,"** Pool, BBQ, Games etc etc?"
+C209,,Sngl Night
+D209,,Week
+E209,,Month
+F209,,Qtr
+B210,,Total Booking Cost 
+C210,=D210/7,328.57142857142856
+D210,,2300
+E210,=D210*4,9200
+F210,=E210*3,27600
+B212,,TCS Housing Consumables; …..
+C212,=D212/7,0
+D212,,0
+E212,=D212*4,0
+F212,=E212*3,0
+B213,,TCS Laundry Allowance..?
+C213,=D213/7,0
+D213,,0
+E213,=D213*4,0
+F213,=E213*3,0
+B214,,TCS Additional Meals Allowance (If no cooking Facilities?)
+C214,=D214/7,0
+D214,,0
+E214,=D214*4,0
+F214,=E214*3,0
+B215,,TCS Furnishings?
+C215,=D215/7,0
+D215,,0
+E215,=D215*4,0
+F215,=E215*3,0
+B216,,TCS Cleaning/Servincing Allowance?
+C216,=D216/7,0
+D216,,0
+E216,=D216*4,0
+F216,=E216*3,0
+B218,,Total TCS Cost
+C218,=SUM(C210:C217),328.57142857142856
+D218,=SUM(D210:D217),2300
+E218,=SUM(E210:E217),9200
+F218,=SUM(F210:F217),27600
+B219,,Total Cost Per Person
+C219,=D219/7,109.52380952380952
+D219,=D218/C201,766.6666666666666
+E219,=D219*4,3066.6666666666665
+F219,=E219*3,9200
+A221,,Hidden
+B221,,"1 x Unit, 3 x Room"
+C221,,*UNIT/VILLA
+D221,,Share Rooms
+B222,,No. of persons stayng;
+C222,,6
+B223,,Furnished
+C223,,YES
+B224,,*Serviced
+C224,,YES
+B225,,Individual/Private BATHROOM
+C225,,YES
+B226,,Individual/Private KITCHEN (Cooking) Faciliities Available - Microwave min.
+C226,,YES
+B227,,Individual/Private LAUNDRY Facilities Available
+C227,,YES
+B228,,Individual/Private LOUNGE ROOM Facilities Available
+C228,,YES
+B229,,"** Pool, BBQ, Games etc etc?"
+C230,,Sngl Night
+D230,,Week
+E230,,Month
+F230,,Qtr
+B231,,Total Booking Cost 
+C231,=D231/7,378.57142857142856
+D231,,2650
+E231,=D231*4,10600
+F231,=E231*3,31800
+B233,,TCS Housing Consumables; …..
+C233,=D233/7,0
+D233,,0
+E233,=D233*4,0
+F233,=E233*3,0
+B234,,TCS Laundry Allowance..?
+C234,=D234/7,0
+D234,,0
+E234,=D234*4,0
+F234,=E234*3,0
+B235,,TCS Additional Meals Allowance (If no cooking Facilities?)
+C235,=D235/7,0
+D235,,0
+E235,=D235*4,0
+F235,=E235*3,0
+B236,,TCS Furnishings?
+C236,=D236/7,0
+D236,,0
+E236,=D236*4,0
+F236,=E236*3,0
+B237,,TCS Cleaning/Servincing Allowance?
+C237,=D237/7,0
+D237,,0
+E237,=D237*4,0
+F237,=E237*3,0
+B239,,Total TCS Cost
+C239,=SUM(C231:C238),378.57142857142856
+D239,=SUM(D231:D238),2650
+E239,=SUM(E231:E238),10600
+F239,=SUM(F231:F238),31800
+B240,,Total Cost Per Person
+C240,=D240/7,63.095238095238095
+D240,=D239/C222,441.6666666666667
+E240,=D240*4,1766.6666666666667
+F240,=E240*3,5300
+B243,,Full Apartment / TownHouse (Private/AirBnB)
+B244,,"1 x Unit, 3 x Room"
+C244,,T'House
+D244,,Share House'
+B245,,No. of persons stayng;
+C245,,3
+B246,,Furnished
+C246,,YES
+B247,,*Serviced
+C247,,YES
+D247,,Fortnightly
+B248,,Individual/Private BATHROOM
+C248,,YES
+D248,,2 of
+B249,,Individual/Private KITCHEN (Cooking) Faciliities Available - Microwave min.
+C249,,YES
+B250,,Individual/Private LAUNDRY Facilities Available
+C250,,YES
+B251,,Individual/Private LOUNGE ROOM Facilities Available
+C251,,YES
+C253,,Sngl Night
+D253,,Week
+E253,,Month
+F253,,Qtr
+B254,,Total Booking Cost 
+C254,=F254/90,144.44444444444446
+D254,=E254/4,1083.3333333333333
+E254,=F254/3,4333.333333333333
+F254,,13000
+B256,,TCS Housing Consumables; …..
+C256,=F256/90,4.444444444444445
+D256,=E256/4,33.333333333333336
+E256,=F256/3,133.33333333333334
+F256,,400
+B257,,TCS Laundry Allowance..?
+C257,=D257/7,0
+D257,,0
+E257,=D257*4,0
+F257,=E257*3,0
+B258,,TCS Additional Meals Allowance (If no cooking Facilities?)
+C258,=D258/7,0
+D258,,0
+E258,=D258*4,0
+F258,=E258*3,0
+B259,,TCS Furnishings?
+C259,=D259/7,0
+D259,,0
+E259,=D259*4,0
+F259,=E259*3,0
+B260,,TCS Cleaning/Servincing Allowance?
+C260,=F260/90,3.3333333333333335
+D260,=E260/4,25
+E260,=F260/3,100
+F260,,300
+B262,,Total TCS Cost
+C262,=SUM(C254:C261),152.22222222222226
+D262,=SUM(D254:D261),1141.6666666666665
+E262,=SUM(E254:E261),4566.666666666666
+F262,=SUM(F254:F261),13700
+B263,,Total Cost Per Person
+C263,=D263/7,54.36507936507935
+D263,=D262/C245,380.5555555555555
+E263,=D263*4,1522.222222222222
+F263,=E263*3,4566.666666666666
+B266,,Full Apartment / TownHouse / Unit - VIA AGENT
+B267,,"1 x Unit, 3 x Room"
+C267,,House
+D267,,Share House'
+B268,,No. of persons stayng;
+C268,,3
+B269,,Furnished
+C269,,NO
+B270,,*Serviced
+C270,,NO
+B271,,Individual/Private BATHROOM
+C271,,YES
+B272,,Individual/Private KITCHEN (Cooking) Faciliities Available - Microwave min.
+C272,,YES
+B273,,Individual/Private LAUNDRY Facilities Available
+C273,,YES
+B274,,Individual/Private LOUNGE ROOM Facilities Available
+C274,,YES
+C276,,Sngl Night
+D276,,Week
+E276,,Month
+F276,,Qtr
+B277,,Total Booking Cost 
+C277,=F277/90,77.77777777777777
+D277,=E277/4,583.3333333333334
+E277,=F277/3,2333.3333333333335
+F277,,7000
+B279,,TCS Housing Consumables; …..
+C279,=F279/90,4.444444444444445
+D279,=E279/4,33.333333333333336
+E279,=F279/3,133.33333333333334
+F279,,400
+B280,,TCS Laundry Allowance..?
+C280,=F280/90,0
+D280,=E280/4,0
+E280,=F280/3,0
+F280,,0
+B281,,TCS Additional Meals Allowance (If no cooking Facilities?)
+C281,=F281/90,0
+D281,=E281/4,0
+E281,=F281/3,0
+F281,,0
+B282,,TCS Furnishings?
+C282,=F282/90,31.11111111111111
+D282,=E282/4,233.33333333333334
+E282,=F282/3,933.3333333333334
+F282,,2800
+B283,,TCS Cleaning/Servincing Allowance?
+C283,=F283/90,16.666666666666668
+D283,=E283/4,125
+E283,=F283/3,500
+F283,,1500
+B284,,"TCS Cost - Labour to set up, Fitout etc?"
+C284,=F284/90,11.11111111111111
+D284,=E284/4,83.33333333333333
+E284,=F284/3,333.3333333333333
+F284,,1000
+B286,,Total TCS Cost
+C286,=SUM(C277:C285),141.11111111111111
+D286,=SUM(D277:D285),1058.3333333333335
+E286,=SUM(E277:E285),4233.333333333334
+F286,=SUM(F277:F285),12700
+B287,,Total Cost Per Person
+C287,=D287/7,50.396825396825406
+D287,=D286/C268,352.7777777777778
+E287,=D287*4,1411.1111111111113
+F287,=E287*3,4233.333333333334
+B289,,"1 x Unit, 4 x Room"
+C289,,House
+A290,,HIDDEN
+B290,,No. of persons stayng;
+C290,,4
+B291,,Furnished
+C291,,NO
+B292,,*Serviced
+C292,,NO
+B293,,Individual/Private BATHROOM
+C293,,YES
+B294,,Individual/Private KITCHEN (Cooking) Faciliities Available - Microwave min.
+C294,,YES
+B295,,Individual/Private LAUNDRY Facilities Available
+C295,,YES
+B296,,Individual/Private LOUNGE ROOM Facilities Available
+C296,,YES
+C298,,Sngl Night
+D298,,Week
+E298,,Month
+F298,,Qtr
+B299,,Total Booking Cost 
+C299,=F299/90,87.22222222222223
+D299,=E299/4,654.1666666666666
+E299,=F299/3,2616.6666666666665
+F299,,7850
+B301,,TCS Housing Consumables; …..
+C301,=F301/90,4.444444444444445
+D301,=E301/4,33.333333333333336
+E301,=F301/3,133.33333333333334
+F301,,400
+B302,,TCS Laundry Allowance..?
+C302,=F302/90,0
+D302,=E302/4,0
+E302,=F302/3,0
+F302,,0
+B303,,TCS Additional Meals Allowance (If no cooking Facilities?)
+C303,=F303/90,0
+D303,=E303/4,0
+E303,=F303/3,0
+F303,,0
+B304,,TCS Furnishings?
+C304,=F304/90,38.888888888888886
+D304,=E304/4,291.6666666666667
+E304,=F304/3,1166.6666666666667
+F304,,3500
+B305,,TCS Cleaning/Servincing Allowance?
+C305,=F305/90,20.555555555555557
+D305,=E305/4,154.16666666666666
+E305,=F305/3,616.6666666666666
+F305,,1850
+B306,,"TCS Cost - Labour to set up, Fitout etc?"
+C306,=F306/90,17.77777777777778
+D306,=E306/4,133.33333333333334
+E306,=F306/3,533.3333333333334
+F306,,1600
+B308,,Total TCS Cost
+C308,=SUM(C299:C307),168.88888888888886
+D308,=SUM(D299:D307),1266.6666666666667
+E308,=SUM(E299:E307),5066.666666666667
+F308,=SUM(F299:F307),15200
+B309,,Total Cost Per Person
+C309,=D309/7,45.23809523809524
+D309,=D308/C290,316.6666666666667
+E309,=D309*4,1266.6666666666667
+F309,=E309*3,3800
+B313,,"OPTION AVERAGES - Per Person, Per MONTH (No Project Roster Imapct)"
+B315,,"Single Hotel/Motel, Single Room - NO SHARE"
+F315,=E26,3160
+B317,,"Single Hotel/Motel, Individual Rooms - SHARE HOUSE"
+F317,=AVERAGE(E92),3560
+B319,,"Single Hotel/Motel, ANY ROOM - SHARE ROOM"
+F319,"=AVERAGE(E48,E70)",1320
+B322,,"Cabin/Flat/Unit_Tourist Park Type, Single Room - NO SHARE"
+F322,=E114,3200
+B324,,"Cabin/Flat/Unit_Tourist Park Type, Individual Rooms - SHARE HOUSE"
+F324,"=AVERAGE(E177,E219)",2833.333333333333
+B326,,"Cabin/Flat/Unit_Tourist Park Type, ANY ROOM - SHARE ROOM"
+F326,"=AVERAGE(E240,E198,E156,E135)",1778.3333333333335
+B329,,"Unit / T'House / House_Serviced / Air BnB, Individual Rooms - SHARE HOUSE"
+F329,=E263,1522.222222222222
+B332,,"Unit / T'House / House_Private / TCS Rental, Individual Rooms - SHARE HOUSE"
+F332,"=AVERAGE(E309,E287)",1338.8888888888891
+B336,,BASED ON:
+B337,='LabourProject Rates_Master'!B7,"Work ROSTER Example #3 - 6-Day Week, 10Hr Days, Stay @ Rocky for W/E, Return Every 2nd W/E. (FLY)"
+B338,='LabourProject Rates_Master'!B8,Working Days/Month
+C338,='LabourProject Rates_Master'!C8,21
+D338,,(Add 2.5 days for non-work days spent in accom)
+B339,='LabourProject Rates_Master'!B9,No-Work Days/Month
+C339,='LabourProject Rates_Master'!C9,7
+B340,='LabourProject Rates_Master'!B10,Avrg Hours / Month
+C340,='LabourProject Rates_Master'!C10,210
+B341,,"OPTION AVERAGES - Per Person, Per NIGHT (As Per Project Roster)"
+B343,,"Single Hotel/Motel, Private Unit - NO SHARE"
+F343,=C26,112.85714285714286
+G343,,Nightly Book
+B345,,"Single Hotel/Motel, Individual Rooms - SHARE HOUSE"
+F345,=C92,127.14285714285714
+G345,,Nightly Book
+B347,,"Single Hotel/Motel, ANY ROOM - SHARE ROOM"
+F347,=F319/$C$338,62.857142857142854
+B350,,"Cabin/Flat/Unit_Tourist Park Type, Private Unit - NO SHARE"
+F350,=C114,114.28571428571429
+G350,,Nightly Book
+B352,,"Cabin/Flat/Unit_Tourist Park Type, Individual Rooms - SHARE HOUSE"
+F352,=F324/$C$338,134.9206349206349
+G352,,Long-stay Book
+B354,,"Cabin/Flat/Unit_Tourist Park Type, ANY ROOM - SHARE ROOM"
+F354,=F326/$C$338,84.68253968253968
+B357,,"Unit / T'House / House_Serviced / Air BnB, Individual Rooms - SHARE HOUSE"
+F357,=F329/$C$338,72.48677248677248
+G357,,Long-stay Book
+B360,,"Unit / T'House / House_Private / TCS Rental, Individual Rooms - SHARE HOUSE"
+F360,=F332/$C$338,63.75661375661377
+G360,,Long-stay Book
+B363,,Roster Averages
+B364,,TCS Cost Per Person - Private Unit - NO SHARE - Nightly Booking (average allowance)
+F364,"=AVERAGE(F343,F350)",113.57142857142858
+B365,,TCS Cost Per Person - Individual Room - SHARE HOUSE - Nightly Booking (average allowance)
+F365,"=AVERAGE(F357,F360)",68.12169312169313

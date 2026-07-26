@@ -1,0 +1,349 @@
+﻿cell,formula,cached_value
+D2,,TCS PROJECT USE
+G2,,CAT Rental (ROK)
+J2,,COATES (ROK)
+M2,,ONSITE
+A3,,DESCRIPTION
+B3,,QTY
+D3,,WEEKLY (5 day)
+E3,,COMMENTS
+G3,,WEEKLY (5 day)
+H3,,COMMENTS
+J3,,WEEKLY (5 day)
+K3,,COMMENTS
+M3,,DAILY
+N3,,WEEKLY (5 day)
+O3,,COMMENTS
+A4,,Skid Steer Loader_Tracked
+B4,,0
+D4,,0
+G4,,0
+J4,,0
+M4,,0
+N4,,262
+A5,,Skid Steer Loader_Wheeled
+B5,,0
+D5,,300
+E5,=B5*D5,0
+G5,,250
+J5,,192
+M5,,0
+N5,,0
+A7,,4.5-6Ton_Excavator
+B7,,0
+D7,,200
+G7,,0
+J7,,0
+M7,,0
+N7,,0
+A8,,8Ton_Excavator
+B8,,0
+D8,,250
+E8,=B8*D8,0
+G8,,0
+J8,,0
+M8,,0
+N8,,0
+A9,,10-12Ton_Excavator
+B9,,0
+D9,,310
+E9,=B9*D9,0
+G9,,310
+H9,,13T
+J9,,301
+K9,,12T
+M9,,0
+N9,,300
+O9,,13T
+A10,,14-16Ton_Excavator
+B10,,0
+D10,,440
+E10,=B10*D10,0
+G10,,370
+H10,,17T
+J10,,375
+K10,,14T
+M10,,0
+N10,,295
+O10,,14T
+A11,,20-24Ton_Excavator
+B11,,0
+D11,,450
+E11,=B11*D11,0
+G11,,480
+H11,,25T
+J11,,417
+K11,,20T
+M11,,0
+N11,,444
+O11,,20T
+A13,,Ripper_10-12T
+B13,,0
+D13,,26
+G13,,0
+J13,,25.7
+M13,,0
+N13,,0
+A14,,Ripper_14-16T
+B14,,0
+D14,,26
+G14,,0
+J14,,25.7
+M14,,0
+N14,,21
+A15,,Ripper_20-24T
+B15,,0
+D15,,30
+G15,,0
+J15,,30.1
+M15,,0
+N15,,23
+A16,,Breaker_10-12T
+B16,,0
+D16,,0
+G16,,0
+J16,,0
+M16,,0
+N16,,0
+A17,,Auger Drive_10-12T
+B17,,0
+D17,,115
+E17,=B17*D17,0
+G17,,0
+J17,,0
+M17,,0
+N17,,0
+A18,,300Dia Auger Drill
+B18,,0
+D18,,50
+G18,,0
+J18,,0
+M18,,0
+N18,,0
+A20,,2-4T_Tipper Truck
+B20,,0
+D20,,180
+E20,=B20*D20,0
+G20,,0
+J20,,180
+K20,,2-3T
+M20,,0
+N20,,130
+O20,,2-3T
+A21,,6-12T_Tipper Truck
+B21,,0
+D21,,400
+E21,=B21*D21,0
+G21,,0
+J21,,238
+K21,,6T
+M21,,0
+N21,,0
+A23,,<10T_Articulated Site Tipper
+B23,,0
+D23,,341
+E23,=B23*D23,0
+G23,,0
+J23,,243
+K23,,9T
+M23,,0
+N23,,0
+A24,,Upright Rammer_Wacker
+B24,,0
+D24,,50
+E24,=B24*D24,0
+G24,,0
+J24,,48
+M24,,0
+N24,,46
+A25,,Trench Roller_Dbl Drum_Remote
+B25,,0
+D25,,180
+E25,=B25*D25,0
+G25,,0
+J25,,121
+M25,,0
+N25,,98
+O25,,Rller - padfot?
+A26,,<26Ft_Scissor Lift - Diesel
+B26,,0
+D26,,150
+E26,=B26*D26,0
+G26,,0
+J26,,89
+M26,,0
+N26,,112
+A27,,<26Ft_Scissor Lift - Elec
+B27,,0
+D27,,0
+E27,=B27*D27,0
+G27,,0
+J27,,0
+M27,,0
+N27,,0
+A28,,<34Ft_Boom Lift - Diesel
+B28,,0
+D28,,150
+E28,=B28*D28,0
+G28,,0
+J28,,96
+M28,,0
+N28,,140
+A29,,<34Ft_Boom Lift - Elec
+B29,,0
+D29,,0
+E29,=B29*D29,0
+G29,,0
+J29,,0
+M29,,0
+N29,,0
+A31,,Porta Loo_No Tank
+B31,,0
+D31,,5
+E31,=B31*D31,0
+G31,,0
+J31,,5
+M31,,0
+N31,,7.5
+A32,,3.6*3m Demantable Office
+B32,,0
+D32,,0
+E32,=B32*D32,0
+G32,,0
+J32,,15
+K32,,42D Min.
+M32,,0
+N32,,13
+A33,,20Ft Shipping Container
+B33,,0
+D33,,5
+E33,=B33*D33,0
+G33,,0
+J33,,4
+K33,,42D Min.
+M33,,0
+N33,,0
+A34,,Quick Cut Demo Saw
+B34,,0
+D34,,0
+E34,=B34*D34,0
+G34,,0
+J34,,100
+M34,,0
+N34,,50
+A35,,Sngl Ph_6KVA Genset
+B35,,0
+D35,,50
+E35,=B35*D35,0
+G35,,0
+J35,,45
+M35,,0
+N35,,35
+A36,,Diesel Air Compressor_Trailer
+B36,,0
+D36,,0
+E36,=B36*D36,0
+G36,,0
+J36,,73
+M36,,0
+N36,,68
+A37,,Air Breaker - Heavy
+B37,,0
+D37,,0
+E37,=B37*D37,0
+G37,,0
+J37,,34
+M37,,0
+N37,,0
+A38,,Air Hose <10m
+B38,,0
+D38,,0
+E38,=B38*D38,0
+G38,,0
+J38,,9
+M38,,0
+N38,,1.2
+A39,,Elec Breaker/Jachammer
+B39,,0
+D39,,0
+E39,=B39*D39,0
+G39,,0
+J39,,45
+M39,,0
+N39,,0
+A40,,Flexdrive Motor Unit
+B40,,0
+D40,,0
+E40,=B40*D40,0
+G40,,0
+J40,,25
+M40,,0
+N40,,27
+A41,,Flexdrive_Pump Shaft
+B41,,0
+D41,,0
+E41,=B41*D41,0
+G41,,0
+J41,,30
+M41,,0
+N41,,22
+A42,,Temporary Power Board
+B42,,0
+D42,,25
+E42,=B42*D42,0
+G42,,0
+J42,,30
+M42,,0
+N42,,17
+A44,,Dual CabUte
+B44,,0
+D44,,125
+E44,=B44*D44,0
+G44,,0
+J44,,0
+M44,,0
+N44,,0
+A45,,10m3_Skip Bin
+B45,,0
+D45,,40
+E45,=B45*D45,0
+G45,,0
+J45,,0
+M45,,0
+N45,,0
+A46,,Vac Truck / HR
+B46,,0
+D46,,200
+E46,=B46*D46,0
+G46,,0
+J46,,0
+M46,,0
+N46,,0
+B47,,0
+D47,,0
+G47,,0
+J47,,0
+M47,,0
+N47,,0
+B48,,0
+D48,,0
+G48,,0
+J48,,0
+M48,,0
+N48,,0
+A50,,TRANSPORT_Ex BRIS - Return
+B50,,0
+D50,,0
+G50,,0
+J50,,0
+M50,,0
+N50,,0
+A51,,TRANSPORT_Ex ROK - Return
+B51,,0
+D51,,0
+G51,,0
+J51,,480
+K51,,22T
+M51,,0
+N51,,0
+O51,,0

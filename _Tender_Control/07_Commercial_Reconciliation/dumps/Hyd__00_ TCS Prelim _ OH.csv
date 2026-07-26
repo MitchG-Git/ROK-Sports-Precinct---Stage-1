@@ -1,0 +1,201 @@
+﻿cell,formula,cached_value
+B1,,Project: 
+B2,,Tricore   -
+B3,,Stage 1 Version 1
+A4,,Item  
+A7,,A
+B7,,PRELIMINARIES
+B8,,SUMMARY (Not added in prelim$)
+C9,=[1]Program_MASTER!$B$102,TOTAL Days Mobilized On Site
+C10,=[1]Program_MASTER!B103,Months Mobilized
+C11,=[1]Program_MASTER!B104,Work Weeks' Mobilized On Site
+C12,=[1]Program_MASTER!B105,Work Days
+C13,,Breakdown as per program
+B14,='LabourProject Rates_Master'!$B$14,TRADESMAN_LEADING HAND
+C14,,Day
+E14,=E36,1231.142857142857
+F14,=D14*E14,0
+B15,='LabourProject Rates_Master'!$B$23,TRADESMAN_PLUMBER_OPERATOR
+C15,,Day
+E15,=E37,941.1647284878864
+F15,=D15*E15,0
+B16,='LabourProject Rates_Master'!$B$30,T/A & Apprentice
+C16,,Day
+E16,=E38,768.0650793650794
+F16,=D16*E16,0
+B17,='LabourProject Rates_Master'!$B$36,Crew #1 - InGround Drainage
+C17,,Day
+E17,=E39,2650.394536340852
+F17,=D17*E17,0
+B18,='LabourProject Rates_Master'!$B$43,Crew #2 - InGround Water/Fire
+C18,,Day
+E18,=E40,2650.394536340852
+F18,=D18*E18,0
+E19,,Total Labour
+F19,=SUM(F14:F18),0
+C20,,Total as per stage boq
+E21,,Total Part A Labour
+F21,,0
+E22,,Total Stage 1 Labour
+F22,,0
+E23,,Total Stage 2 Labour
+F23,,0
+E24,,Total Stage 3 Labour
+F24,,0
+E25,,Total Stage 4 Labour
+F25,,0
+F26,=SUM(F21:F25),0
+E27,,Difference
+F27,=F26-F19,0
+C29,,Unit
+D29,,REQ
+E29,,Cost ex GST
+F29,,Total ex GST
+B30,,Labour
+B33,,Contingencies; Wet Weather ?
+B35,,"Superviser; Return Trip, 2 day stay - Inclusive"
+C35,,item
+E35,,2423.8309956709954
+F35,=D35*E35,0
+B36,='LabourProject Rates_Master'!$B$14,TRADESMAN_LEADING HAND
+C36,,Day
+E36,='LabourProject Rates_Master'!$E$15,1231.142857142857
+F36,=E36*D36,0
+B37,='LabourProject Rates_Master'!$B$23,TRADESMAN_PLUMBER_OPERATOR
+C37,,Day
+E37,='LabourProject Rates_Master'!$E$22,941.1647284878864
+F37,=E37*D37,0
+B38,='LabourProject Rates_Master'!$B$30,T/A & Apprentice
+C38,,Day
+E38,='LabourProject Rates_Master'!$E$29,768.0650793650794
+F38,=E38*D38,0
+B39,='LabourProject Rates_Master'!$B$36,Crew #1 - InGround Drainage
+C39,,Day
+E39,='LabourProject Rates_Master'!$E$37,2650.394536340852
+F39,=E39*D39,0
+B40,='LabourProject Rates_Master'!$B$43,Crew #2 - InGround Water/Fire
+C40,,Day
+E40,='LabourProject Rates_Master'!$E$44,2650.394536340852
+F40,=E40*D40,0
+B42,,Management Labour
+B44,='LabourProject Rates_Master'!$B$14,TRADESMAN_LEADING HAND
+C44,,Day
+E44,='LabourProject Rates_Master'!$E$15,1231.142857142857
+F44,=E44*D44,0
+G44,,Included within stages?
+B45,,MH / DQ
+C45,,Day
+E45,,120
+F45,=E45*D45,0
+G45,,Refer Program for approx attendance on site. Technically covered in overheads. E/O for meals etc?
+B46,,MH / DQ - FLIGHTS
+C46,,ea
+E46,,200
+F46,=E46*D46,0
+B51,,ACCOMODATION (Refer Program)
+B52,,Per Month - Full Project (6 Persons)
+B53,='LabourProject Rates_Master'!B100,Full Apartment / TownHouse / Unit - VIA AGENT
+C53,,Month
+E53,='LabourProject Rates_Master'!E103,4606.060606060606
+F53,=D53*E53,0
+G53,,"** 1 x 4Bed House (@650/Wk) fully kitted, +Consumable, +Cleaner etc"
+B54,='LabourProject Rates_Master'!B100,Full Apartment / TownHouse / Unit - VIA AGENT
+C54,,Month
+E54,='LabourProject Rates_Master'!E103,4606.060606060606
+F54,=D54*E54,0
+G54,,"** 1 x 4Bed House (@650/Wk) fully kitted, +Consumable, +Cleaner etc"
+B56,,Individual Night Stay - Private Room/Suite
+H56,,Avrg Nightly Book (LONG STAY)
+B57,='LabourProject Rates_Master'!$B$14,TRADESMAN_LEADING HAND
+G57,=D14,0
+H57,='LabourProject Rates_Master'!$E$109,103.24675324675326
+I57,=H57*G57,0
+B58,='LabourProject Rates_Master'!$B$23,TRADESMAN_PLUMBER_OPERATOR
+G58,=D15,0
+H58,='LabourProject Rates_Master'!$E$109,103.24675324675326
+I58,=H58*G58,0
+B59,='LabourProject Rates_Master'!$B$30,T/A & Apprentice
+G59,=D16,0
+H59,='LabourProject Rates_Master'!$E$109,103.24675324675326
+I59,=H59*G59,0
+B60,='LabourProject Rates_Master'!$B$36,Crew #1 - InGround Drainage
+G60,=D17*3,0
+H60,='LabourProject Rates_Master'!$E$109,103.24675324675326
+I60,=H60*G60,0
+B62,,"Per Night - Extra-Over, Per Person."
+B63,='LabourProject Rates_Master'!B110,TCS Cost Per Person - Private Unit - NO SHARE - Nightly Booking (average allowance)
+C63,,item
+E63,=Accomodation_Master!$F$343,112.85714285714286
+F63,=D63*E63,0
+B65,,MH / DQ
+C65,,item
+E65,,140
+F65,=D65*E65,0
+G65,,TOTAL ACCOM ALLOWANCE
+G66,=SUM(F53:F66),0
+I66,=SUM(I57:I65),0
+B68,,"Equipment, Hire, Subbies"
+B70,,Vehicle - UTE - SUPERVISER
+C70,,Day
+D70,=D14,0
+E70,,90
+F70,=D70*E70,0
+B71,,Vehicle - UTE - TRADESMAN
+C71,,Day
+D71,=D15,0
+E71,,60
+F71,=D71*E71,0
+B72,,Vehicle - UTE - TRADESMAN / TA
+C72,,Day
+D72,=D16,0
+E72,,40
+F72,=D72*E72,0
+B74,,Site Vehicle - Ute/Buggy
+C74,,Day
+E74,,90
+F74,=D74*E74,0
+B77,='Equip&HIRE_Master'!A40,Porta Loo_No Tank
+C77,,Day
+E77,='Equip&HIRE_Master'!D40,5.46
+F77,=D77*E77,0
+B78,='Equip&HIRE_Master'!A41,6*3m Demantable Lunchroom - COMPLETE
+C78,,Day
+D78,=D9,0
+E78,='Equip&HIRE_Master'!D41,23
+F78,=D78*E78,0
+B79,='Equip&HIRE_Master'!A42,6*3m Demantable Office - COMPLETE
+C79,,Day
+D79,=D9,0
+E79,='Equip&HIRE_Master'!D42,23
+F79,=D79*E79,0
+B80,='Equip&HIRE_Master'!A43,20Ft Shipping Container
+C80,,BUY
+E80,,1800
+F80,=D80*E80,0
+B81,,Skip Bin
+C81,,Changeover
+D81,=D10,0
+E81,='Equip&HIRE_Master'!D59,239.8
+F81,=D81*E81,0
+B85,,Misc.
+B87,,INSURANCE
+C87,,item
+D87,,0
+E87,,20000
+F87,=D87*E87,0
+E89,,Total TCS Prelims 
+F89,=SUM(F32:F88),0
+A92,,A
+B92,,OverHeads
+C93,,Unit
+D93,,REQ
+E93,,Cost ex GST
+F93,,Total ex GST
+G93,,Percentage across Project COST
+B94,,TriCore Overheads - COMPLETE…PER MONTH
+C94,,item
+E94,,40000
+F94,=D94*E94,0
+G94,='TCS $ Sched'!$Q$68,0.18
+E96,,Total TCS O/H
+F96,=SUM(F94:F95),0

@@ -1,0 +1,65 @@
+﻿cell,formula,cached_value
+G3,, 
+B6,,SUMMARY 
+V6,,WSUD FILTRATION SYSTEM 
+V7,,Cost
+W7,,88838
+Y7,,Cost
+Z7,,0
+B8,,JOB DESCRIPTION: 
+G8,, Rockhampton Sport Precinct
+K8,,2026-07-16 00:00:00
+V8,,Markup
+W8,,0.15
+Y8,,Markup
+Z8,,0.1
+B9,,SITE ADDRESS:
+G9,,"554-700 YAAMBA ROAD, NORMAN GARDEN"
+K9,,TCS Quote #: 2372
+V9,,Charge = 
+W9,=W7+(W7*W8),102163.7
+Y9,,Charge = 
+Z9,=Z7+(Z7*Z8),0
+R10,,Cost
+S10,,(Cost + O/H) + Profit
+V10,,install estimate 
+W10,,6000
+K11,,TOTALS
+V11,,fuel levy estimate 
+W11,,2500
+W12,=W9+W10+W11,110663.7
+B13,,PART A
+F13,,Stormwater Drainage
+K13,=S13+W12,890849.9460368599
+R13,='SW Zone Sumry'!F70,535364.1982
+S13,=((R13/$R$26)*($R$36-$R$26))+R13,780186.2460368599
+F15,,Supply of 
+C24,,.
+J26,,TOTAL ex GST
+K26,=SUM(K13:K22),890849.9460368599
+R26,=SUM(R13:R18),535364.1982
+S26,=SUM(S13:S18),780186.2460368599
+T28,,Manual Calc
+P29,,Prelim
+Q29,,0.055
+R29,=R26*Q29,29445.030901
+S29,,of total cost
+T29,='Prelim_OH-Check'!F42,0
+P30,,O/H
+Q30,,0.18
+R30,=R26*Q30,96365.55567599999
+S30,,of total cost
+T30,='Prelim_OH-Check'!F47,0
+P32,,Sub Total
+R32,=SUM(R26:R31),661174.784777
+S32,,total cost + Prelim + O/H
+P35,,Gross Profit
+Q35,,0.18
+R35,=R32*Q35,119011.46125985999
+S35,,Exl equip & Fixt
+P36,,Grand Total
+R36,=SUM(R32:R35),780186.2460368599
+P38,,Total Markup
+Q38,=SUM(Q29:Q37),0.415
+P40,,Net Profit Incl Equip
+R40,=R35,119011.46125985999

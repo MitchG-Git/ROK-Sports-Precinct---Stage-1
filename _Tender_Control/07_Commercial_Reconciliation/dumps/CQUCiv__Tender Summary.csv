@@ -1,0 +1,63 @@
+﻿cell,formula,cached_value
+A1,,CQU Rockhampton TAFE Consolidation - Stage 2
+A2,,Civil Construction and Earthworks Tender Pricing
+A4,,Date
+B4,,"Thursday 30 April, 2026"
+A5,,Quote #
+B5,,TBC
+A6,,Prepared For
+B6,,Estimator
+A7,,Project
+B7,,CQU Rockhampton TAFE Consolidation - Stage 2
+A8,,Tender Basis
+B8,,Lump Sum construct-only civil pricing - subject to clarifications herein
+A9,,Validity
+B9,,30 days from proposal date
+A11,,Work Area / Section
+B11,,Amount ex GST
+C11,,Reference
+A12,,ROK092 Groundworks
+B12,='T04-GROUNDWORKS'!F24,747881.8
+C12,,T04.2 to T04.12
+A13,,ROK092 Exterior Elements
+B13,=SUM('T04-GROUNDWORKS'!F30:F49),610068.675
+C13,,T37.1 to T37.14
+A14,,ROK021A Groundworks
+B14,='T04-GROUNDWORKS'!F66,10068.5375
+C14,,T04.2 to T04.7
+A15,,ROK021A Exterior Elements
+B15,='T04-GROUNDWORKS'!F74,11212.5
+C15,,T37.2
+A16,,ROK033 Groundworks
+B16,=SUM('T04-GROUNDWORKS'!F85:F95),72649.2375
+C16,,T04.2 to T04.9
+A17,,ROK033 Exterior Elements
+B17,=SUM('T04-GROUNDWORKS'!F103:F105),10235
+C17,,T37.2 to T37.3
+A18,,ROK036 Groundworks
+B18,=SUM('T04-GROUNDWORKS'!F116:F124),49239.262500000004
+C18,,T04.3 to T04.8
+A19,,ROK036 Exterior Elements
+B19,=SUM('T04-GROUNDWORKS'!F131:F144),223613.475
+C19,,T37.2 to T37.12
+A20,,ROK076 Groundworks
+B20,=SUM('T04-GROUNDWORKS'!F153:F161),22648.3875
+C20,,T04.2 to T04.7
+A21,,ROK076 Exterior Elements
+B21,=SUM('T04-GROUNDWORKS'!F169:F171),25857.75
+C21,,T37.2 to T37.3
+A22,,Base BOQ Direct Civil Works
+B22,='T04-GROUNDWORKS'!F173,1783474.625
+C22,,Subtotal
+A23,,Tender Completion / Risk Allowance (7.5%)
+B23,='T04-GROUNDWORKS'!F174,133760.596875
+C23,,Allowance
+A24,,Tender Value Excluding GST
+B24,='T04-GROUNDWORKS'!F175,1917235.221875
+C24,,Lump Sum
+A25,,GST (10%)
+B25,='T04-GROUNDWORKS'!F176,191723.52218750003
+C25,,GST
+A26,,Tender Value Including GST
+B26,='T04-GROUNDWORKS'!F177,2108958.7440625
+C26,,Lump Sum

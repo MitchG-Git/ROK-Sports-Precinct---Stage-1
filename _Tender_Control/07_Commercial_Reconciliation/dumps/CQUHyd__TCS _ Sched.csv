@@ -1,0 +1,853 @@
+﻿cell,formula,cached_value
+N1,, 
+N2,, 
+B3,, 
+B6,,SUMMARY 
+V6,,BIG TICKET ITEMS
+B8,,JOB DESCRIPTION: 
+I8,,CQU Rockhampton TAFE Consolidation - Stage 2 Hydraulic Services
+N8,,DATE: 
+V8,,ROK 092
+B9,,SITE ADDRESS:
+I9,,"554/700 Yaamba Road, Norman Gardens QLD 4701"
+N9,,TCS Quote #:  **
+R10,,Cost
+S10,,(Cost + O/H) + Profit
+V10,,"TRADE WASTE
+HOLDING TANK HOL(1)"
+Y10,,ROK 092 - Sanitary Drainage Pump Station SDPS
+AB10,,ROK 092 - OIL/WATER SEPARATOR (OWS 2)
+N11,,TOTALS
+V11,,Purchase Cost Total
+W11,,18000
+Y11,,Purchase Cost Total
+Z11,,35563
+AB11,,Purchase Cost Total
+AC11,,15932
+V13,,TPS Markup
+W13,,1.15
+Y13,,TPS Markup
+Z13,,1.15
+AB13,,TPS Markup
+AC13,,1.15
+B14,,ROK092
+V14,,Qty 
+W14,,1
+Y14,,Qty 
+Z14,,1
+AB14,,Qty 
+AC14,,1
+V15,,Freight 
+W15,,121
+Y15,,Freight 
+Z15,,8965
+AB15,,Freight 
+AC15,,2000
+B16,,A
+C16,,.
+D16,,1
+I16,,ROK 092 _ Hydraulic & Fire Services Complete
+N16,=S16+Z17+W17+AC17+AC27+Z27+W26+W54+AC36+AC44+Z44+W44,1095606.7465028488
+R16,='ROK092'!F908,651013.3564091794
+S16,=((R16/$R$64)*($R$74-$R$64))+R16,959447.4265028489
+V16,,Installation_MH
+W16,,1850
+Y16,,Installation_MH
+Z16,,1250
+AB16,,Installation_MH
+AC16,,2500
+B17,,A
+C17,,.
+D17,,1
+E17,,.
+F17,,1
+J17,,"ROK092 - Ground Floor - InGround Services (Drainage, Water, Fire) - internal allocation only, included in complete line above"
+M17,=C128,554891.285664268
+N17,,0
+V17,,TOTAL
+W17,=W11*W13*W14+W15+W16,22671
+Y17,,TOTAL
+Z17,=Z11*Z13*Z14+Z15+Z16,51112.45
+AB17,,TOTAL
+AC17,=AC11*AC13*AC14+AC15+AC16,22821.8
+B18,,A
+C18,,.
+D18,,1
+E18,,.
+F18,,2
+J18,,Temps_ Plumbing Services and Connections for 'Typical' Construction temps
+M18,,8620
+N18,=M18,8620
+B19,,A
+C19,,.
+D19,,1
+E19,,.
+F19,,3
+J19,,Supply Hydraulic Fixtures
+M19,,0
+N19,=F89,86981.51
+V19,,ROK 092 - Rainwater Pump 1(Dave KRB4 )
+V20,,Purchase Cost Total
+W20,,2092
+Y20,,ROK 092 - Rainwater Harvesting Filters - RWF (1)
+AB20,,"RAIN WATER
+HARVESTING
+TANK RWHT (1)"
+B21,,ROK021A
+Y21,,Purchase Cost Total
+Z21,,4135
+AB21,,Purchase Cost Total
+AC21,,13200
+V22,,TPS Markup
+W22,,1.15
+B23,,B
+C23,,.
+D23,,1
+I23,,ROK021A_ Hydraulic & Fire Services Complete
+N23,=S23+W65,81315.80178088859
+R23,=ROK21A!F853,54039.91026757662
+S23,=((R23/$R$64)*($R$74-$R$64))+R23,79642.68678088859
+V23,,Qty 
+W23,,1
+Y23,,TPS Markup
+Z23,,1.15
+AB23,,TPS Markup
+AC23,,1.15
+B24,,B
+C24,,.
+D24,,1
+E24,,.
+F24,,1
+J24,,Temps_ Plumbing Services and Connections for 'Typical' Construction temps
+M24,,500
+N24,=M24,500
+V24,,Freight 
+W24,,121
+Y24,,Qty 
+Z24,,1
+AB24,,Qty 
+AC24,,1
+B25,,B
+C25,,.
+D25,,1
+E25,,.
+F25,,2
+J25,,Supply Hydraulic Fixtures
+M25,,0
+N25,=F90,2894.14
+V25,,Installation_MH
+W25,,1000
+Y25,,Freight 
+Z25,,121
+AB25,,Freight 
+V26,,TOTAL
+W26,=W20*W22*W23+W24+W25,3526.7999999999997
+Y26,,Installation_MH
+Z26,,1000
+AB26,,Installation_MH
+AC26,,1000
+B27,,ROK019
+Y27,,TOTAL
+Z27,=Z21*Z23*Z24+Z25+Z26,5876.25
+AB27,,TOTAL
+AC27,=AC21*AC23*AC24+AC25+AC26,16179.999999999998
+B29,,C
+C29,,.
+D29,,1
+I29,,ROK019_ Hydraulic & Fire Services Complete
+N29,=S29+W77+Z77,208524.7597640579
+R29,='ROK019'!F854,137986.01125379285
+S29,=((R29/$R$64)*($R$74-$R$64))+R29,203360.3797640579
+B30,,C
+C30,,.
+D30,,1
+E30,,.
+F30,,1
+J30,,Temps_ Plumbing Services and Connections for 'Typical' Construction temps
+M30,,3840
+N30,=M30,3840
+V30,,ROK 092 - Boiling/ Chilled /Hot Water Unit BCHWU (1)
+Y30,,ROK 092 - Boiling Chilled water unit BCWU (1)
+AB30,,ROK 092 - HWU 4 DHE27
+B31,,C
+C31,,.
+D31,,1
+E31,,.
+F31,,2
+J31,,Supply Hydraulic Fixtures
+M31,,0
+N31,=F91,15642.67
+V31,,Purchase Cost Total
+W31,,6930.1
+Y31,,Purchase Cost Total
+Z31,,4056.3
+AB31,,Purchase Cost Total
+AC31,,1432.3
+Y32,,FONT KID 
+Z32,,415.3
+B33,,ROK033
+V33,,TPS Markup
+W33,,1.15
+Y33,,TPS Markup
+Z33,,1.15
+AB33,,TPS Markup
+AC33,,1.15
+V34,,Qty 
+W34,,1
+Y34,,Qty 
+Z34,,1
+AB34,,Qty 
+AC34,,1
+B35,,D
+C35,,.
+D35,,1
+I35,,ROK033_ Hydraulic & Fire Services Complete
+N35,=S35+W88+Z88+AC88,402815.2127460333
+R35,='ROK033'!F860,264906.62372489716
+S35,=((R35/$R$64)*($R$74-$R$64))+R35,390412.84774603334
+V35,,Installation_MH
+Y35,,Installation_MH
+AB35,,Installation_MH
+AC35,,500
+B36,,D
+C36,,.
+D36,,1
+E36,,.
+F36,,1
+J36,,Temps_ Plumbing Services and Connections for 'Typical' Construction temps
+M36,,3840
+N36,=M36,3840
+V36,,TOTAL
+W36,=W31*W33*W34+W35,7969.615
+Y36,,TOTAL
+Z36,=Z31*Z33*Z34+Z32+Z35,5080.045
+AB36,,TOTAL
+AC36,=AC31*AC33*AC34+AC35,2147.1449999999995
+B37,,D
+C37,,.
+D37,,1
+E37,,.
+F37,,2
+J37,,Supply Hydraulic Fixtures
+M37,,0
+N37,=F92,46501.03
+V38,,ROK 092 - HWU 5 DEL 27 PLUS 
+Y38,,ROK 092 - HWU 6 DEL 18
+AB38,,ROK 092 - HWU 7 DHB-E 13 LCD
+B39,,ROK034
+V39,,Purchase Cost Total
+W39,,1302.1
+Y39,,Purchase Cost Total
+Z39,,1240.1
+AB39,,Purchase Cost Total
+AC39,,1020.1
+B41,,E
+C41,,.
+D41,,1
+I41,,ROK034_ Hydraulic & Fire Services Complete
+N41,=S41,71020.58171693789
+R41,='ROK034'!F852,48189.55786478297
+S41,=((R41/$R$64)*($R$74-$R$64))+R41,71020.58171693789
+V41,,TPS Markup
+W41,,1.15
+Y41,,TPS Markup
+Z41,,1.15
+AB41,,TPS Markup
+AC41,,1.15
+B42,,E
+C42,,.
+D42,,1
+E42,,.
+F42,,1
+J42,,Temps_ Plumbing Services and Connections for 'Typical' Construction temps
+M42,,500
+N42,=M42,500
+V42,,Qty 
+W42,,1
+Y42,,Qty 
+Z42,,3
+AB42,,Qty 
+AC42,,1
+B43,,E
+C43,,.
+D43,,1
+E43,,.
+F43,,2
+J43,,Supply Hydraulic Fixtures
+M43,,0
+N43,=F93,8290.53
+V43,,Installation_MH
+W43,,500
+Y43,,Installation_MH
+Z43,,500
+AB43,,Installation_MH
+AC43,,500
+V44,,TOTAL
+W44,=W39*W41*W42+W43,1997.4149999999997
+Y44,,TOTAL
+Z44,=Z39*Z41*Z42+Z43,4778.344999999999
+AB44,,TOTAL
+AC44,=AC39*AC41*AC42+AC43,1673.115
+B45,,ROK036
+B47,,F
+C47,,.
+D47,,1
+I47,,ROK036_ Hydraulic & Fire Services Complete
+N47,=S47+W110+AC110+Z120+W120,1085738.2157506926
+R47,='ROK036'!F938,717701.2612810322
+S47,=((R47/$R$64)*($R$74-$R$64))+R47,1057730.4157506926
+B48,,F
+C48,,.
+D48,,1
+E48,,.
+F48,,1
+J48,,Temps_ Plumbing Services and Connections for 'Typical' Construction temps
+M48,,3840
+N48,=M48,3840
+V48,,ROK 092 - Lift Pump Sump 
+B49,,F
+C49,,.
+D49,,1
+E49,,.
+F49,,2
+J49,,Supply Hydraulic Fixtures
+M49,,0
+N49,=F94,89686.43
+V49,,Purchase Cost Total
+W49,,2500
+B51,,ROK076
+V51,,TPS Markup
+W51,,1.15
+V52,,Qty 
+W52,,1
+B53,,G
+C53,,.
+D53,,1
+I53,,ROK076_ Hydraulic & Fire Services Complete
+N53,=S53+W131+Z131+AC131+Z140+W140,249571.159610497
+R53,='ROK076'!F883,142212.90235756352
+S53,=((R53/$R$64)*($R$74-$R$64))+R53,209589.86761049705
+V53,,Installation_MH
+W53,,500
+B54,,G
+C54,,.
+D54,,1
+E54,,.
+F54,,1
+J54,,Temps_ Plumbing Services and Connections for 'Typical' Construction temps
+M54,,500
+N54,=M54,500
+V54,,TOTAL
+W54,=W49*W51*W52+W53,3375
+B55,,G
+C55,,.
+D55,,1
+E55,,.
+F55,,2
+J55,,Supply Hydraulic Fixtures
+M55,,0
+N55,=F95,33192.94
+B57,,Misc
+V57,,ROK 21 A 
+B59,,H
+C59,,.
+D59,,1
+I59,,Hydraulic Services Design - IFC / Council / Schematics / Details / As-Constructed
+N59,=C85,153440
+R59,='ROK076'!F887,0
+S59,=((R59/$R$64)*($R$74-$R$64))+R59,0
+V59,,ROK 21A - HWU 7 DHB-E 13 LCD
+B60,,H
+C60,,.
+D60,,1
+E60,,.
+F60,,1
+J60,,Design PI / indemnity carried by engaged hydraulic consultant; TPS carries coordination and submission only
+M60,,1
+V60,,Purchase Cost Total
+W60,,1020.1
+B61,,B
+C61,,.
+D61,,1
+E61,,.
+F61,,2
+J61,,Provisional Sums / Allowances - refer live schedule below
+M61,,0
+N61,=F119,310784
+V62,,TPS Markup
+W62,,1.15
+V63,,Qty 
+W63,,1
+M64,,SUB-TOTAL
+N64,=SUM(N16:N63),3963645.7278719563
+R64,=SUM(R13:R63),2016049.6231588249
+S64,=SUM(S13:S26),1039090.1132837374
+V64,,Installation_MH
+W64,,500
+V65,,TOTAL
+W65,=W60*W62*W63+W64,1673.115
+M66,,10% GST
+N66,=N64*0.1,396364.5727871957
+P67,,Prelim
+Q67,=R67/R64,0.07039511389208405
+R67,='00_ TCS Prelim & OH'!F89,141920.0428343586
+S67,,of total cost
+M68,,GRAND TOTAL
+N68,=N64+N66,4360010.300659152
+P68,,O/H
+Q68,=R68/R64,0.17856703320424128
+R68,='00_ TCS Prelim & OH'!F96,360000
+S68,,of total cost
+V68,,ROK 19 
+Q69,,.
+P70,,Sub Total
+R70,=SUM(R64:R69),2517969.6659931834
+S70,,total cost + Prelim + O/H
+V71,,ROK 19 - HWU 2 RHEEM  315 Liter  7.2kw 
+Y71,,ROK 19 - HWU 3 RHEEM 50 LITTER  10.8KW
+AB71,,ROK 19 - Boiling Chilled water unit BCWU (1)
+P72,,Profit
+Q72,,0.18
+R72,=R70*Q72,453234.539878773
+S72,,Gross
+V72,,Purchase Cost Total
+W72,,1889
+Y72,,Purchase Cost Total
+Z72,,1732.2
+AB72,,Purchase Cost Total
+AC72,,4056.3
+P73,,Total Markup
+Q73,=SUM(Q67:Q72),0.4289621470963253
+AB73,,FONT KID 
+AC73,,415.3
+P74,,Grand Total
+R74,=SUM(R70:R72),2971204.2058719564
+V74,,TPS Markup
+W74,,1.15
+Y74,,TPS Markup
+Z74,,1.15
+AB74,,TPS Markup
+AC74,,1.15
+V75,,Qty 
+W75,,1
+Y75,,Qty 
+Z75,,1
+AB75,,Qty 
+AC75,,1
+V76,,Installation_MH
+W76,,500
+Y76,,Installation_MH
+Z76,,500
+AB76,,Installation_MH
+V77,,TOTAL
+W77,=W72*W74*W75+W76,2672.35
+Y77,,TOTAL
+Z77,=Z72*Z74*Z75+Z76,2492.0299999999997
+AB77,,TOTAL
+AC77,=AC72*AC74*AC75+AC76,4664.745
+B80,,SOL LIVE INPUTS / ALLOWANCES - INTERNAL ONLY
+V80,,ROK 33
+B82,,Fixture markup %
+C82,,0.155
+V82,,ROK 33 - HWCP  2   Grundfos circulator Model UPS 20-60N pumps
+Y82,,ROK 33 - HWU 1 RHEEM 10.8KW
+AB82,,ROK 033 - Lift Pump Sump 
+B83,,Allowance uplift factor
+C83,,1.2
+V83,,Purchase Cost Total
+W83,,4545
+Y83,,Purchase Cost Total
+Z83,,3150.1
+AB83,,Purchase Cost Total
+AC83,,1600
+B84,,Hydraulic design consultant cost
+C84,,137000
+V84,,Friehgt 
+W84,,213
+B85,,Hydraulic design TPS tender charge
+C85,,153440
+V85,,TPS Markup
+W85,,1.15
+Y85,,TPS Markup
+Z85,,1.15
+AB85,,TPS Markup
+AC85,,1.15
+V86,,Qty 
+W86,,1
+Y86,,Qty 
+Z86,,1
+AB86,,Qty 
+AC86,,1
+B87,,Fixture supply roll-up
+V87,,Installation_MH
+W87,,500
+Y87,,Installation_MH
+Z87,,500
+AB87,,Installation_MH
+AC87,,500
+B88,,Project Code
+C88,,Work Area
+D88,,Quoted ex GST base
+E88,,Markup %
+F88,,Tender value ex GST
+G88,,Notes
+V88,,TOTAL
+W88,=W83*W85*W86+W87+W84,5939.75
+Y88,,TOTAL
+Z88,=Z83*Z85*Z86+Z87,4122.615
+AB88,,TOTAL
+AC88,=AC83*AC85*AC86+AC87,2340
+B89,,ROK092
+C89,,New Trades Building
+D89,,75308.66666666666
+E89,=$C$82,0.155
+F89,=D89*(1+E89),86981.51
+G89,,Hydraulic/plumbing fixture component only.
+B90,,ROK021A
+C90,,Engineering Workshop
+D90,,2505.7489177489174
+E90,=$C$82,0.155
+F90,=D90*(1+E90),2894.14
+G90,,Hydraulic/plumbing fixture component only.
+B91,,ROK019
+C91,,Building 19 Level 3
+D91,,13543.43722943723
+E91,=$C$82,0.155
+F91,=D91*(1+E91),15642.67
+G91,,Hydraulic/plumbing fixture component only.
+V91,,ROK 34
+B92,,ROK033
+C92,,Building 33 Levels 1 and 2
+D92,,40260.632034632035
+E92,=$C$82,0.155
+F92,=D92*(1+E92),46501.03
+G92,,Hydraulic/plumbing fixture component only.
+B93,,ROK034
+C93,,Building 34 Ground Floor
+D93,,7177.948051948052
+E93,=$C$82,0.155
+F93,=D93*(1+E93),8290.53
+G93,,Hydraulic/plumbing fixture component only.
+V93,,ROK 34 - Boiling Chilled water unit BCWU (1)
+B94,,ROK036
+C94,,Building 36 Ground and Level 1
+D94,,77650.58874458873
+E94,=$C$82,0.155
+F94,=D94*(1+E94),89686.43
+G94,,Hydraulic/plumbing fixture component only.
+V94,,Purchase Cost Total
+W94,,4056.3
+B95,,ROK076
+C95,,Horticulture facilities
+D95,,28738.47619047619
+E95,=$C$82,0.155
+F95,=D95*(1+E95),33192.94
+G95,,Prefab amenities internal fixtures by others; connection/commissioning only where applicable.
+V95,,FONT KID 
+W95,,415.3
+B96,,PSUM / allowance schedule
+V96,,TPS Markup
+W96,,1.15
+V97,,Qty 
+W97,,2
+B98,,Building
+C98,,Type
+D98,,Item
+E98,,Base/direct amount
+F98,,Uplift factor
+G98,,Final amount
+H98,,Notes
+V98,,Installation_MH
+B99,,ALL
+C99,,PSUM
+D99,,Cold water meters to each building only
+E99,,12250
+F99,,1
+G99,=E99*F99,12250
+H99,,Cold water only; excludes AMR/BMS/metering head-end/software.
+V99,,TOTAL
+W99,=W94*W96*W97+W98,9329.49
+B100,,ROK092
+C100,,PSUM
+D100,,Existing sewer pump station relocation/reinstatement
+E100,,72500
+F100,,1
+G100,=E100*F100,72500
+H100,,"Supply/install allowance; provisional duty, size, specification and control panel."
+B101,,ROK019
+C101,,PSUM
+D101,,Existing cold water booster pumpset replacement
+E101,,16850
+F101,,1
+G101,=E101*F101,16850
+H101,,"Provisional Grundfos Hydro Solo-E CRIE 10-5 type, 40mm connections; final duty/spec/panel by design."
+B102,,ROK033
+C102,,PSUM
+D102,,Dark room neutralisation box + RPZD allowance
+E102,,5890
+F102,,1
+G102,=E102*F102,5890
+H102,,No detail issued. Provisional 100mm waste point and 20mm RPZD.
+V102,,ROK 36
+B103,,ROK019
+C103,,Allowance
+D103,,Acoustic lagging
+E103,,3900
+F103,=$C$83,1.2
+G103,=E103*F103,4680
+H103,,Lump sum allowance as/if required.
+B104,,ROK033
+C104,,Allowance
+D104,,Acoustic lagging
+E104,,12525
+F104,=$C$83,1.2
+G104,=E104*F104,15030
+H104,,Lump sum allowance as/if required.
+V104,,"ROK 36 - GIT(1)GREASE INTERCEPTOR
+TRAP"
+Y104,,ROK 36 - Boiling Chilled water unit BCWU (1)
+AB104,,"ROK 36 - HWCP 1 HOT WATER
+CIRCULATION
+PUMPS GRUNDFOS UPS 20-60N"
+B105,,ROK036
+C105,,Allowance
+D105,,Acoustic lagging
+E105,,25950
+F105,=$C$83,1.2
+G105,=E105*F105,31140
+H105,,Lump sum allowance as/if required.
+V105,,Purchase Cost Total
+W105,,11650
+Y105,,Purchase Cost Total
+Z105,,4056.3
+AB105,,Purchase Cost Total
+AC105,,4845
+B106,,ROK092
+C106,,Allowance
+D106,,Acoustic lagging
+E106,,40200
+F106,=$C$83,1.2
+G106,=E106*F106,48240
+H106,,Lump sum allowance as/if required.
+Y106,,FONT KID 
+Z106,,415.3
+AB106,,FRIEGHT 
+AC106,,213
+B107,,ROK092
+C107,,Allowance
+D107,,Additional drainage articulation
+E107,,8680
+F107,=$C$83,1.2
+G107,=E107*F107,10416
+H107,,Lump sum allowance as/if required.
+V107,,TPS Markup
+W107,,1.15
+Y107,,TPS Markup
+Z107,,1.15
+AB107,,TPS Markup
+AC107,,1.15
+B108,,ROK021A
+C108,,Allowance
+D108,,Additional drainage articulation
+E108,,1120
+F108,=$C$83,1.2
+G108,=E108*F108,1344
+H108,,Lump sum allowance as/if required.
+V108,,Qty 
+W108,,1
+Y108,,Qty 
+Z108,,1
+AB108,,Qty 
+AC108,,1
+B109,,ROK034
+C109,,Allowance
+D109,,Additional drainage articulation
+E109,,560
+F109,=$C$83,1.2
+G109,=E109*F109,672
+H109,,Lump sum allowance as/if required.
+V109,,Installation_MH
+W109,,2200
+Y109,,Installation_MH
+AB109,,Installation_MH
+AC109,,500
+B110,,ROK036
+C110,,Allowance
+D110,,Additional drainage articulation
+E110,,17640
+F110,=$C$83,1.2
+G110,=E110*F110,21168
+H110,,Lump sum allowance as/if required.
+V110,,TOTAL
+W110,=W105*W107*W108+W109,15597.499999999998
+Y110,,TOTAL
+Z110,=Z105*Z107*Z108+Z109,4664.745
+AB110,,TOTAL
+AC110,=AC105*AC107*AC108+AC106+AC109,6284.75
+B111,,ROK076
+C111,,Allowance
+D111,,Additional drainage articulation
+E111,,3640
+F111,=$C$83,1.2
+G111,=E111*F111,4368
+H111,,Lump sum allowance as/if required.
+B112,,ROK019
+C112,,Allowance
+D112,,Core hole cutting allowance
+E112,,7560
+F112,=$C$83,1.2
+G112,=E112*F112,9072
+H112,,Lump sum allowance as/if required; approx. 130mm depth.
+B113,,ROK033
+C113,,Allowance
+D113,,Core hole cutting allowance
+E113,,7920
+F113,=$C$83,1.2
+G113,=E113*F113,9504
+H113,,Lump sum allowance as/if required; approx. 130mm depth.
+B114,,ROK019
+C114,,Allowance
+D114,,Passive fire collars / service penetration sealing
+E114,,12600
+F114,=$C$83,1.2
+G114,=E114*F114,15120
+H114,,Lump sum allowance as/if required.
+V114,,ROK 36 - HWU 1  RHEEM  613-315
+Y114,,ROK 036 - Lift Pump Sump 
+B115,,ROK033
+C115,,Allowance
+D115,,Passive fire collars / service penetration sealing
+E115,,13200
+F115,=$C$83,1.2
+G115,=E115*F115,15840
+H115,,Lump sum allowance as/if required.
+V115,,Purchase Cost Total
+W115,,2857
+Y115,,Purchase Cost Total
+Z115,,1600
+B116,,ROK036
+C116,,Allowance
+D116,,Passive fire collars / service penetration sealing
+E116,,6000
+F116,=$C$83,1.2
+G116,=E116*F116,7200
+H116,,Lump sum allowance as/if required.
+V116,,FONT KID 
+B117,,ROK092
+C117,,Allowance
+D117,,Passive fire collars / service penetration sealing
+E117,,6000
+F117,=$C$83,1.2
+G117,=E117*F117,7200
+H117,,Lump sum allowance as/if required.
+V117,,TPS Markup
+W117,,1.15
+Y117,,TPS Markup
+Z117,,1.15
+B118,,VARIOUS
+C118,,Allowance
+D118,,External vent terminals / extensions
+E118,,2300
+F118,,1
+G118,=E118*F118,2300
+H118,,Final external vent routing where required by coordination.
+V118,,Qty 
+W118,,1
+Y118,,Qty 
+Z118,,1
+D119,,TOTAL PSUM / ALLOWANCES
+F119,=SUM(G99:G118),310784
+V119,,Installation_MH
+W119,,500
+Y119,,Installation_MH
+Z119,,500
+V120,,TOTAL
+W120,=W115*W117*W118+W119,3785.5499999999997
+Y120,,TOTAL
+Z120,=Z115*Z117*Z118+Z119,2340
+B122,,ROK092 in-ground allocation calculation
+B123,,Raw in-ground categories from ROK092 tab
+C123,=SUM('ROK092'!F18:F19)+SUM('ROK092'!F74:F104)+SUM('ROK092'!F136:F152)+SUM('ROK092'!F173:F279)+SUM('ROK092'!F357:F416)+SUM('ROK092'!F711:F890)+SUM('ROK092'!F946:F966),285104.1106368371
+V123,,ROK 76
+B124,,ROK092 contingency factor
+C124,='ROK092'!F904,1.15
+B125,,ROK092 proportional delivery allowance
+C125,='ROK092'!F905*(C123/'ROK092'!F901),1848.613290434235
+V125,,"ROK 76 - RWHT2  BUSHMAN TANKS  15,000 EACH"
+Y125,,ROK 76 -RWP 2
+AB125,,ROK 76 -RWF 2 
+B126,,In-ground base after contingency/delivery
+C126,=C123*C124+C125,329718.34052279685
+V126,,Purchase Cost Total
+W126,,11500
+Y126,,Purchase Cost Total
+Z126,,2092
+AB126,,Purchase Cost Total
+AC126,,4135.88
+B127,,ROK092 tender markup factor from original summary
+C127,=N16/R16,1.682925143880198
+Y127,,FRIGHT 
+Z127,,120
+AB127,,FRIGHT 
+AC127,,150
+B128,,ROK092 in-ground tender allocation
+C128,=C126*C127,554891.285664268
+V128,,TPS Markup
+W128,,1.15
+Y128,,TPS Markup
+Z128,,1.15
+AB128,,TPS Markup
+AC128,,1.15
+B129,,Related ROK092 sewer pump station PSUM - separately added
+C129,=G100,72500
+V129,,Qty 
+W129,,2
+Y129,,Qty 
+Z129,,1
+AB129,,Qty 
+AC129,,1
+B130,,ROK092 in-ground + related pump station exposure
+C130,=C128+C129,627391.285664268
+V130,,Installation_MH
+W130,,1500
+Y130,,Installation_MH
+Z130,,500
+AB130,,Installation_MH
+AC130,,500
+V131,,TOTAL
+W131,=W126*W128*W129+W130,27949.999999999996
+Y131,,TOTAL
+Z131,=Z126*Z128*Z129+Z127+Z130,3025.7999999999997
+AB131,,TOTAL
+AC131,=AC126*AC128*AC129+AC127+AC130,5406.262
+B132,,Formula/model audit note
+B133,,"This REV6 file was generated from the original master workbook. Original formula cells were retained, and SOL additions are linked through live formula cells in the main TCS schedule tab."
+B134,,"If Excel does not refresh the displayed totals immediately, use Calculate Now / F9."
+V134,,ROK 076 - HWU 6 DEL 18
+Y134,,ROK 076 - HWU 7 DHB-E 13 LCD
+V135,,Purchase Cost Total
+W135,,1240.1
+Y135,,Purchase Cost Total
+Z135,,1020.1
+B136,,Expected subtotal ex GST after recalculation
+C136,,3942005.727871957
+B137,,Expected GST
+C137,,394200.5727871957
+V137,,TPS Markup
+W137,,1.15
+Y137,,TPS Markup
+Z137,,1.15
+B138,,Expected total inc GST
+C138,,4336206.300659153
+V138,,Qty 
+W138,,1
+Y138,,Qty 
+Z138,,1
+V139,,Installation_MH
+W139,,500
+Y139,,Installation_MH
+Z139,,500
+V140,,TOTAL
+W140,=W135*W137*W138+W139,1926.1149999999998
+Y140,,TOTAL
+Z140,=Z135*Z137*Z138+Z139,1673.115

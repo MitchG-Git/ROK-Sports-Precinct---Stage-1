@@ -1,0 +1,32 @@
+﻿cell,formula,cached_value
+B2,,PIT/MANHOLE TAKEOFF 
+A3,,DESCRIPTION
+B3,,Design Depth
+C3,,Grate/Finish
+D3,,Aspro
+E3,,Total Chamber Height
+F3,,Chamber Concrete volume/m3
+G3,,Base Concrete volume/m3
+H3,,Total Concrete volume/m3
+J3,,Dia
+K3,,Area of circle
+A4,,1500 DIA
+H4,=F4+G4,0
+J4,,1.5
+K4,=PI()*(J4/2)^2,1.7671458676442586
+L4,,m2
+J5,,1.95
+K5,=PI()*(J5/2)^2,2.9864765163187967
+L5,,m2
+K6,=PI()*(J6/2)^2,0
+L6,,m2
+K7,=PI()*(J7/2)^2,0
+L7,,m2
+J10,,32
+K10,,MPA
+L10,,290
+M10,,$/m3
+L24,=H24-G24,0
+H27,=SUM(H4:H16),0
+I27,,m3
+J27,=H27*L10,0

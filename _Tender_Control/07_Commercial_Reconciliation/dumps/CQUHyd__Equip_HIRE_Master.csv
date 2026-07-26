@@ -1,0 +1,171 @@
+﻿cell,formula,cached_value
+B2,,TCS PROJECT USE
+F2,,COMPLETED don’t edit
+A3,,DESCRIPTION
+B3,,Unit
+C3,,Qty
+D3,,WEEKLY (5 day)
+A4,,Skid Steer Loader_Tracked (CAT249+)
+B4,,Day
+D4,='[4]Hire Items_Dry'!$M$16,225.43333333333334
+A5,,Skid Steer Loader_Wheeled (CAT226+)
+B5,,Day
+D5,='[4]Hire Items_Dry'!$M$17,163.96666666666667
+A6,,"Mini Loader, Stand-on Type"
+B6,,Day
+D6,='[4]Hire Items_Dry'!$J$18,180
+F7,,COMPLETED don’t edit
+A8,,1.5-1.8 Ton_Excavator
+B8,,Day
+D8,='[4]Hire Items_Dry'!$P$20,137.14285714285714
+A9,,1.7-2Ton_Excavator
+B9,,Day
+A10,,3-5Ton_Excavator
+B10,,Day
+D10,='[4]Hire Items_Dry'!$M$22,238.66666666666666
+A11,,8Ton_Excavator
+B11,,Day
+D11,='[4]Hire Items_Dry'!$M$23,261.1666666666667
+A12,,10-12Ton_Excavator
+B12,,Day
+F12,,COMPLETED don’t edit
+A13,,13-16Ton_Excavator
+B13,,Day
+D13,='[4]Hire Items_Dry'!$M$25,317.2
+A14,,20-24Ton_Excavator
+B14,,Day
+D14,='[4]Hire Items_Dry'!$P$26,314.2857142857143
+A16,,Ripper_1.7-2T
+B16,,Day
+A17,,Ripper_1.5-4T
+B17,,Day
+D17,='[4]Hire Items_Dry'!$G$29,32.74
+F17,,COMPLETED don’t edit
+A18,,Ripper_3-5T
+B18,,Day
+A19,,Ripper_8T
+B19,,Day
+D19,='[4]Hire Items_Dry'!G31,40.38
+A20,,Breaker_1.7-2T
+B20,,Day
+D20,='[4]Hire Items_Dry'!G32,123.33
+A21,,Breaker_3-5T
+B21,,Day
+D21,='[4]Hire Items_Dry'!G33,165.89
+A22,,Breaker_8T
+B22,,Day
+D22,='[4]Hire Items_Dry'!G34,165.89
+F22,,COMPLETED don’t edit
+A23,,Breaker_10-12T
+B23,,Day
+A24,,Breaker_13-15T
+B24,,Day
+D24,='[4]Hire Items_Dry'!G36,203
+A25,,Auger Drive_10-12T
+A26,,300Dia Auger Drill
+F27,,COMPLETED don’t edit
+A28,,1.25T_Tipper Truck 
+B28,,Day
+D28,='[4]Hire Items_Dry'!$J$40,205
+A29,,2-4T_Tipper Truck
+B29,,Day
+D29,='[4]Hire Items_Dry'!$G$41,166.98
+A30,,<6T_Tipper Truck
+B30,,Day
+D30,='[4]Hire Items_Dry'!$P$42,171.42857142857142
+A32,,<10T_Articulated Site Tipper
+B32,,Day
+F32,,COMPLETED don’t edit
+A33,,Upright Rammer_Wacker
+B33,,Day
+D33,='[4]Hire Items_Dry'!$P$45,34.285714285714285
+A34,,Trench Roller_Dbl Drum_Remote
+B34,,Day
+D34,='[4]Hire Items_Dry'!$J$46,165
+A35,,<26Ft_Scissor Lift - Diesel
+B35,,Day
+A36,,<26Ft_Scissor Lift - Elec
+B36,,Day
+A37,,<34Ft_Boom Lift - Diesel
+B37,,Day
+F37,,COMPLETED don’t edit
+A38,,<34Ft_Boom Lift - Elec
+B38,,Day
+A40,,Porta Loo_No Tank
+B40,,Day
+D40,='[4]Hire Items_Dry'!$G$52,5.46
+A41,,6*3m Demantable Lunchroom - COMPLETE
+B41,,Day
+D41,='[4]Hire Items_Dry'!$J$53,23
+A42,,6*3m Demantable Office - COMPLETE
+B42,,Day
+D42,='[4]Hire Items_Dry'!$J$54,23
+F42,,COMPLETED don’t edit
+A43,,20Ft Shipping Container
+B43,,Day
+A44,,Quick Cut Demo Saw
+B44,,Day
+A45,,Sngl Ph_6KVA Genset
+B45,,Day
+A46,,Diesel Air Compressor_Trailer
+B46,,Day
+A47,,Air Breaker - Heavy
+B47,,Day
+F47,,COMPLETED don’t edit
+A48,,Air Hose <10m
+B48,,Day
+A49,,Elec Breaker/Jachammer
+B49,,Day
+A50,,Flexdrive Motor Unit
+B50,,Day
+A51,,Flexdrive_Pump Shaft
+B51,,Day
+A52,,Temporary Power Board
+B52,,Day
+F52,,COMPLETED don’t edit
+A54,,Dual CabUte
+B54,,Day
+A55,,3m3 Skip Bbin 
+B55,,per serive
+D55,='[4]Hire Items_Dry'!V67,230
+A56,,plus disposal 
+B56,,Tonne 
+D56,='[4]Hire Items_Dry'!V68,309
+A57,,site fee 
+B57,,Week
+D57,='[4]Hire Items_Dry'!V69,35
+F57,,COMPLETED don’t edit
+A58,,~4m3_Skip Bin
+B58,,per change over 
+D58,='[4]Hire Items_Dry'!$S$70,229.9
+A59,,~6m3_Skip Bin
+B59,,per change over 
+D59,='[4]Hire Items_Dry'!$S$71,239.8
+A60,,Plus disposal 
+B60,,Tonne 
+D60,='[4]Hire Items_Dry'!$V$72,309
+A61,,Site fee 
+B61,,Week
+D61,='[4]Hire Items_Dry'!$V$73,35
+A62,,Vacuum Excavator - Vermeer VT250D
+B62,,Day
+D62,='[4]Hire Items_Dry'!$G$74,295.77
+F62,,COMPLETED don’t edit
+A63,,Vac Trailer – Dry Hire
+B63,,Day
+D63,='[4]Hire Items_Dry'!$S$75,355
+A65,,TRANSPORT_Ex BRIS - Return
+B65,,Day
+A66,,TRANSPORT_Ex ROK - Return
+B66,,Hour
+D66,='[4]Hire Items_Dry'!$G$78,180
+A67,,0-4T Per Hour Delivery Rate
+B67,,Hour
+D67,='[4]Hire Items_Dry'!P79,125
+F67,,COMPLETED don’t edit
+A68,,5 - 9t Transport Hourly Rate 
+B68,,Hour
+D68,='[4]Hire Items_Dry'!P80,160
+A69,,10 - 19t Low Loader Hourly rate - Minimum 2 Hour Charge
+B69,,Hour
+D69,='[4]Hire Items_Dry'!P81,200

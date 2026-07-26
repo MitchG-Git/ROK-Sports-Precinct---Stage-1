@@ -1,0 +1,143 @@
+﻿cell,formula,cached_value
+B1,,Project: 
+B2,,Tricore   -
+B3,,Stage 1 Version 1
+A4,,Item  
+A7,,A
+B7,,PRELIMINARIES
+C8,,Unit
+D8,,REQ
+E8,,Cost ex GST
+F8,,Total ex GST
+B9,,Labour
+F10,,0
+B11,,Contingencies; Wet Weather ?
+B13,,TRADESMAN_LEADING HAND
+C13,,Day
+D13,,0
+E13,='Staff Rates'!E17,822.5
+F13,=D13*E13,0
+B14,,TRADESMAN_PLUMBER_OPERATOR
+C14,,Day
+D14,,0
+E14,,400
+F14,=D14*E14,0
+B15,,T/A & Apprentice
+C15,,Day
+D15,,0
+E15,,597.6276190476191
+F15,=D15*E15,0
+B16,,Crew #1
+C16,,Day
+D16,,0
+E16,,1895.3002005012531
+F16,=D16*E16,0
+B17,,Crew #2
+C17,,Day
+D17,,0
+E17,,1511.9133333333334
+F17,,0
+B19,,"Equipment, Hire, Subbies"
+B21,,Dual CabUte
+C21,,item
+D21,,0
+E21,,0
+F21,=D21*E21,0
+B22,,10m3_Skip Bin
+C22,,item
+D22,,0
+E22,,0
+F22,=D22*E22,0
+B23,,TCS Container; Ecl Freight
+C23,,item
+D23,,0
+E23,,0
+F23,=D23*E23,0
+B24,,Fencing 
+C24,,item
+D24,,0
+E24,,0
+F24,=D24*E24,0
+C25,,item
+D25,,0
+E25,,0
+F25,=D25*E25,0
+B27,,Misc.
+B29,,"Site Admin, Stationary etc - GREENSTAR ADMINS"
+C29,,item
+D29,,0
+E29,,1600
+F29,=D29*E29,0
+B30,,Site PPE
+C30,,item
+D30,,0
+E30,,400
+F30,=D30*E30,0
+B31,,"Site Consumables- Paint, Tapes etc"
+C31,,item
+D31,,0
+E31,,180
+F31,=D31*E31,0
+B32,,"Site Management - Bollards, Pickets, Barrier Mesh etc"
+C32,,item
+D32,,0
+E32,,400
+F32,=D32*E32,0
+B33,,Staff Refreshments - ONSITE
+C33,,item
+D33,,0
+E33,,50
+F33,=D33*E33,0
+B34,,Staff Refreshments - Offsite
+C34,,item
+D34,,0
+E34,,50
+F34,=D34*E34,0
+B35,,TOOLS - Roll Grover - S&M
+C35,,item
+D35,,0
+E35,,320
+F35,=D35*E35,0
+B36,,TOOLS - Poly Welder - S&M
+C36,,item
+D36,,0
+E36,,320
+F36,=D36*E36,0
+B37,,TOOLS - Wacker/Laser/Misc - S&M
+C37,,item
+D37,,0
+E37,,580
+F37,=D37*E37,0
+B38,,TOOLS - Demo Saw Trolley - PURCHASE
+C38,,item
+D38,,0
+E38,,0
+F38,=D38*E38,0
+B39,,"TOOLS - Consumabls - Blades, etc"
+C39,,item
+D39,,0
+E39,,420
+F39,=D39*E39,0
+E42,,Total TCS Prelims 
+F42,=SUM(F11:F41),0
+A45,,A
+B45,,OverHeads
+C46,,Unit
+D46,,REQ
+E46,,Cost ex GST
+F46,,Total ex GST
+B47,,TriCore Overheads - COMPLETE…PER MONTH
+C47,,item
+D47,,0
+E47,,20000
+F47,=D47*E47,0
+C48,,item
+D48,,0
+E48,,0
+F48,,0
+C49,,item
+D49,,0
+E49,,0
+F49,,0
+E53,,Total TCS O/H
+F53,=SUM(F47:F52),0

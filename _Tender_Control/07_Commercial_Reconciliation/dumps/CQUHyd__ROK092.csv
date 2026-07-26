@@ -1,0 +1,3603 @@
+﻿cell,formula,cached_value
+B1,,Project: 
+B2,,Tricore   -
+B3,,Stage 1 Version 1
+A4,,Item  
+A9,,1
+B9,,Complete - 
+B12,,Labour
+B14,,DAY
+J14,,april 2026 direct impact Increase % (not contigency)
+B15,='LabourProject Rates_Master'!$B$14,TRADESMAN_LEADING HAND
+C15,,Day
+E15,='LabourProject Rates_Master'!$E$15,1231.142857142857
+F15,=E15*D15,0
+B16,='LabourProject Rates_Master'!$B$23,TRADESMAN_PLUMBER_OPERATOR
+C16,,Day
+E16,='LabourProject Rates_Master'!$E$22,941.1647284878864
+F16,=E16*D16,0
+K16,,PE Pipe & Fitting
+L16,,0.38
+M16,,1.38
+B17,='LabourProject Rates_Master'!$B$30,T/A & Apprentice
+C17,,Day
+E17,='LabourProject Rates_Master'!$E$29,768.0650793650794
+F17,=E17*D17,0
+K17,,PVC Pipe & Fittings
+L17,,0.38
+M17,,1.38
+B18,='LabourProject Rates_Master'!$B$36,Crew #1 - InGround Drainage
+C18,,Day
+D18,,47
+E18,='LabourProject Rates_Master'!$E$37,2650.394536340852
+F18,=E18*D18,124568.54320802004
+K18,,Subby Rates
+L18,,0.15
+M18,,1.15
+B19,='LabourProject Rates_Master'!$B$43,Crew #2 - InGround Water/Fire
+C19,,Day
+D19,,20
+E19,='LabourProject Rates_Master'!$E$44,2650.394536340852
+F19,=E19*D19,53007.890726817044
+K19,,Delivey Rate
+L19,,0.2
+M19,,1.2
+B20,='LabourProject Rates_Master'!B51,Crew #3 - Above Ground Drainage
+C20,,Day
+D20,,17
+E20,='LabourProject Rates_Master'!E52,2650.394536340852
+F20,=E20*D20,45056.70711779448
+B21,='LabourProject Rates_Master'!B59,Crew #4 - Above Ground WATER/FIRE
+C21,,Day
+D21,,49
+E21,='LabourProject Rates_Master'!E60,2650.394536340852
+F21,=E21*D21,129869.33228070175
+B22,='LabourProject Rates_Master'!B67,Crew #5 - Above Ground FitOff / Misc
+C22,,Day
+D22,,15
+E22,='LabourProject Rates_Master'!E68,2650.394536340852
+F22,=E22*D22,39755.91804511278
+B23,='LabourProject Rates_Master'!B75,Crew #6 - DEMO
+C23,,Day
+E23,='LabourProject Rates_Master'!E76,1709.2298078529657
+F23,=E23*D23,0
+B27,,HOUR
+B28,='LabourProject Rates_Master'!$B$14,TRADESMAN_LEADING HAND
+C28,,HR
+D28,,0
+E28,='LabourProject Rates_Master'!$E$14,123.11428571428571
+F28,=E28*D28,0
+B29,='LabourProject Rates_Master'!$B$23,TRADESMAN_PLUMBER_OPERATOR
+C29,,HR
+D29,,0
+E29,='LabourProject Rates_Master'!$E$21,94.11647284878863
+F29,=E29*D29,0
+B30,='LabourProject Rates_Master'!$B$30,T/A & Apprentice
+C30,,HR
+D30,,0
+E30,='LabourProject Rates_Master'!$E$28,76.80650793650794
+F30,=E30*D30,0
+B31,='LabourProject Rates_Master'!$B$36,Crew #1 - InGround Drainage
+C31,,HR
+D31,,0
+E31,='LabourProject Rates_Master'!$E$36,265.0394536340852
+F31,=E31*D31,0
+B32,='LabourProject Rates_Master'!$B$43,Crew #2 - InGround Water/Fire
+C32,,HR
+D32,,0
+E32,='LabourProject Rates_Master'!$E$43,265.0394536340852
+F32,=E32*D32,0
+B35,,Demolition & Reinstatement
+B36,,DEMO
+B37,='Misc Subbie Rates_Master'!A49,Asphalt Cutting
+C37,,m
+E37,='Misc Subbie Rates_Master'!D49+('Misc Subbie Rates_Master'!D49*$L$18),15.525
+F37,=E37*D37,0
+B38,='Misc Subbie Rates_Master'!A50,Concrete Cutting
+C38,,m
+E38,='Misc Subbie Rates_Master'!D50+('Misc Subbie Rates_Master'!D50*$L$18),18.4
+F38,=E38*D38,0
+B39,,Con Cut Establishemnt Fee
+C39,,ea
+E39,='Misc Subbie Rates_Master'!D51+('Misc Subbie Rates_Master'!D51*$L$18),92
+F39,=E39*D39,0
+B40,,REINSTATE - CONCRETE
+B41,='Misc Subbie Rates_Master'!A56,"Road/Drveway Reinstate; 1mW x 150 Thck, N25/20/80, Incl Reinforcement"
+C41,,m
+E41,='Misc Subbie Rates_Master'!D56,145
+F41,=E41*D41,0
+B42,='Misc Subbie Rates_Master'!A57,Kerb & Channel - 1m Wide
+C42,,ea
+E42,='Misc Subbie Rates_Master'!D57,155
+F42,=E42*D42,0
+B43,='Misc Subbie Rates_Master'!A58,"Footpath - 1.5mW, N25/20/80, Incl Reinforcement"
+C43,,lm
+E43,='Misc Subbie Rates_Master'!D58,180
+F43,=E43*D43,0
+B44,='Misc Subbie Rates_Master'!A59,"Footpath - 1.5mW, EXPOSED AGG, N25/20/80, Incl Reinforcement"
+C44,,lm
+E44,='Misc Subbie Rates_Master'!D59,185
+F44,=E44*D44,0
+B45,,REINSTATE - ASPHALT
+B46,='Misc Subbie Rates_Master'!A64,50mm Thck - Trench Reinstatement Through Road/Driveway 
+C46,,m2
+E46,='Misc Subbie Rates_Master'!D64,97
+F46,=E46*D46,0
+B47,='Misc Subbie Rates_Master'!A65,50mm Thck - 1.5-2m Wide Footpath reinstatements 
+C47,,m2
+E47,='Misc Subbie Rates_Master'!D65,97
+F47,=E47*D47,0
+B48,='Misc Subbie Rates_Master'!A66,Establishment Fee (1 per stage)
+C48,,Ea
+E48,='Misc Subbie Rates_Master'!D66,5500
+F48,=E48*D48,0
+B50,,Equipment & Hire - INCL WET PLANT HIRE
+A52,,HIDDEN
+B52,,PLANT HIRE - WET
+B53,,1.8T Excavator
+C53,,Hr
+E53,='Misc Subbie Rates_Master'!D10,100
+F53,=E53*D53,0
+B54,, 3-5 ton Excavator
+C54,,Hr
+E54,='Misc Subbie Rates_Master'!D11,115
+F54,=E54*D54,0
+B55,,3-5T Combo
+C55,,Hr
+E55,='Misc Subbie Rates_Master'!D12,154
+F55,=E55*D55,0
+B56,,Hammer attachment 3.5-4T
+C56,,Hr
+E56,='Misc Subbie Rates_Master'!D13,21
+F56,=E56*D56,0
+B57,,Ripper 3.5-4T
+C57,,Hr
+E57,='Misc Subbie Rates_Master'!D14,10
+F57,=E57*D57,0
+B58,,5t Excavator
+C58,,Hr
+E58,='Misc Subbie Rates_Master'!D15,150
+F58,=E58*D58,0
+B59,,Hammer attachment 5T
+C59,,Hr
+E59,='Misc Subbie Rates_Master'!D16,50
+F59,=E59*D59,0
+B60,,Skid steer
+C60,,Hr
+E60,='Misc Subbie Rates_Master'!D17,140
+F60,=E60*D60,0
+B61,,8T Excavator
+C61,,Hr
+E61,='Misc Subbie Rates_Master'!D18,128
+F61,=E61*D61,0
+B62,,Hammer attachment 8T
+C62,,Hr
+E62,='Misc Subbie Rates_Master'!D19,26
+F62,=E62*D62,0
+B63,,Ripper 8T
+C63,,Hr
+E63,='Misc Subbie Rates_Master'!D20,10
+F63,=E63*D63,0
+B64,,13-15T Excavator
+C64,,Hr
+E64,='Misc Subbie Rates_Master'!D21,153
+F64,=E64*D64,0
+B65,,Hammer attachment 14T
+C65,,Hr
+E65,='Misc Subbie Rates_Master'!D22,36
+F65,=E65*D65,0
+B66,,Ripper 14T
+C66,,Hr
+E66,='Misc Subbie Rates_Master'!D23,10
+F66,=E66*D66,0
+B67,,3000L Hydro Excavation Truck
+C67,,Hr
+E67,='Misc Subbie Rates_Master'!D24,190
+F67,=E67*D67,0
+B68,,4500L Hydro Excavation Truck 
+C68,,Hr
+E68,='Misc Subbie Rates_Master'!D25,220
+F68,=E68*D68,0
+B69,,6300L Hydro Excavation Truck
+C69,,Hr
+E69,='Misc Subbie Rates_Master'!D26,250
+F69,=E69*D69,0
+B70,,Water Truck allow for water at cost 
+C70,,Hr
+E70,='Misc Subbie Rates_Master'!D27,110
+F70,=E70*D70,0
+B71,,12t Body Truck Tipper
+C71,,Hr
+E71,='Misc Subbie Rates_Master'!D28,110
+F71,=E71*D71,0
+B73,,HIRE - DRY
+B74,,Skid Steer Loader_Tracked (CAT249+)
+C74,,Day
+D74,,35
+E74,='Equip&HIRE_Master'!D4,225.43333333333334
+F74,=E74*D74,7890.166666666667
+B75,,Skid Steer Loader_Wheeled (CAT226+)
+C75,,Day
+E75,='Equip&HIRE_Master'!D5,163.96666666666667
+F75,=E75*D75,0
+B76,,"Mini Loader, Stand-on Type"
+C76,,Day
+E76,='Equip&HIRE_Master'!D6,180
+F76,=E76*D76,0
+E77,='Equip&HIRE_Master'!D7,0
+F77,=E77*D77,0
+B78,,1.5-1.8 Ton_Excavator
+C78,,Day
+D78,,35
+E78,='Equip&HIRE_Master'!D8,137.14285714285714
+F78,=E78*D78,4800
+B79,,1.7-2Ton_Excavator
+C79,,Day
+E79,='Equip&HIRE_Master'!D9,0
+F79,=E79*D79,0
+B80,,3-5Ton_Excavator
+C80,,Day
+E80,='Equip&HIRE_Master'!D10,238.66666666666666
+F80,=E80*D80,0
+B81,,8Ton_Excavator
+C81,,Day
+D81,,35
+E81,='Equip&HIRE_Master'!D11,261.1666666666667
+F81,=E81*D81,9140.833333333334
+B82,,10-12Ton_Excavator
+C82,,Day
+E82,='Equip&HIRE_Master'!D12,0
+F82,=E82*D82,0
+B83,,13-16Ton_Excavator
+C83,,Day
+E83,='Equip&HIRE_Master'!D13,317.2
+F83,=E83*D83,0
+B84,,20-24Ton_Excavator
+C84,,Day
+E84,='Equip&HIRE_Master'!D14,314.2857142857143
+F84,=E84*D84,0
+E85,='Equip&HIRE_Master'!D15,0
+F85,=E85*D85,0
+B86,,Ripper_1.7-2T
+C86,,Day
+E86,='Equip&HIRE_Master'!D16,0
+F86,=E86*D86,0
+B87,,Ripper_1.5-4T
+C87,,Day
+E87,='Equip&HIRE_Master'!D17,32.74
+F87,=E87*D87,0
+B88,,Ripper_3-5T
+C88,,Day
+E88,='Equip&HIRE_Master'!D18,0
+F88,=E88*D88,0
+B89,,Ripper_8T
+C89,,Day
+E89,='Equip&HIRE_Master'!D19,40.38
+F89,=E89*D89,0
+B90,,Breaker_1.7-2T
+C90,,Day
+E90,='Equip&HIRE_Master'!D20,123.33
+F90,=E90*D90,0
+B91,,Breaker_3-5T
+C91,,Day
+E91,='Equip&HIRE_Master'!D21,165.89
+F91,=E91*D91,0
+B92,,Breaker_8T
+C92,,Day
+E92,='Equip&HIRE_Master'!D22,165.89
+F92,=E92*D92,0
+B93,,Breaker_10-12T
+C93,,Day
+E93,='Equip&HIRE_Master'!D23,0
+F93,=E93*D93,0
+B94,,Breaker_13-15T
+C94,,Day
+E94,='Equip&HIRE_Master'!D24,203
+F94,=E94*D94,0
+B95,,Auger Drive_10-12T
+E95,='Equip&HIRE_Master'!D25,0
+F95,=E95*D95,0
+B96,,300Dia Auger Drill
+E96,='Equip&HIRE_Master'!D26,0
+F96,=E96*D96,0
+E97,='Equip&HIRE_Master'!D27,0
+F97,=E97*D97,0
+B98,,1.25T_Tipper Truck 
+C98,,Day
+D98,,35
+E98,='Equip&HIRE_Master'!D28,205
+F98,=E98*D98,7175
+B99,,2-4T_Tipper Truck
+C99,,Day
+E99,='Equip&HIRE_Master'!D29,166.98
+F99,=E99*D99,0
+B100,,<6T_Tipper Truck
+C100,,Day
+E100,='Equip&HIRE_Master'!D30,171.42857142857142
+F100,=E100*D100,0
+E101,='Equip&HIRE_Master'!D31,0
+F101,=E101*D101,0
+B102,,<10T_Articulated Site Tipper
+C102,,Day
+E102,='Equip&HIRE_Master'!D32,0
+F102,=E102*D102,0
+B103,,Upright Rammer_Wacker
+C103,,Day
+D103,,0
+E103,='Equip&HIRE_Master'!D33,34.285714285714285
+F103,=E103*D103,0
+B104,,Trench Roller_Dbl Drum_Remote
+C104,,Day
+D104,,35
+E104,='Equip&HIRE_Master'!D34,165
+F104,=E104*D104,5775
+B105,,<26Ft_Scissor Lift - Diesel
+C105,,Day
+D105,,18
+E105,,300
+F105,=E105*D105,5400
+B106,,<26Ft_Scissor Lift - Elec
+C106,,Day
+E106,='Equip&HIRE_Master'!D36,0
+F106,=E106*D106,0
+B107,,<34Ft_Boom Lift - Diesel
+C107,,Day
+E107,='Equip&HIRE_Master'!D37,0
+F107,=E107*D107,0
+B108,,<34Ft_Boom Lift - Elec
+C108,,Day
+E108,='Equip&HIRE_Master'!D38,0
+F108,=E108*D108,0
+E109,='Equip&HIRE_Master'!D39,0
+F109,=E109*D109,0
+B110,,Porta Loo_No Tank
+C110,,Day
+E110,='Equip&HIRE_Master'!D40,5.46
+F110,=E110*D110,0
+B111,,6*3m Demantable Lunchroom - COMPLETE
+C111,,Day
+E111,='Equip&HIRE_Master'!D41,23
+F111,=E111*D111,0
+B112,,6*3m Demantable Office - COMPLETE
+C112,,Day
+E112,='Equip&HIRE_Master'!D42,23
+F112,=E112*D112,0
+B113,,20Ft Shipping Container
+C113,,Day
+E113,='Equip&HIRE_Master'!D43,0
+F113,=E113*D113,0
+B114,,Quick Cut Demo Saw
+C114,,Day
+E114,='Equip&HIRE_Master'!D44,0
+F114,=E114*D114,0
+B115,,Sngl Ph_6KVA Genset
+C115,,Day
+E115,='Equip&HIRE_Master'!D45,0
+F115,=E115*D115,0
+B116,,Diesel Air Compressor_Trailer
+C116,,Day
+E116,='Equip&HIRE_Master'!D46,0
+F116,=E116*D116,0
+B117,,Air Breaker - Heavy
+C117,,Day
+E117,='Equip&HIRE_Master'!D47,0
+F117,=E117*D117,0
+B118,,Air Hose <10m
+C118,,Day
+E118,='Equip&HIRE_Master'!D48,0
+F118,=E118*D118,0
+B119,,Elec Breaker/Jachammer
+C119,,Day
+E119,='Equip&HIRE_Master'!D49,0
+F119,=E119*D119,0
+B120,,Flexdrive Motor Unit
+C120,,Day
+E120,='Equip&HIRE_Master'!D50,0
+F120,=E120*D120,0
+B121,,Flexdrive_Pump Shaft
+C121,,Day
+E121,='Equip&HIRE_Master'!D51,0
+F121,=E121*D121,0
+B122,,Temporary Power Board
+C122,,Day
+E122,='Equip&HIRE_Master'!D52,0
+F122,=E122*D122,0
+E123,='Equip&HIRE_Master'!D53,0
+F123,=E123*D123,0
+B124,,Dual CabUte
+C124,,Day
+E124,='Equip&HIRE_Master'!D54,0
+F124,=E124*D124,0
+B125,,3m3 Skip Bbin 
+C125,,per serive
+E125,='Equip&HIRE_Master'!D55,230
+F125,=E125*D125,0
+B126,,plus disposal 
+C126,,Tonne 
+E126,='Equip&HIRE_Master'!D56,309
+F126,=E126*D126,0
+B127,,site fee 
+C127,,Week
+E127,='Equip&HIRE_Master'!D57,35
+F127,=E127*D127,0
+B128,,~4m3_Skip Bin
+C128,,per change over 
+E128,='Equip&HIRE_Master'!D58,229.9
+F128,=E128*D128,0
+B129,,~6m3_Skip Bin
+C129,,per change over 
+E129,='Equip&HIRE_Master'!D59,239.8
+F129,=E129*D129,0
+B130,,Plus disposal 
+C130,,Tonne 
+E130,='Equip&HIRE_Master'!D60,309
+F130,=E130*D130,0
+B131,,Site fee 
+C131,,Week
+E131,='Equip&HIRE_Master'!D61,35
+F131,=E131*D131,0
+B132,,Vacuum Excavator - Vermeer VT250D
+C132,,Day
+E132,='Equip&HIRE_Master'!D62,295.77
+F132,=E132*D132,0
+B133,,Vac Trailer – Dry Hire
+C133,,Day
+E133,='Equip&HIRE_Master'!D63,355
+F133,=E133*D133,0
+E134,='Equip&HIRE_Master'!D64,0
+F134,=E134*D134,0
+B135,,TRANSPORT_Ex BRIS - Return
+C135,,Day
+E135,='Equip&HIRE_Master'!D65,0
+F135,=E135*D135,0
+B136,,TRANSPORT_Ex ROK - Return
+C136,,Hour
+D136,,18
+E136,='Equip&HIRE_Master'!D66,180
+F136,=E136*D136,3240
+B137,,0-4T Per Hour Delivery Rate
+C137,,Hour
+E137,='Equip&HIRE_Master'!D67,125
+F137,=E137*D137,0
+B138,,5 - 9t Transport Hourly Rate 
+C138,,Hour
+E138,='Equip&HIRE_Master'!D68,160
+F138,=E138*D138,0
+B139,,10 - 19t Low Loader Hourly rate - Minimum 2 Hour Charge
+C139,,Hour
+E139,='Equip&HIRE_Master'!D69,200
+F139,=E139*D139,0
+B141,,FUEL - Average_Candle
+C141,,Week
+D141,,5
+E141,,1850
+F141,=E141*D141,9250
+B143,,Subbies & Misc 
+B145,,Surveyor
+C145,,ea
+E145,='Misc Subbie Rates_Master'!D35,180
+F145,=E145*D145,0
+B146,,Services Locator
+C146,,ea
+E146,='Misc Subbie Rates_Master'!D42,130
+F146,=E146*D146,0
+B147,,Compaction Testing - TEST
+C147,,ea
+D147,,40
+E147,='Misc Subbie Rates_Master'!D72,115
+F147,=E147*D147,4600
+B148,,Compaction Testing - Site Establishment
+C148,,ea
+D148,,10
+E148,='Misc Subbie Rates_Master'!D73,90
+F148,=E148*D148,900
+C149,,ea
+F149,=E149*D149,0
+C150,,ea
+F150,=E150*D150,0
+B151,,FIRE TESTING / CERT
+C151,,ea
+F151,=E151*D151,0
+B152,,"FULL Hydro Test - Per Test (6.5Hr 1 x fitter, 1 x apprentice, 1 day Test gear)"
+C152,,ea
+D152,,1
+E152,='Misc Subbie Rates_Master'!D84,1945
+F152,=E152*D152,1945
+B153,,Provision of Form 72
+C153,,ea
+D153,,1
+E153,='Misc Subbie Rates_Master'!D86,350
+F153,=E153*D153,350
+B156,,"Material - Quarry, Misc"
+B157,,*HIDDEN - Calc in below 
+B158,='Material Rates_Master'!A185,Bedding / Fill Sand
+C158,='Material Rates_Master'!B185,m3
+E158,='Material Rates_Master'!D185,39.75
+F158,=E158*D158,0
+B159,='Material Rates_Master'!A186,CBR 45/2.5 Roadbase
+C159,='Material Rates_Master'!B186,m3
+E159,='Material Rates_Master'!D186,41.9
+F159,=E159*D159,0
+B160,='Material Rates_Master'!A187,Turf Underlay/Topsoil
+C160,='Material Rates_Master'!B187,m3
+E160,='Material Rates_Master'!D187,45.25
+F160,=E160*D160,0
+B161,='Material Rates_Master'!A188,Standard Garden Woodchip
+C161,='Material Rates_Master'!B188,m3
+E161,='Material Rates_Master'!D188,87
+F161,=E161*D161,0
+B162,='Material Rates_Master'!A189,Turf - Standard Couch or Similar
+C162,='Material Rates_Master'!B189,Slab (.5m2)
+E162,='Material Rates_Master'!D189,6.48
+F162,=E162*D162,0
+B164,='Material Rates_Master'!A193,Cement Stabalized Sand (3-5%)
+C164,='Material Rates_Master'!B193,m3
+E164,='Material Rates_Master'!D193,169
+F164,=E164*D164,0
+B165,='Material Rates_Master'!A194,Exposed Agg Concrete - Standard/Cheapest Exposed Agg Stone
+C165,='Material Rates_Master'!B194,m3
+E165,='Material Rates_Master'!D194,252
+F165,=E165*D165,0
+B166,='Material Rates_Master'!A195,N25 20mm 80 Slump Concrete
+C166,='Material Rates_Master'!B195,m3
+E166,='Material Rates_Master'!D195,263
+F166,=E166*D166,0
+B168,,"Valve Margin strips; Concrete slab, 1 directions sign, 3 x valve No sign."
+C168,,ea
+E168,,380
+F168,=E168*D168,0
+B171,,FIRE SERVICES - INGROUND
+B173,,200 HDPE PN16 SDR11 - REDLINE
+C173,='Material Rates_Master'!B5,m
+D173,,139
+E173,='Material Rates_Master'!D5*$M$16,46.81075
+F173,=E173*D173,6506.69425
+B174,,180 HDPE PN16 SDR11 - REDLINE
+C174,='Material Rates_Master'!B6,m
+D174,,57
+E174,='Material Rates_Master'!D6*$M$16,35.144
+F174,=E174*D174,2003.2079999999999
+B175,,125 HDPE PN16 SDR11 - REDLINE
+C175,='Material Rates_Master'!B7,m
+D175,,6
+E175,='Material Rates_Master'!D7*$M$16,16.99355
+F175,=E175*D175,101.9613
+B176,,75 HDPE PN16 SDR11 - REDLINE
+C176,,m
+D176,,6
+E176,,12.31
+F176,=E176*D176,73.86
+B177,,32 HDPE PN16 SDR11 - BLUELINE
+C177,='Material Rates_Master'!B8,m
+D177,,6
+E177,='Material Rates_Master'!D8*$M$16,1.6779419999999998
+F177,=E177*D177,10.067651999999999
+E180,='Material Rates_Master'!D9*$M$16,0
+B181,,200 EF Coupler
+C181,='Material Rates_Master'!B10,ea
+E181,='Material Rates_Master'!D10*$M$16,60.8028
+F181,=E181*D181,0
+B182,,180 EF Coupler
+C182,='Material Rates_Master'!B11,ea
+E182,='Material Rates_Master'!D11*$M$16,35.493599999999994
+F182,=E182*D182,0
+B183,,125 EF Coupler
+C183,='Material Rates_Master'!B12,ea
+D183,,5
+E183,='Material Rates_Master'!D12*$M$16,19.471799999999998
+F183,=E183*D183,97.359
+B184,,200 EF 45DFeg Bend
+C184,='Material Rates_Master'!B13,ea
+E184,='Material Rates_Master'!D13*$M$16,150.64079999999998
+F184,=E184*D184,0
+B185,,180 EF 45DFeg Bend
+C185,='Material Rates_Master'!B14,ea
+E185,='Material Rates_Master'!D14*$M$16,135.1986
+F185,=E185*D185,0
+B186,,125 EF 45DFeg Bend
+C186,='Material Rates_Master'!B15,ea
+D186,,2
+E186,='Material Rates_Master'!D15*$M$16,61.67219999999999
+F186,=E186*D186,123.34439999999998
+B187,,200 EF 90DFeg Bend
+C187,='Material Rates_Master'!B16,ea
+D187,,5
+E187,='Material Rates_Master'!D16*$M$16,150.64079999999998
+F187,=E187*D187,753.204
+B188,,180 EF 90DFeg Bend
+C188,='Material Rates_Master'!B17,ea
+D188,,3
+E188,='Material Rates_Master'!D17*$M$16,134.9778
+F188,=E188*D188,404.9334
+B189,,125 EF 90DFeg Bend
+C189,='Material Rates_Master'!B18,ea
+D189,,4
+E189,='Material Rates_Master'!D18*$M$16,61.61699999999999
+F189,=E189*D189,246.46799999999996
+B190,,200 EF TEE
+C190,='Material Rates_Master'!B19,ea
+D190,,1
+E190,='Material Rates_Master'!D19*$M$16,151.45499999999998
+F190,=E190*D190,151.45499999999998
+B191,,180 EF TEE
+C191,='Material Rates_Master'!B20,ea
+D191,,2
+E191,='Material Rates_Master'!D20*$M$16,157.7064
+F191,=E191*D191,315.4128
+B192,,125 EF TEE
+C192,='Material Rates_Master'!B21,ea
+E192,='Material Rates_Master'!D21*$M$16,67.96499999999999
+F192,=E192*D192,0
+B193,,200*180 EF TEE
+C193,='Material Rates_Master'!B22,ea
+D193,,4
+E193,='Material Rates_Master'!D22*$M$16,289.0686
+F193,=E193*D193,1156.2744
+B194,,200*125 EF TEE
+C194,='Material Rates_Master'!B23,ea
+E194,='Material Rates_Master'!D23*$M$16,301.4196
+F194,=E194*D194,0
+B195,,180*125 EF TEE
+C195,='Material Rates_Master'!B24,ea
+E195,='Material Rates_Master'!D24*$M$16,168.53939999999997
+F195,=E195*D195,0
+B196,,200*180 EF Reducer
+C196,='Material Rates_Master'!B25,ea
+E196,='Material Rates_Master'!D25*$M$16,173.35559999999998
+F196,=E196*D196,0
+B197,,180*125 EF Reducer
+C197,='Material Rates_Master'!B26,ea
+D197,,5
+E197,='Material Rates_Master'!D26*$M$16,82.938
+F197,=E197*D197,414.69
+B198,,180*32 EF Reducer
+C198,='Material Rates_Master'!B27,ea
+D198,,1
+E198,,65
+F198,=E198*D198,65
+B199,,"200PE*8""(200m) - MaxiStub W/Backing Ring"
+C199,='Material Rates_Master'!B27,ea
+E199,='Material Rates_Master'!D27*$M$16,472.443
+F199,=E199*D199,0
+B200,,"180PE*6""(150mm) - MaxiStub W/Backing Ring"
+C200,='Material Rates_Master'!B28,ea
+E200,='Material Rates_Master'!D28*$M$16,179.0826
+F200,=E200*D200,0
+B201,,"125PE*4"" (100mm) - MaxiStub W/Backing Ring"
+C201,='Material Rates_Master'!B29,ea
+E201,='Material Rates_Master'!D29*$M$16,127.88459999999999
+F201,=E201*D201,0
+B202,,180mm PE x 150mm GALV ADAPTER - PLASSON Brand 
+C202,='Material Rates_Master'!B30,ea
+E202,='Material Rates_Master'!D30*$M$16,432.20219999999995
+F202,=E202*D202,0
+B203,,125mm PE x 100mm GALV ADAPTER - PLASSON Brand 
+C203,='Material Rates_Master'!B31,ea
+D203,,5
+E203,='Material Rates_Master'!D31*$M$16,281.6718
+F203,=E203*D203,1408.3590000000002
+C204,='Material Rates_Master'!B32,0
+E204,='Material Rates_Master'!D32*$M$16,0
+F204,=E204*D204,0
+B205,,180mm PE x 150mm GALV ADAPTER
+C205,='Material Rates_Master'!B33,ea
+E205,='Material Rates_Master'!D33*$M$16,435.67979999999994
+F205,=E205*D205,0
+B206,,125mm PE x 100mm GALV ADAPTER
+C206,='Material Rates_Master'!B34,ea
+E206,='Material Rates_Master'!D34*$M$16,277.97339999999997
+F206,=E206*D206,0
+B207,,200 Long SPIG 45DFeg Bend
+C207,='Material Rates_Master'!B35,ea
+E207,='Material Rates_Master'!D35*$M$16,94.5852
+F207,=E207*D207,0
+B208,,180 Long SPIG 45DFeg Bend
+C208,='Material Rates_Master'!B36,ea
+E208,='Material Rates_Master'!D36*$M$16,88.95479999999998
+F208,=E208*D208,0
+B209,,125 Long SPIG 45DFeg Bend
+C209,='Material Rates_Master'!B37,ea
+E209,='Material Rates_Master'!D37*$M$16,53.48879999999999
+F209,=E209*D209,0
+B210,,200 Long SPIG 90DFeg Bend
+C210,='Material Rates_Master'!B38,ea
+E210,='Material Rates_Master'!D38*$M$16,118.9146
+F210,=E210*D210,0
+B211,,180 Long SPIG 90DFeg Bend
+C211,='Material Rates_Master'!B39,ea
+E211,='Material Rates_Master'!D39*$M$16,93.9918
+F211,=E211*D211,0
+B212,,125 Long SPIG 90DFeg Bend
+C212,='Material Rates_Master'!B40,ea
+E212,='Material Rates_Master'!D40*$M$16,43.67699999999999
+F212,=E212*D212,0
+B213,,200 Long SPIG TEE
+C213,='Material Rates_Master'!B41,ea
+E213,='Material Rates_Master'!D41*$M$16,176.14319999999998
+F213,=E213*D213,0
+B214,,180 Long SPIG TEE
+C214,='Material Rates_Master'!B42,ea
+E214,='Material Rates_Master'!D42*$M$16,157.62359999999998
+F214,=E214*D214,0
+B215,,125 Long SPIG TEE
+C215,='Material Rates_Master'!B43,ea
+E215,='Material Rates_Master'!D43*$M$16,52.79879999999999
+F215,=E215*D215,0
+B216,,200*180 Long SPIG TEE
+C216,='Material Rates_Master'!B44,ea
+E216,='Material Rates_Master'!D44*$M$16,253.20239999999995
+F216,=E216*D216,0
+B217,,200*125 Long SPIG TEE
+C217,='Material Rates_Master'!B45,ea
+E217,='Material Rates_Master'!D45*$M$16,265.5534
+F217,=E217*D217,0
+B218,,180*125 Long SPIG TEE
+C218,='Material Rates_Master'!B46,ea
+E218,='Material Rates_Master'!D46*$M$16,256.27979999999997
+F218,=E218*D218,0
+B219,,200*180 Long SPIG Reducer
+C219,='Material Rates_Master'!B47,ea
+E219,='Material Rates_Master'!D47*$M$16,77.0592
+F219,=E219*D219,0
+B220,,180*125 Long SPIG Reducer
+C220,='Material Rates_Master'!B48,ea
+E220,='Material Rates_Master'!D48*$M$16,54.965399999999995
+F220,=E220*D220,0
+B221,,75PE 50 CU TRANSITION
+C221,,ea
+D221,,1
+E221,,45
+F221,=E221*D221,45
+B222,,32 PE 25 CU TRANSITION 
+C222,,ea
+D222,,1
+E222,,35
+F222,=E222*D222,35
+C223,='Material Rates_Master'!B49,0
+E223,='Material Rates_Master'!D49,0
+F223,=E223*D223,0
+B224,,200 FL DICL Sluice Valve
+C224,='Material Rates_Master'!B50,ea
+E224,='Material Rates_Master'!D50,679.41
+F224,=E224*D224,0
+B225,,150 FL DICL Sluice Valve
+C225,='Material Rates_Master'!B51,ea
+E225,='Material Rates_Master'!D51,323.53
+F225,=E225*D225,0
+B226,,100 FL DICL Sluice Valve
+C226,='Material Rates_Master'!B52,ea
+E226,='Material Rates_Master'!D52,202.94
+F226,=E226*D226,0
+B227,,Valve Spindle Riser - 600Long
+C227,='Material Rates_Master'!B53,ea
+E227,='Material Rates_Master'!D53,136.94
+F227,=E227*D227,0
+B228,,"Valve Box - Cast Iron Trafficable - Rectangle Type ""V"""
+C228,='Material Rates_Master'!B54,ea
+E228,='Material Rates_Master'!D54,123.53
+F228,=E228*D228,0
+B229,,"Valve Box - Non-Trafficable - Plastic Surround with CI Drop In ""V"""
+C229,='Material Rates_Master'!B55,ea
+E229,='Material Rates_Master'!D55,98.82
+F229,=E229*D229,0
+C230,='Material Rates_Master'!B56,0
+E230,='Material Rates_Master'!D56,0
+F230,=E230*D230,0
+B231,,200*150mm DICL FL Reducer
+C231,='Material Rates_Master'!B57,ea
+E231,='Material Rates_Master'!D57,291.18
+F231,=E231*D231,0
+B232,,200*100mm DICL FL Reducer
+C232,='Material Rates_Master'!B58,ea
+E232,='Material Rates_Master'!D58,330
+F232,=E232*D232,0
+B233,,150*100mm DICL FL Reducer
+C233,='Material Rates_Master'!B59,ea
+E233,='Material Rates_Master'!D59,156
+F233,=E233*D233,0
+B234,,150mm DICL FL * SP Adapter
+C234,='Material Rates_Master'!B60,ea
+E234,='Material Rates_Master'!D60,106.24
+F234,=E234*D234,0
+B235,,100mm DICL FL * SP Adapter
+C235,='Material Rates_Master'!B61,ea
+E235,='Material Rates_Master'!D61,70.59
+F235,=E235*D235,0
+B236,,200mm DICL FL 90Deg Bend
+C236,='Material Rates_Master'!B62,ea
+E236,='Material Rates_Master'!D62,516.35
+F236,=E236*D236,0
+B237,,150mm DICL FL 90Deg Bend
+C237,='Material Rates_Master'!B63,ea
+E237,='Material Rates_Master'!D63,198.88
+F237,=E237*D237,0
+B238,,100mm DICL FL 90Deg Bend
+C238,='Material Rates_Master'!B64,ea
+E238,='Material Rates_Master'!D64,108.71
+F238,=E238*D238,0
+B239,,200mm DICL FL TEE
+C239,='Material Rates_Master'!B65,ea
+E239,='Material Rates_Master'!D65,672.65
+F239,=E239*D239,0
+B240,,150mm DICL FL TEE
+C240,='Material Rates_Master'!B66,ea
+E240,='Material Rates_Master'!D66,228.24
+F240,=E240*D240,0
+B241,,100mm DICL FL TEE
+C241,='Material Rates_Master'!B67,ea
+E241,='Material Rates_Master'!D67,128.24
+F241,=E241*D241,0
+B242,,200*150*200 DICL FL TEE
+C242,='Material Rates_Master'!B68,ea
+E242,='Material Rates_Master'!D68,536.76
+F242,=E242*D242,0
+B243,,200*100*200 DICL FL TEE
+C243,='Material Rates_Master'!B69,ea
+E243,='Material Rates_Master'!D69,576.47
+F243,=E243*D243,0
+B244,,150-100-150 DICL FL TEE
+C244,='Material Rates_Master'!B70,ea
+E244,='Material Rates_Master'!D70,198.82
+F244,=E244*D244,0
+B245,,200mm DICL FL Pipe @ 1000
+C245,='Material Rates_Master'!B71,ea
+E245,='Material Rates_Master'!D71,898.82
+F245,=E245*D245,0
+B246,,200mm DICL FL Pipe @ 600
+C246,='Material Rates_Master'!B72,ea
+E246,='Material Rates_Master'!D72,640
+F246,=E246*D246,0
+B247,,200mm DICL FL Pipe @ 300
+C247,='Material Rates_Master'!B73,ea
+E247,='Material Rates_Master'!D73,355.29
+F247,=E247*D247,0
+B248,,150mm DICL FL Pipe @ 1000
+C248,='Material Rates_Master'!B74,ea
+E248,='Material Rates_Master'!D74,534.41
+F248,=E248*D248,0
+B249,,150mm DICL FL Pipe @ 600
+C249,='Material Rates_Master'!B75,ea
+E249,='Material Rates_Master'!D75,280
+F249,=E249*D249,0
+B250,,150mm DICL FL Pipe @ 450
+C250,='Material Rates_Master'!B76,ea
+E250,='Material Rates_Master'!D76,236.47
+F250,=E250*D250,0
+B251,,150mm DICL FL Pipe @ 300
+C251,='Material Rates_Master'!B77,ea
+E251,='Material Rates_Master'!D77,178.8
+F251,=E251*D251,0
+B252,,100mm DICL FL Pipe @ 1000
+C252,='Material Rates_Master'!B78,ea
+E252,='Material Rates_Master'!D78,362.35
+F252,=E252*D252,0
+B253,,100mm DICL FL Pipe @ 600
+C253,='Material Rates_Master'!B79,ea
+E253,='Material Rates_Master'!D79,144.71
+F253,=E253*D253,0
+B254,,100mm DICL FL Pipe @ 450
+C254,='Material Rates_Master'!B80,ea
+E254,='Material Rates_Master'!D80,135.88
+F254,=E254*D254,0
+B255,,100mm DICL FL Pipe @ 300
+C255,='Material Rates_Master'!B81,ea
+E255,='Material Rates_Master'!D81,76.47
+F255,=E255*D255,0
+B256,,150mm DICL FL Deadplate
+C256,='Material Rates_Master'!B82,ea
+E256,='Material Rates_Master'!D82,67.65
+F256,=E256*D256,0
+B257,,100mm DICL FL Deadplate 
+C257,='Material Rates_Master'!B83,ea
+E257,='Material Rates_Master'!D83,43.53
+F257,=E257*D257,0
+C258,='Material Rates_Master'!B84,0
+E258,='Material Rates_Master'!D84,0
+F258,=E258*D258,0
+B259,,200mm PE*DI Gasket Kit Complete
+C259,='Material Rates_Master'!B85,ea
+E259,='Material Rates_Master'!D85,67.06
+F259,=E259*D259,0
+B260,,200mm DI*DI Gasket Kit Complete
+C260,='Material Rates_Master'!B86,ea
+E260,='Material Rates_Master'!D86,46.71
+F260,=E260*D260,0
+B261,,150mm PE*DI Gasket Kit Complete
+C261,='Material Rates_Master'!B87,ea
+E261,='Material Rates_Master'!D87,60
+F261,=E261*D261,0
+B262,,150mm DI*DI Gasket Kit Complete
+C262,='Material Rates_Master'!B88,ea
+E262,='Material Rates_Master'!D88,42.35
+F262,=E262*D262,0
+B263,,100mm PE*DI Gasket Kit Complete
+C263,='Material Rates_Master'!B89,ea
+E263,='Material Rates_Master'!D89,24.71
+F263,=E263*D263,0
+B264,,100mm DI*DI Gasket Kit Complete
+C264,='Material Rates_Master'!B90,ea
+E264,='Material Rates_Master'!D90,20
+F264,=E264*D264,0
+C265,='Material Rates_Master'!B91,0
+E265,='Material Rates_Master'!D91,0
+F265,=E265*D265,0
+B266,,150mm SS Gibault Adapter Coupling
+C266,='Material Rates_Master'!B92,ea
+E266,='Material Rates_Master'!D92,108.71
+F266,=E266*D266,0
+B267,,100mm SS Gibault Adapter Coupling
+C267,='Material Rates_Master'!B93,ea
+E267,='Material Rates_Master'!D93,87.06
+F267,=E267*D267,0
+B268,,180mm PE GRIPPER Adapter Coupling
+C268,='Material Rates_Master'!B94,ea
+E268,='Material Rates_Master'!D94,305.88
+F268,=E268*D268,0
+B269,,125mm PE GRIPPER Adapter Coupling
+C269,='Material Rates_Master'!B95,ea
+E269,='Material Rates_Master'!D95,182.35
+F269,=E269*D269,0
+B270,,180mm PE GRIPPER * 150FL Adapter Coupling
+C270,='Material Rates_Master'!B96,ea
+E270,='Material Rates_Master'!D96,229.41
+F270,=E270*D270,0
+B271,,125mm PE GRIPPER * 100FL Adapter Coupling
+C271,='Material Rates_Master'!B97,ea
+E271,='Material Rates_Master'!D97,152.94
+F271,=E271*D271,0
+B272,,180mm PE GRIPPER Sluice Valve
+C272,='Material Rates_Master'!B98,ea
+E272,='Material Rates_Master'!D98,690
+F272,=E272*D272,0
+B273,,125mm PE GRIPPER Sluice Valve
+C273,='Material Rates_Master'!B99,ea
+E273,='Material Rates_Master'!D99,408.47
+F273,=E273*D273,0
+C274,='Material Rates_Master'!B100,0
+E274,='Material Rates_Master'!D100,0
+F274,=E274*D274,0
+B275,,Detectable Tape - Fire x 250m
+C275,='Material Rates_Master'!B101,ea
+E275,='Material Rates_Master'!D101,90
+F275,=E275*D275,0
+B276,,Alcohol Weld Wipes
+C276,='Material Rates_Master'!B102,ea
+E276,='Material Rates_Master'!D102,13.5
+F276,=E276*D276,0
+B277,,Denzo Tape 100mm roll
+C277,='Material Rates_Master'!B103,ea
+E277,='Material Rates_Master'!D103,27.14
+F277,=E277*D277,0
+B278,,Black over-wrap tape - roll
+C278,='Material Rates_Master'!B104,ea
+E278,='Material Rates_Master'!D104,27.14
+F278,=E278*D278,0
+F279,=E279*D279,0
+B280,,FIRE SERVICES - ABOVE GROUND
+F280,=E280*D280,0
+B281,,Description
+C281,='Material Rates_Master'!B107,Unit
+B282,,150mm MED DUTY Galv Pipe
+C282,='Material Rates_Master'!B108,m
+E282,='Material Rates_Master'!D108,43.84615384615385
+F282,=E282*D282,0
+B283,,100mm MED DUTY Galv Pipe w/RG Ends
+C283,='Material Rates_Master'!B109,m
+E283,='Material Rates_Master'!D109,28.46153846153846
+F283,=E283*D283,0
+B284,,100mm Class B Copper Pipe
+C284,='Material Rates_Master'!B110,m
+E284,='Material Rates_Master'!D110,106.24166666666667
+F284,=E284*D284,0
+B285,,25mm Class B Copper Pipe
+C285,='Material Rates_Master'!B111,m
+E285,='Material Rates_Master'!D111,59.82
+F285,=E285*D285,0
+C286,='Material Rates_Master'!B112,0
+E286,='Material Rates_Master'!D112,0
+F286,=E286*D286,0
+B287,,150mm Galv RG Coupling
+C287,='Material Rates_Master'!B113,ea
+E287,='Material Rates_Master'!D113,12.83
+F287,=E287*D287,0
+B288,,100mm Galv RG Coupling
+C288,='Material Rates_Master'!B114,ea
+E288,='Material Rates_Master'!D114,7.55
+F288,=E288*D288,0
+B289,,150mm Galv RG TEE
+C289,='Material Rates_Master'!B115,ea
+E289,='Material Rates_Master'!D115,35.5
+F289,=E289*D289,0
+B290,,100mm Galv RG TEE
+C290,='Material Rates_Master'!B116,ea
+E290,='Material Rates_Master'!D116,16.93
+F290,=E290*D290,0
+B291,,150mm Galv RG BEND 90Deg
+C291,='Material Rates_Master'!B117,ea
+E291,='Material Rates_Master'!D117,22.85
+F291,=E291*D291,0
+B292,,100mm Galv RG BEND 90Deg
+C292,='Material Rates_Master'!B118,ea
+E292,='Material Rates_Master'!D118,10.62
+F292,=E292*D292,0
+B293,,150mm Galv RG BEND 45Deg
+C293,='Material Rates_Master'!B119,ea
+E293,='Material Rates_Master'!D119,23.5
+F293,=E293*D293,0
+B294,,100mm Galv RG BEND 45Deg
+C294,='Material Rates_Master'!B120,ea
+E294,='Material Rates_Master'!D120,11.4
+F294,=E294*D294,0
+B295,,150mm Galv RG x 100mm FLANGE Adapt
+C295,='Material Rates_Master'!B121,ea
+E295,='Material Rates_Master'!D121,30.75
+F295,=E295*D295,0
+B296,,100mm Galv RG x 100mm FLANGE Adapt
+C296,='Material Rates_Master'!B122,ea
+E296,='Material Rates_Master'!D122,23.21
+F296,=E296*D296,0
+B297,,150mm RG Butterfly Valve Geared Wheel
+C297,='Material Rates_Master'!B123,ea
+E297,='Material Rates_Master'!D123,217.8
+F297,=E297*D297,0
+B298,,100mm RG Butterfly Valve Geared Wheel
+C298,='Material Rates_Master'!B124,ea
+E298,='Material Rates_Master'!D124,169.4
+F298,=E298*D298,0
+C299,='Material Rates_Master'!B125,0
+E299,='Material Rates_Master'!D125,0
+F299,=E299*D299,0
+B300,,150mm H-Pattern Booster Assembly Complete
+C300,='Material Rates_Master'!B126,ea
+E300,='Material Rates_Master'!D126,2350
+F300,=E300*D300,0
+B301,,Booster Cabinet - Compl with doors and stickers
+C301,='Material Rates_Master'!B127,ea
+E301,='Material Rates_Master'!D127,1155
+F301,=E301*D301,0
+C302,='Material Rates_Master'!B128,0
+E302,='Material Rates_Master'!D128,0
+F302,=E302*D302,0
+B303,,100mm Dual Pillar Hydrant Complete_ Flanged Base 1500 High w/landing Valves
+C303,='Material Rates_Master'!B129,ea
+D303,,4
+E303,='Material Rates_Master'!D129,365
+F303,=E303*D303,1460
+B304,,100mm Dual Pillar Hydrant Complete_ RG Base 1500 High w/landing Valves_OPTION
+C304,='Material Rates_Master'!B130,ea
+E304,='Material Rates_Master'!D130,365
+F304,=E304*D304,0
+B305,,65mm RG Landing Valve 
+C305,='Material Rates_Master'!B131,ea
+E305,='Material Rates_Master'!D131,90
+F305,=E305*D305,0
+B306,,Red caps and chain - suit 65mm QLD Landing valve
+C306,='Material Rates_Master'!B132,ea
+E306,='Material Rates_Master'!D132,5
+F306,=E306*D306,0
+B307,,36m Fire Hose Reel w/25mm isolation valve
+C307,='Material Rates_Master'!B133,ea
+D307,,11
+E307,='Material Rates_Master'!D133,125
+F307,=E307*D307,1375
+B308,,"25mm Isolation Ball Valve (for fire hose reel) valve only, with hose nozzle latch"
+C308,='Material Rates_Master'!B134,ea
+E308,='Material Rates_Master'!D134,39
+F308,=E308*D308,0
+C309,='Material Rates_Master'!B135,0
+E309,='Material Rates_Master'!D135,0
+F309,=E309*D309,0
+B310,,150mm FL Testable Double Check Valve - Compl. w/Valves
+C310,='Material Rates_Master'!B136,ea
+E310,='Material Rates_Master'!D136,3100.7
+F310,=E310*D310,0
+B311,,150mm FL RPZD Valve - Compl. w/Valves
+C311,='Material Rates_Master'!B137,ea
+E311,='Material Rates_Master'!D137,4237.09
+F311,=E311*D311,0
+C312,='Material Rates_Master'!B138,0
+E312,='Material Rates_Master'!D138,0
+F312,=E312*D312,0
+B313,,100mm FL Levered Butterfly Vlave
+C313,='Material Rates_Master'!B139,ea
+E313,='Material Rates_Master'!D139,114.44
+F313,=E313*D313,0
+B314,,100mm Copper Crimp - TEE
+C314,='Material Rates_Master'!B140,ea
+E314,='Material Rates_Master'!D140,219.36
+F314,=E314*D314,0
+B315,,100mm Copper Crimp - 90Deg Bend
+C315,='Material Rates_Master'!B141,ea
+E315,='Material Rates_Master'!D141,135.09
+F315,=E315*D315,0
+B316,,100mm Copper Crimp - 45Deg Bend
+C316,='Material Rates_Master'!B142,ea
+E316,='Material Rates_Master'!D142,125.77
+F316,=E316*D316,0
+B317,,100mm Copper Crimp - Straight Socket
+C317,='Material Rates_Master'!B143,ea
+E317,='Material Rates_Master'!D143,83.25
+F317,=E317*D317,0
+B318,,100mm Copper Crimp - 100mm FL Adapter
+C318,='Material Rates_Master'!B144,ea
+E318,='Material Rates_Master'!D144,52.25
+F318,=E318*D318,0
+B319,,80mm Copper Crimp - TEE
+C319,='Material Rates_Master'!B145,ea
+E319,='Material Rates_Master'!D145,175.66
+F319,=E319*D319,0
+B320,,100mm*80mm Copper Crimp - REDUCER
+C320,='Material Rates_Master'!B146,ea
+E320,='Material Rates_Master'!D146,164.08
+F320,=E320*D320,0
+C321,='Material Rates_Master'!B147,0
+E321,='Material Rates_Master'!D147,0
+F321,=E321*D321,0
+B322,,50mm Cu Tube Type B 
+C322,,m
+D322,,137
+E322,=278.5/6,46.416666666666664
+F322,=E322*D322,6359.083333333333
+B323,,Elbow 90 Deg 50mm Water Kembla Kempress
+C323,,ea
+D323,,12
+E323,,45.02
+F323,=E323*D323,540.24
+B324,,Equal Tee 50mm Water Kembla Kempress
+C324,,ea
+D324,,9
+E324,,56.35
+F324,=E324*D324,507.15000000000003
+B325,,Reducer 50mm 25mm Water CU 
+C325,,ea
+D325,,10
+E325,,34.92
+F325,=E325*D325,349.20000000000005
+B326,,32mm Fi Lockable Ball Valve
+C326,='Material Rates_Master'!B148,ea
+E326,='Material Rates_Master'!D148,77.95
+F326,=E326*D326,0
+B327,,32mm Cu Crimp * 32mi Adapt
+C327,='Material Rates_Master'!B149,ea
+E327,='Material Rates_Master'!D149,17.16
+F327,=E327*D327,0
+B328,,32mm Cu Crimp Coupling Straight
+C328,='Material Rates_Master'!B150,ea
+E328,='Material Rates_Master'!D150,7.23
+F328,=E328*D328,0
+B329,,32mm Cu Crimp 90Deg Bend
+C329,='Material Rates_Master'!B151,ea
+E329,='Material Rates_Master'!D151,14.31
+F329,=E329*D329,0
+B330,,32mm Cu Crimp 45Deg Bend
+C330,='Material Rates_Master'!B152,ea
+E330,='Material Rates_Master'!D152,16.24
+F330,=E330*D330,0
+B331,,25mm Cu Tube Type B 
+C331,,ea
+D331,,155
+E331,=128.5/6,21.416666666666668
+F331,=E331*D331,3319.5833333333335
+B332,,32mm*25mm Cu Crimp Reducer
+C332,='Material Rates_Master'!B153,ea
+E332,='Material Rates_Master'!D153,14.36
+F332,=E332*D332,0
+B333,,25mm Fi Lockable Ball Valve
+C333,='Material Rates_Master'!B154,ea
+E333,='Material Rates_Master'!D154,46.94
+F333,=E333*D333,0
+B334,,25mm Cu Crimp * 25mi Adapt
+C334,='Material Rates_Master'!B155,ea
+E334,='Material Rates_Master'!D155,8.46
+F334,=E334*D334,0
+B335,,25mm Cu Crimp Coupling Straight
+C335,='Material Rates_Master'!B156,ea
+E335,='Material Rates_Master'!D156,5.74
+F335,=E335*D335,0
+B336,,25mm Cu Crimp 90Deg Bend
+C336,='Material Rates_Master'!B157,ea
+D336,,31
+E336,='Material Rates_Master'!D157,7.7
+F336,=E336*D336,238.70000000000002
+B337,,25mm Cu Crimp 45Deg Bend
+C337,='Material Rates_Master'!B158,ea
+E337,='Material Rates_Master'!D158,10.19
+F337,=E337*D337,0
+C338,='Material Rates_Master'!B159,0
+E338,='Material Rates_Master'!D159,0
+F338,=E338*D338,0
+B339,,150mm Galv 2 Piece Weld-nut Bracket M12
+C339,='Material Rates_Master'!B160,ea
+E339,='Material Rates_Master'!D160,5.86
+F339,=E339*D339,0
+B340,,100mm Galv 2 Piece Weld-nut Bracket M12
+C340,='Material Rates_Master'!B161,ea
+E340,='Material Rates_Master'!D161,4.41
+F340,=E340*D340,0
+B341,,150 Galv 2 Piece Channel Clip
+C341,='Material Rates_Master'!B162,ea
+E341,='Material Rates_Master'!D162,5.36
+F341,=E341*D341,0
+B342,,100 Galv 2 Piece Channel Clip
+C342,='Material Rates_Master'!B163,ea
+E342,='Material Rates_Master'!D163,4.4
+F342,=E342*D342,0
+B343,,12mm Galv Threaded Rod
+C343,='Material Rates_Master'!B164,ea
+E343,='Material Rates_Master'!D164,10.64
+F343,=E343*D343,0
+B344,,Galv Braced Counter Lever Bracket - 450Long
+C344,='Material Rates_Master'!B165,ea
+E344,='Material Rates_Master'!D165,20
+F344,=E344*D344,0
+B345,,003 Padlock
+C345,='Material Rates_Master'!B166,ea
+E345,='Material Rates_Master'!D166,19.5
+F345,=E345*D345,0
+B346,,100mm DI*DI Gasket Kit Complete
+C346,='Material Rates_Master'!B167,ea
+E346,='Material Rates_Master'!D167,20
+F346,=E346*D346,0
+B348,,FIRE SERVICES - Misc. 
+B349,,Description
+B350,,Decommisioning Material
+C350,='Material Rates_Master'!B171,ea
+E350,,1388
+F350,=E350*D350,0
+B351,,Electrofusion PE Welder 25-250mmPE. Please detail Spec
+C351,='Material Rates_Master'!B172,ea
+E351,='Material Rates_Master'!D172,0
+F351,=E351*D351,0
+B352,,PE Butt Welder. Automatic. 125-250mmPE. Please detail Spec - HIRE
+C352,,WEEK
+E352,,450
+F352,=E352*D352,0
+B353,,Hand Roll Groover. 65-150mm.
+C353,='Material Rates_Master'!B174,ea
+E353,='Material Rates_Master'!D174,0
+F353,=E353*D353,0
+B354,,Delivery - To Rockhampton PIPE LENGTHS as quoted
+C354,='Material Rates_Master'!B175,ea
+E354,='Material Rates_Master'!D175,2178.48
+F354,=E354*D354,0
+B355,,Delivery - To Rockhampton Standard/Palletised items
+C355,='Material Rates_Master'!B176,ea
+E355,='Material Rates_Master'!D176,2178.48
+F355,=E355*D355,0
+B357,,POTABLE WATER_MAINS & R'Ins
+B358,,Description
+B360,,125 HDPE PN16 SDR11 - BLUELINE
+C360,,m
+E360,,34.5
+F360,=E360*D360,0
+B361,,90 HDPE PN16 SDR11 - BLUELINE
+C361,,m
+D361,,6
+E361,,20
+F361,=E361*D361,120
+B362,,75 HDPE PE100 PN 16 -Blueline 
+C362,,m
+E362,,12.31
+F362,=E362*D362,0
+B363,,63 HDPE PE100 PN 16 -Blueline 
+C363,,m
+E363,,9.66
+F363,=E363*D363,0
+B364,,63 HDPE PN12.5 SDR11 - BLUELINE
+C364,,m
+E364,,4.63
+F364,=E364*D364,0
+B365,,50 HDPE PE100 PN 16 - BLUELINE
+C365,,m
+E365,,5.4
+F365,=E365*D365,0
+B366,,40 HDPE PE100 PN16 Blue Line 
+C366,,m
+E366,,4.4
+F366,=E366*D366,0
+B367,,40 HDPE PN12.5 SDR11 - BLUELINE
+C367,,m
+E367,=354.31/150,2.3620666666666668
+F367,=E367*D367,0
+B368,,32 HDPE PE100 PN 16 -Blueline 
+C368,,m
+E368,,2.1
+F368,=E368*D368,0
+B369,,25 HDPE PE100 PN16 - BLUELINE 
+C369,,m
+E369,,1.22
+F369,=E369*D369,0
+B370,,25 HDPE PN12.5 SDR11 - BLUELINE
+C370,,m
+E370,,2.43
+F370,=E370*D370,0
+B371,,EF COUPLER                 125MM (EA)
+C371,,m
+E371,,22
+F371,=E371*D371,0
+B372,,TEE EQUAL PE100 E/F 125MM
+C372,,ea
+E372,,57.75
+F372,=E372*D372,0
+B373,,TEE PE100 E/F 125*63MM
+C373,,ea
+E373,,139
+F373,=E373*D373,0
+B374,,EF REDUCER      125 X 90MM
+C374,,ea
+E374,,104.15
+F374,=E374*D374,0
+B375,,EF REDUCER      125 X 63MM
+C375,,ea
+E375,,26.1
+F375,=E375*D375,0
+B376,,EF REDUCER      75 X 63MM
+C376,,ea
+E376,,37.5
+F376,=E376*D376,0
+B377,,EF REDUCER      63 X 50MM
+C377,,ea
+E377,,35.93
+F377,=E377*D377,0
+B378,,EF REDUCER      50 X 40MM
+C378,,ea
+E378,,35
+F378,=E378*D378,0
+B379,,EF REDUCER      40 X 32MM
+C379,,ea
+E379,,35
+F379,=E379*D379,0
+B380,,EF REDUCER      40 X 25MM
+C380,,ea
+E380,,35
+F380,=E380*D380,0
+B381,,EF REDUCER      32 X 25MM
+C381,,ea
+E381,,20
+F381,=E381*D381,0
+B382,,ELBOW PE100 E/F 125MM X 45D
+C382,,ea
+E382,,50
+F382,=E382*D382,0
+B383,,ELBOW PE100 E/F 125MM X 90D
+C383,,ea
+E383,,54
+F383,=E383*D383,0
+B384,,HDPE 75mm X 90 D ELBOW 
+C384,,ea
+E384,,15.55
+F384,=E384*D384,0
+B385,,HDPE 63MM X 90 D ELBOW 
+C385,,ea
+E385,,15
+F385,=E385*D385,0
+B386,,HDPE 50MM X 90 D ELBOW 
+C386,,ea
+E386,,10.87
+F386,=E386*D386,0
+B387,,HDPE 40MM X 90 D ELBOW 
+C387,,ea
+E387,,55
+F387,=E387*D387,0
+B388,,Reducing Tee 125mm x 90mm
+C388,,ea
+E388,,55
+F388,=E388*D388,0
+B389,,Reducing Tee 125mm x 32mm
+C389,,ea
+E389,,35
+F389,=E389*D389,0
+B390,,Reducing Tee 75mm x 63mm
+C390,,ea
+E390,,35
+F390,=E390*D390,0
+B391,,Reducing Tee 75mm x 50mm
+C391,,ea
+E391,,35
+F391,=E391*D391,0
+B392,,Reducing Tee 75mm x 32mm
+C392,,ea
+E392,,35
+F392,=E392*D392,0
+B393,,Reducing Tee 63mm x 32mm
+C393,,ea
+E393,,35
+F393,=E393*D393,0
+B394,,Reducing Tee 50mm x 40mm
+C394,,ea
+E394,,35
+F394,=E394*D394,0
+B395,,Reducing Tee 40mm x 25mm
+C395,,ea
+E395,,35
+F395,=E395*D395,0
+B396,,Reducing Tee 32mm x 25mm
+C396,,ea
+E396,,26
+F396,=E396*D396,0
+B397,,EF Reducer 50mm x 25mm
+C397,,ea
+E397,,35
+F397,=E397*D397,0
+B398,,50mm Tee
+C398,,ea
+E398,,10.87
+F398,=E398*D398,0
+B399,,40mm Tee
+C399,,ea
+E399,,35
+F399,=E399*D399,0
+B400,,32mm Tee 
+C400,,ea
+E400,,20
+F400,=E400*D400,0
+B401,,HDPE 32mm X 90 D ELBOW 
+C401,,ea
+E401,,20
+F401,=E401*D401,0
+B402,,HDPE 25mm X 90 D ELBOW 
+C402,,ea
+F402,=E402*D402,0
+B403,,HDPE 25mm X 45 D ELBOW 
+C403,,ea
+F403,=E403*D403,0
+B404,,25mm Tee
+C404,,ea
+F404,=E404*D404,0
+B405,,"PE MAXI STUB FLANGE W/SS BK RING 125X 4"" (EA)"
+C405,,ea
+E405,,35
+F405,=E405*D405,0
+B406,,SLUICE VALVE PN16 T/D ACC FLNGD 100MM
+C406,,ea
+E406,,102.5
+F406,=E406*D406,0
+B407,,Valve Box - Cast Iron - Rectangle - Large - HD
+C407,,ea
+E407,,235
+F407,=E407*D407,0
+B408,,SADDLE TAPPING EF 125PE X 25PE
+C408,,ea
+E408,,100
+F408,=E408*D408,0
+B409,,SADDLE TAPPING EF 125PE X 32PE
+C409,,ea
+E409,,47.41
+F409,=E409*D409,0
+B410,,SADDLE TAPPING EF 125PE X 63PE
+C410,,ea
+E410,,41.69
+F410,=E410*D410,0
+B411,,90mm PE X 80mm Copper Transition 
+C411,,ea
+D411,,1
+E411,,200
+F411,=E411*D411,200
+B412,,Detectable WATER Marker Tape - 250m
+C412,,ea
+E412,,85.55
+F412,=E412*D412,0
+B413,,WIPES WELDING PLASSON XL (120 PK)
+C413,,ea
+E413,,70
+F413,=E413*D413,0
+B414,,Paint Pen - WHITE
+C414,,ea
+E414,,19
+F414,=E414*D414,0
+E415,,16
+F415,=E415*D415,0
+B416,,100 Cu Above Grnd 
+C416,,m
+F416,=E416*D416,0
+B417,,80 CU Above Grnd 
+C417,,m
+D417,,41
+E417,=535.6/6,89.26666666666667
+F417,=E417*D417,3659.9333333333334
+B418,,65 CU Above Grnd 
+C418,,m
+D418,,85
+E418,=335.2/6,55.86666666666667
+F418,=E418*D418,4748.666666666667
+B419,,50 Cu Above Grnd
+C419,,m
+D419,,124
+E419,=278.5/6,46.416666666666664
+F419,=E419*D419,5755.666666666666
+B420,,32 Cu Above Grnd
+C420,,m
+D420,,53
+E420,,32
+F420,=E420*D420,1696
+B421,,32mm x25mm reducing tee
+C421,,ea
+E421,=119.88/6,19.98
+F421,=E421*D421,0
+B422,,25 Cu Above Grnd
+C422,,m
+D422,,221
+E422,=129/6,21.5
+F422,=E422*D422,4751.5
+B423,,B-PRESS WATER EQUAL TEE  32MM (EA)
+C423,,ea
+D423,,2
+E423,,23.51
+F423,=E423*D423,47.02
+B424,,B-PRESS WATER EQUAL TEE  25MM (EA)
+C424,,ea
+D424,,16
+E424,,7.17
+F424,=E424*D424,114.72
+B425,,20 Cu Above Grnd
+C425,,m
+D425,,305
+E425,=82/6,13.666666666666666
+F425,=E425*D425,4168.333333333333
+B426,,B-PRESS WATER EQUAL TEE  20MM (EA)
+C426,,ea
+D426,,35
+E426,=58.71/6,9.785
+F426,=E426*D426,342.475
+B427,,50mm Cu 10mm Nut Clip
+C427,,ea
+E427,,1.4
+F427,=E427*D427,0
+B428,,32mm Cu 10mm Nut Clip
+C428,,ea
+E428,,1.38
+F428,=E428*D428,0
+B429,,25mm Cu 10mm Nut Clip
+C429,,ea
+E429,,1.32
+F429,=E429*D429,0
+B430,,20mm Cu 10mm Nut Clip
+C430,,ea
+E430,,1.24
+F430,=E430*D430,0
+B431,,10mm Zinc Threaded Rod
+C431,,m
+E431,,5.1
+F431,=E431*D431,0
+F432,=E432*D432,0
+B434,,Kembla copper  WATER ELBOW         90DEG X 80MM (EA)
+C434,,ea
+D434,,9
+E434,,118.5
+F434,=E434*D434,1066.5
+B435,,Kembla copper  WATER ELBOW         90DEG X 65MM (EA)
+C435,,ea
+D435,,4
+E435,,79.8
+F435,=E435*D435,319.2
+B436,,Kembla copper  WATER ELBOW         90DEG X 50MM (EA)
+C436,,ea
+D436,,22
+E436,,45.02
+F436,=E436*D436,990.44
+B437,,Kembla copper  WATER ELBOW         90DEG X 32MM (EA)
+C437,,ea
+D437,,7
+E437,,17.37
+F437,=E437*D437,121.59
+B438,,Kembla copper  WATER ELBOW        90DEG X 25MM 
+C438,,ea
+D438,,65
+E438,,7.7
+F438,=E438*D438,500.5
+B439,,Kembla copper  WATER ELBOW        90DEG X 20MM 
+C439,,ea
+D439,,88
+E439,,4.58
+F439,=E439*D439,403.04
+F440,=E440*D440,0
+F441,=E441*D441,0
+F442,=E442*D442,0
+A443,,HIDDEN
+F443,=E443*D443,0
+B444,,63mm E/F PE 90 Deg Elb
+F444,=E444*D444,0
+B445,,63mm E/F PE 45 Deg Elb
+C445,,ea
+E445,,13.5
+F445,=E445*D445,0
+B446,,63mm E/F PE TEE
+C446,,ea
+E446,,13.5
+F446,=E446*D446,0
+B447,,63x40x63 E/F PE TEE
+C447,,ea
+E447,,9.5
+F447,=E447*D447,0
+B448,,63x32x63 E/F PE TEE
+C448,,ea
+E448,,18.5
+F448,=E448*D448,0
+B449,,63x25x63 E/F PE TEE
+C449,,ea
+E449,,18.5
+F449,=E449*D449,0
+B450,,63mm E/F PE Coupling
+C450,,ea
+E450,,6
+F450,=E450*D450,0
+B451,,63x40 E/F PE Reducer Coupling
+C451,,ea
+E451,,5.5
+F451,=E451*D451,0
+B452,,63x32 E/F PE Reducer Coupling
+C452,,ea
+E452,,17.5
+F452,=E452*D452,0
+B453,,63x25 E/F PE Reducer Coupling
+C453,,ea
+E453,,16.5
+F453,=E453*D453,0
+B454,,63PEx50Fi E/F PE Adapter
+C454,,ea
+E454,,2.5
+F454,=E454*D454,0
+B455,,63PEx50Mi E/F PE Adapter
+C455,,ea
+E455,,43.5
+F455,=E455*D455,0
+B456,,63PEx50Fi E/F PE Tramsiton Union
+C456,,ea
+E456,,43.5
+F456,=E456*D456,0
+B457,,63PEx50Mi E/F PE Transition Union
+C457,,ea
+E457,,45.5
+F457,=E457*D457,0
+B458,,40mm E/F PE 90 Deg Elb
+C458,,ea
+E458,,76
+F458,=E458*D458,0
+B459,,40mm E/F PE 45 Deg Elb
+C459,,ea
+E459,,11.5
+F459,=E459*D459,0
+B460,,40mm E/F PE TEE
+C460,,ea
+E460,,11.5
+F460,=E460*D460,0
+B461,,40x32x40 E/F PE TEE
+C461,,ea
+E461,,12
+F461,=E461*D461,0
+B462,,40x25x40 E/F PE TEE
+C462,,ea
+E462,,18.5
+F462,=E462*D462,0
+B463,,40mm E/F PE Coupling
+C463,,ea
+E463,,19.5
+F463,=E463*D463,0
+B464,,40x32 E/F PE Reducer Coupling
+C464,,ea
+E464,,4.5
+F464,=E464*D464,0
+B465,,40x25 E/F PE Reducer Coupling
+C465,,ea
+E465,,10.5
+F465,=E465*D465,0
+B466,,40PEx32Fi E/F PE Adapter
+C466,,ea
+E466,,14.5
+F466,=E466*D466,0
+B467,,40PEx32Mi E/F PE Adapter
+C467,,ea
+E467,,28.5
+F467,=E467*D467,0
+B468,,40PEx32Fi E/F PE Tramsiton Union
+C468,,ea
+E468,,29.5
+F468,=E468*D468,0
+B469,,40PEx32Mi E/F PE Transition Union
+C469,,ea
+E469,,36
+F469,=E469*D469,0
+B470,,32mm E/F PE 90 Deg Elb
+C470,,ea
+E470,,54
+F470,=E470*D470,0
+B471,,32mm E/F PE 45 Deg Elb
+C471,,ea
+E471,,10.5
+F471,=E471*D471,0
+B472,,32mm E/F PE TEE
+C472,,ea
+E472,,10
+F472,=E472*D472,0
+B473,,32x25x32 E/F PE TEE
+C473,,ea
+E473,,5.5
+F473,=E473*D473,0
+B474,,32mm E/F PE Coupling
+C474,,ea
+E474,,18
+F474,=E474*D474,0
+B475,,32x25 E/F PE Reducer Coupling
+C475,,ea
+E475,,4.5
+F475,=E475*D475,0
+B476,,32PEx25Fi E/F PE Adapter
+C476,,ea
+E476,,6.5
+F476,=E476*D476,0
+B477,,32PEx25Mi E/F PE Adapter
+C477,,ea
+E477,,25.5
+F477,=E477*D477,0
+B478,,32mm E/F PE End Cap
+C478,,ea
+E478,,22.5
+F478,=E478*D478,0
+B479,,32mm E/F PE End Plug
+C479,,ea
+E479,,8.5
+F479,=E479*D479,0
+B480,,25mm E/F PE 90 Deg Elb
+C480,,ea
+E480,,6.5
+F480,=E480*D480,0
+B481,,25mm E/F PE 45 Deg Elb
+C481,,ea
+E481,,10.5
+F481,=E481*D481,0
+B482,,25mm E/F PE TEE
+C482,,ea
+E482,,0
+F482,=E482*D482,0
+B483,,25mm E/F PE Coupling
+C483,,ea
+E483,,4.5
+F483,=E483*D483,0
+B484,,25PEx25Fi E/F PE Adapter
+C484,,ea
+E484,,4
+F484,=E484*D484,0
+B485,,25PEx25Mi E/F PE Adapter
+C485,,ea
+E485,,17
+F485,=E485*D485,0
+B486,,25PEx20Fi E/F PE Adapter
+C486,,ea
+E486,,17.5
+F486,=E486*D486,0
+B487,,25PEx20Mi E/F PE Adapter
+C487,,ea
+E487,,4.5
+F487,=E487*D487,0
+B488,,25mm E/F PE End Cap
+C488,,ea
+E488,,2
+F488,=E488*D488,0
+B489,,25mm E/F PE End Plug
+C489,,ea
+E489,,8.5
+F489,=E489*D489,0
+A490,,HIDDEN
+C490,,ea
+E490,,4
+F490,=E490*D490,0
+B491,,100mm CU Crimp 90 DEG FxF Elbow
+F491,=E491*D491,0
+B492,,100mm CU Crimp 45 DEG FxF Elbow
+C492,,ea
+E492,,137
+F492,=E492*D492,0
+B493,,100mm CU Crimp Tee
+C493,,ea
+E493,,139.5
+F493,=E493*D493,0
+B494,,100x50x100 CU Crimp Tee
+C494,,ea
+E494,,183
+F494,=E494*D494,0
+B495,,100x50 CU Crimp Reducer
+C495,,ea
+E495,,184.5
+F495,=E495*D495,0
+B496,,100mm CU Crimp Repair Coupling
+C496,,ea
+E496,,56
+F496,=E496*D496,0
+B497,,100mm CU Crimp Coupling
+C497,,ea
+E497,,103
+F497,=E497*D497,0
+B498,,100Cu x 100Flange CU Crimp Coupling
+C498,,ea
+E498,,95
+F498,=E498*D498,0
+B499,,80mm x 65mm Cu Reducer 
+C499,,ea
+D499,,1
+E499,,100
+F499,=E499*D499,100
+B500,,65mm Cu Crimp Tee 
+C500,,ea
+D500,,6
+E500,,130.1
+F500,=E500*D500,780.5999999999999
+B501,,65mmX 50 Cu WAT Crimp Reducer
+C501,,ea
+D501,,1
+E501,,60
+F501,=E501*D501,60
+B502,,65mmX 32 Cu WAT Crimp Reducer
+C502,,ea
+D502,,3
+E502,,55
+F502,=E502*D502,165
+B503,,65 mmX 20 Cu WAT Crimp Reducer
+C503,,ea
+D503,,3
+E503,,50
+F503,=E503*D503,150
+B504,,50mm CU Crimp 90 DEG FxF Elbow
+C504,,ea
+E504,,99.5
+F504,=E504*D504,0
+B505,,50mm CU Crimp 45 DEG FxF Elbow
+C505,,ea
+E505,,33.5
+F505,=E505*D505,0
+B506,,50mm CU Crimp Tee
+C506,,ea
+D506,,18
+E506,,56.35
+F506,=E506*D506,1014.3000000000001
+B507,,50x40x50 CU Crimp Tee
+C507,,ea
+E507,,60.5
+F507,=E507*D507,0
+B508,,50x40x40 CU Crimp Tee
+C508,,ea
+E508,,61
+F508,=E508*D508,0
+B509,,50x32x50 CU Crimp Tee
+C509,,ea
+E509,,65
+F509,=E509*D509,0
+B510,,50x32x32 CU Crimp Tee
+C510,,ea
+E510,,65
+F510,=E510*D510,0
+B511,,50x32x40 CU Crimp Tee
+C511,,ea
+E511,,65
+F511,=E511*D511,0
+B512,,50x25x50 CU Crimp Tee
+C512,,ea
+E512,,65
+F512,=E512*D512,0
+B513,,50x20x50 CU Crimp Tee
+C513,,ea
+E513,,45
+F513,=E513*D513,0
+B514,,50x15x50 CU Crimp Tee
+C514,,ea
+E514,,55
+F514,=E514*D514,0
+B515,,50x40 CU Crimp Reducer
+C515,,ea
+E515,,55
+F515,=E515*D515,0
+B516,,50x32 CU Crimp Reducer
+C516,,ea
+E516,,21.5
+F516,=E516*D516,0
+B517,,50x25 CU Crimp Reducer
+C517,,ea
+D517,,1
+E517,,34.92
+F517,=E517*D517,34.92
+B518,,50x20 CU Crimp Reducer
+C518,,ea
+D518,,6
+E518,,35
+F518,=E518*D518,210
+B519,,50x15 CU Crimp Reducer
+C519,,ea
+E519,,22
+F519,=E519*D519,0
+B520,,50Cu x 50Mi CU Crimp Adapter
+C520,,ea
+E520,,22
+F520,=E520*D520,0
+B521,,50Cu x 50Fi CU Crimp Adapter
+C521,,ea
+E521,,78
+F521,=E521*D521,0
+B522,,50mm CU Crimp Repair Coupling
+C522,,ea
+E522,,89
+F522,=E522*D522,0
+B523,,50mm CU Crimp Coupling
+C523,,ea
+E523,,21
+F523,=E523*D523,0
+B524,,50Cu x 50Flange CU Crimp Coupling
+C524,,ea
+E524,,21
+F524,=E524*D524,0
+B525,,50mm CU Crimp Cap
+C525,,ea
+E525,,0
+F525,=E525*D525,0
+B526,,50Cu x W69/Barrell Barrell Union CU Crimp
+C526,,ea
+E526,,0
+F526,=E526*D526,0
+B527,,40mm CU Crimp 90 DEG FxF Elbow
+C527,,ea
+E527,,0
+F527,=E527*D527,0
+B528,,40mm CU Crimp 45 DEG FxF Elbow
+C528,,ea
+E528,,0
+F528,=E528*D528,0
+B529,,40mm CU Crimp 90 DEG MxF Elbow
+C529,,ea
+E529,,0
+F529,=E529*D529,0
+B530,,40mm CU Crimp 45 DEG MxF Elbow
+C530,,ea
+E530,,0
+F530,=E530*D530,0
+B531,,40mm CU Crimp Tee
+C531,,ea
+E531,,0
+F531,=E531*D531,0
+B532,,40x32x40 CU Crimp Tee
+C532,,ea
+E532,,0
+F532,=E532*D532,0
+B533,,40x32x32 CU Crimp Tee
+C533,,ea
+E533,,0
+F533,=E533*D533,0
+B534,,40x32x25 CU Crimp Tee
+C534,,ea
+E534,,0
+F534,=E534*D534,0
+B535,,40x25x40 CU Crimp Tee
+C535,,ea
+E535,,0
+F535,=E535*D535,0
+B536,,40x25x20 CU Crimp Tee
+C536,,ea
+E536,,0
+F536,=E536*D536,0
+B537,,40x20x40 CU Crimp Tee
+C537,,ea
+E537,,0
+F537,=E537*D537,0
+B538,,40x15x40 CU Crimp Tee
+C538,,ea
+E538,,0
+F538,=E538*D538,0
+B539,,40x32 CU Crimp Reducer
+C539,,ea
+E539,,0
+F539,=E539*D539,0
+B540,,40x25 CU Crimp Reducer
+C540,,ea
+E540,,0
+F540,=E540*D540,0
+B541,,40x20 CU Crimp Reducer
+C541,,ea
+E541,,0
+F541,=E541*D541,0
+B542,,40x15 CU Crimp Reducer
+C542,,ea
+E542,,0
+F542,=E542*D542,0
+B543,,40Cu x 40Mi CU Crimp Adapter
+C543,,ea
+E543,,0
+F543,=E543*D543,0
+B544,,40Cu x 40Fi CU Crimp Adapter
+C544,,ea
+E544,,0
+F544,=E544*D544,0
+B545,,40mm CU Crimp Repair Coupling
+C545,,ea
+E545,,0
+F545,=E545*D545,0
+B546,,40mm CU Crimp Coupling
+C546,,ea
+E546,,0
+F546,=E546*D546,0
+B547,,40Cu x 40Flange CU Crimp Coupling
+C547,,ea
+E547,,0
+F547,=E547*D547,0
+B548,,40mm CU Crimp Cap
+C548,,ea
+E548,,0
+F548,=E548*D548,0
+B549,,40Cu x W69/Barrell Barrell Union CU Crimp
+C549,,ea
+E549,,0
+F549,=E549*D549,0
+B550,,32mm CU Crimp 90 DEG FxF Elbow
+C550,,ea
+E550,,0
+F550,=E550*D550,0
+B551,,32mm CU Crimp 45 DEG FxF Elbow
+C551,,ea
+E551,,0
+F551,=E551*D551,0
+B552,,32mm CU Crimp 90 DEG MxF Elbow
+C552,,ea
+E552,,0
+F552,=E552*D552,0
+B553,,32mm CU Crimp 45 DEG MxF Elbow
+C553,,ea
+E553,,0
+F553,=E553*D553,0
+B554,,32mm CU Crimp Tee
+C554,,ea
+E554,,0
+F554,=E554*D554,0
+B555,,32x25x32 CU Crimp Tee
+C555,,ea
+E555,,18.54
+F555,=E555*D555,0
+B556,,32x25x20 CU Crimp Tee
+C556,,ea
+E556,,0
+F556,=E556*D556,0
+B557,,32x20x32 CU Crimp Tee
+C557,,ea
+E557,,0
+F557,=E557*D557,0
+B558,,32x20x20 CU Crimp Tee
+C558,,ea
+E558,,18.35
+F558,=E558*D558,0
+B559,,32x20x15 CU Crimp Tee
+C559,,ea
+E559,,0
+F559,=E559*D559,0
+B560,,32x15x32 CU Crimp Tee
+C560,,ea
+E560,,0
+F560,=E560*D560,0
+B561,,32x15x25 CU Crimp Tee
+C561,,ea
+E561,,0
+F561,=E561*D561,0
+B562,,32x15x20 CU Crimp Tee
+C562,,ea
+E562,,0
+F562,=E562*D562,0
+B563,,32x15x15 CU Crimp Tee
+C563,,ea
+E563,,0
+F563,=E563*D563,0
+B564,,COUPLING RED CU KEMPRESS WATER 32MM X 25MM
+C564,,ea
+D564,,1
+E564,,20
+F564,=E564*D564,20
+B565,,32x20 CU Crimp Reducer
+C565,,ea
+D565,,1
+E565,,16.33
+F565,=E565*D565,16.33
+B566,,32x15 CU Crimp Reducer
+C566,,ea
+E566,,0
+F566,=E566*D566,0
+B567,,32Cu x 32Mi CU Crimp Adapter
+C567,,ea
+E567,,0
+F567,=E567*D567,0
+B568,,32Cu x 32Fi CU Crimp Adapter
+C568,,ea
+E568,,0
+F568,=E568*D568,0
+B569,,32mm CU Crimp Repair Coupling
+C569,,ea
+E569,,0
+F569,=E569*D569,0
+B570,,32mm CU Crimp Coupling
+C570,,ea
+E570,,0
+F570,=E570*D570,0
+B571,,32mm CU Crimp Cap
+C571,,ea
+E571,,0
+F571,=E571*D571,0
+B572,,32Cu x W69/Barrell Barrell Union CU Crimp
+C572,,ea
+E572,,0
+F572,=E572*D572,0
+B573,,25mm CU Crimp 90 DEG FxF Elbow
+C573,,ea
+E573,,0
+F573,=E573*D573,0
+B574,,25mm CU Crimp 45 DEG FxF Elbow
+C574,,ea
+E574,,0
+F574,=E574*D574,0
+B575,,25mm CU Crimp 90 DEG MxF Elbow
+C575,,ea
+E575,,0
+F575,=E575*D575,0
+B576,,25mm CU Crimp 45 DEG MxF Elbow
+C576,,ea
+E576,,0
+F576,=E576*D576,0
+B577,,25mm CU Crimp Tee
+C577,,ea
+E577,,0
+F577,=E577*D577,0
+B578,,25x20x25 CU Crimp Tee
+C578,,ea
+E578,,0
+F578,=E578*D578,0
+B579,,25x20x20 CU Crimp Tee
+C579,,ea
+E579,,0
+F579,=E579*D579,0
+B580,,25x20x15 CU Crimp Tee
+C580,,ea
+E580,,0
+F580,=E580*D580,0
+B581,,25x15x25 CU Crimp Tee
+C581,,ea
+E581,,0
+F581,=E581*D581,0
+B582,,25x15x20 CU Crimp Tee
+C582,,ea
+E582,,0
+F582,=E582*D582,0
+B583,,25x15x15 CU Crimp Tee
+C583,,ea
+E583,,0
+F583,=E583*D583,0
+B584,,25x20 CU Crimp Reducer
+C584,,ea
+E584,,0
+F584,=E584*D584,0
+B585,,25x15 CU Crimp Reducer
+C585,,ea
+E585,,0
+F585,=E585*D585,0
+B586,,25Cu x 25Mi CU Crimp Adapter
+C586,,ea
+E586,,0
+F586,=E586*D586,0
+B587,,25Cu x 25Fi CU Crimp Adapter
+C587,,ea
+E587,,0
+F587,=E587*D587,0
+B588,,25mm CU Crimp Repair Coupling
+C588,,ea
+E588,,0
+F588,=E588*D588,0
+B589,,25mm CU Crimp Coupling
+C589,,ea
+E589,,0
+F589,=E589*D589,0
+B590,,25mm CU Crimp Cap
+C590,,ea
+E590,,0
+F590,=E590*D590,0
+B591,,25Cu x W69/Barrell Barrell Union CU Crimp
+C591,,ea
+E591,,0
+F591,=E591*D591,0
+B592,,20mm CU Crimp 90 DEG FxF Elbow
+C592,,ea
+E592,,0
+F592,=E592*D592,0
+B593,,20mm CU Crimp 45 DEG FxF Elbow
+C593,,ea
+E593,,0
+F593,=E593*D593,0
+B594,,20mm CU Crimp 90 DEG MxF Elbow
+C594,,ea
+E594,,0
+F594,=E594*D594,0
+B595,,20mm CU Crimp 45 DEG MxF Elbow
+C595,,ea
+E595,,0
+F595,=E595*D595,0
+B596,,20mm CU Crimp Tee
+C596,,ea
+E596,,0
+F596,=E596*D596,0
+B597,,20x15x20 CU Crimp Tee
+C597,,ea
+E597,,5.61
+F597,=E597*D597,0
+B598,,20x15x15 CU Crimp Tee
+C598,,ea
+E598,,0
+F598,=E598*D598,0
+B599,,20x15 CU Crimp Reducer
+C599,,ea
+E599,,0
+F599,=E599*D599,0
+B600,,20Cu x 20Mi CU Crimp Adapter
+C600,,ea
+E600,,0
+F600,=E600*D600,0
+B601,,20Cu x 20Fi CU Crimp Adapter
+C601,,ea
+E601,,0
+F601,=E601*D601,0
+B602,,20mm CU Crimp Repair Coupling
+C602,,ea
+E602,,0
+F602,=E602*D602,0
+B603,,20mm CU Crimp Coupling
+C603,,ea
+E603,,0
+F603,=E603*D603,0
+B604,,20mm CU Crimp Cap
+C604,,ea
+E604,,0
+F604,=E604*D604,0
+B605,,20Cu x W69/Barrell Barrell Union CU Crimp
+C605,,ea
+E605,,0
+F605,=E605*D605,0
+B606,,15mm CU Crimp 90 DEG FxF Elbow
+C606,,ea
+E606,,0
+F606,=E606*D606,0
+B607,,15mm CU Crimp 45 DEG FxF Elbow
+C607,,ea
+E607,,0
+F607,=E607*D607,0
+B608,,15mm CU Crimp 90 DEG MxF Elbow
+C608,,ea
+E608,,0
+F608,=E608*D608,0
+B609,,15mm CU Crimp 45 DEG MxF Elbow
+C609,,ea
+E609,,0
+F609,=E609*D609,0
+B610,,15mm CU Crimp Tee
+C610,,ea
+E610,,0
+F610,=E610*D610,0
+B611,,15Cu x 15Mi CU Crimp Adapter
+C611,,ea
+E611,,0
+F611,=E611*D611,0
+B612,,15Cu x 15Fi CU Crimp Adapter
+C612,,ea
+E612,,0
+F612,=E612*D612,0
+B613,,"15Cu Fi BP, wall elbow"
+C613,,ea
+E613,,0
+F613,=E613*D613,0
+B614,,"15Cu Mi BP, Wall elbow  - 90 Long"
+C614,,ea
+E614,,0
+F614,=E614*D614,0
+B615,,"15Cu Mi BP, Wall elbow  - 120+ Long"
+C615,,ea
+E615,,0
+F615,=E615*D615,0
+B616,,15mm CU Crimp Repair Coupling
+C616,,ea
+E616,,0
+F616,=E616*D616,0
+B617,,15mm CU Crimp Coupling
+C617,,ea
+E617,,0
+F617,=E617*D617,0
+B618,,15mm CU Crimp Cap
+C618,,ea
+E618,,0
+F618,=E618*D618,0
+B619,,15Cu x W69/Barrell Barrell Union CU Crimp
+C619,,ea
+E619,,0
+F619,=E619*D619,0
+B620,,50mm Ball Valve Fi
+C620,,ea
+E620,,0
+F620,=E620*D620,0
+B621,,40mm Ball Valve Fi
+C621,,ea
+E621,,0
+F621,=E621*D621,0
+B622,,32mm Ball Valve Fi
+C622,,ea
+E622,,0
+F622,=E622*D622,0
+B623,,25mm Ball Valve Fi
+C623,,ea
+E623,,26.25
+F623,=E623*D623,0
+B624,,20mm Ball Valve Fi
+C624,,ea
+E624,,0
+F624,=E624*D624,0
+B625,,15mm Ball Valve Fi
+C625,,ea
+E625,,0
+F625,=E625*D625,0
+B626,,50mm Mi BRS Nipple
+C626,,ea
+E626,,0
+F626,=E626*D626,0
+B627,,50mm Fi BRS Socket
+C627,,ea
+E627,,0
+F627,=E627*D627,0
+B628,,50mm Mi BRS Union
+C628,,ea
+E628,,0
+F628,=E628*D628,0
+B629,,50mm Fi BRS Union
+C629,,ea
+E629,,0
+F629,=E629*D629,0
+B630,,50mm BRS Plug
+C630,,ea
+E630,,0
+F630,=E630*D630,0
+B631,,50mm BRS Cap
+C631,,ea
+E631,,0
+F631,=E631*D631,0
+B632,,40mm Mi BRS Nipple
+C632,,ea
+E632,,0
+F632,=E632*D632,0
+B633,,40mm Fi BRS Socket
+C633,,ea
+E633,,0
+F633,=E633*D633,0
+B634,,40mm Mi BRS Union
+C634,,ea
+E634,,0
+F634,=E634*D634,0
+B635,,40mm Fi BRS Union
+C635,,ea
+E635,,0
+F635,=E635*D635,0
+B636,,40mm BRS Plug
+C636,,ea
+E636,,0
+F636,=E636*D636,0
+B637,,40mm BRS Cap
+C637,,ea
+E637,,0
+F637,=E637*D637,0
+B638,,32mm Mi BRS Nipple
+C638,,ea
+E638,,0
+F638,=E638*D638,0
+B639,,32mm Fi BRS Socket
+C639,,ea
+E639,,0
+F639,=E639*D639,0
+B640,,32mm Mi BRS Union
+C640,,ea
+E640,,0
+F640,=E640*D640,0
+B641,,32mm Fi BRS Union
+C641,,ea
+E641,,0
+F641,=E641*D641,0
+B642,,32mm BRS Plug
+C642,,ea
+E642,,0
+F642,=E642*D642,0
+B643,,32mm BRS Cap
+C643,,ea
+E643,,0
+F643,=E643*D643,0
+B644,,25mm Mi BRS Nipple
+C644,,ea
+E644,,0
+F644,=E644*D644,0
+B645,,25mm Fi BRS Socket
+C645,,ea
+E645,,0
+F645,=E645*D645,0
+B646,,25mm Mi BRS Union
+C646,,ea
+E646,,0
+F646,=E646*D646,0
+B647,,25mm Fi BRS Union
+C647,,ea
+E647,,0
+F647,=E647*D647,0
+B648,,25mm BRS Plug
+C648,,ea
+E648,,0
+F648,=E648*D648,0
+B649,,25mm BRS Cap
+C649,,ea
+E649,,0
+F649,=E649*D649,0
+C650,,ea
+E650,,0
+F650,=E650*D650,0
+B651,,20mm pex Pipe - Black
+E651,,0
+F651,=E651*D651,0
+B652,,15mm Pex pipe - Black
+C652,,m
+E652,,0
+F652,=E652*D652,0
+B653,,15mm Pex pipe - Red
+C653,,m
+E653,,0
+F653,=E653*D653,0
+B654,,20 pex Elbow
+C654,,m
+E654,,0
+F654,=E654*D654,0
+B655,,20 Pex TEE
+C655,,ea
+E655,,0
+F655,=E655*D655,0
+B656,,20x15 Pex TEE
+C656,,ea
+E656,,0
+F656,=E656*D656,0
+B657,,20 PEX Mi Adapter
+C657,,ea
+E657,,0
+F657,=E657*D657,0
+B658,,20 PEX Fi Adapter
+C658,,ea
+E658,,0
+F658,=E658*D658,0
+B659,,20x15 Pex Reducer
+C659,,ea
+E659,,0
+F659,=E659*D659,0
+B660,,20 PEXxCU Crimp conversion coupling
+C660,,ea
+E660,,0
+F660,=E660*D660,0
+B661,,20 PEX Straight coupling
+C661,,ea
+E661,,0
+F661,=E661*D661,0
+B662,,15 Pex Elbow
+C662,,ea
+E662,,0
+F662,=E662*D662,0
+B663,,15 Pex TEE
+C663,,ea
+E663,,0
+F663,=E663*D663,0
+B664,,15 PEXMi Adapter
+C664,,ea
+E664,,0
+F664,=E664*D664,0
+B665,,15 PEX Fi Adapter
+C665,,ea
+E665,,0
+F665,=E665*D665,0
+B666,,"15 PEX Fi BP, wall elbow"
+C666,,ea
+E666,,0
+F666,=E666*D666,0
+B667,,"15 PEX Mi BP, Wall elbow  - 90 Long"
+C667,,ea
+E667,,0
+F667,=E667*D667,0
+B668,,"15 PEX Mi BP, Wall elbow  - 120+ Long"
+C668,,ea
+E668,,0
+F668,=E668*D668,0
+B669,,15 PEXxCU Crimp conversion coupling
+C669,,ea
+E669,,0
+F669,=E669*D669,0
+B670,,15 PEX Straight coupling
+C670,,ea
+E670,,0
+F670,=E670*D670,0
+C671,,ea
+E671,,0
+F671,=E671*D671,0
+B672,,Hose Taps Complete
+C672,,ea
+D672,,3
+E672,,56
+F672,=E672*D672,168
+B673,,100 FL DICL SLUICE VALVE 
+C673,,ea
+E673,,202.94
+F673,=E673*D673,0
+B674,," 125PE*4"" (100mm) - MaxiStub W/Stainless Steel Backing Ring"
+C674,,ea
+E674,,92.67
+F674,=E674*D674,0
+B675,,100mm PE*DI Gasket Kit Complete  Parts & Labour
+C675,,ea
+E675,,24.71
+F675,=E675*D675,0
+B676,,100mm DI*DI Gasket Kit Complete
+C676,,ea
+E676,,20
+F676,=E676*D676,0
+B677,,Valve Spindle Riser - 600Long
+C677,,ea
+E677,,136.94
+F677,=E677*D677,0
+B678,,100mm Dual Pillar Hydrant Complete_ RG Base 1500 High w/landing Valves_OPTION
+C678,,ea
+E678,,365
+F678,=E678*D678,0
+B679,,125mm PE x 100mm GALV ADAPTER - Acutech Brand
+C679,,ea
+E679,,201.43
+F679,=E679*D679,0
+B680,,Red caps and chain - suit 65mm QLD Landing valve
+C680,,ea
+E680,,5
+F680,=E680*D680,0
+B681,,RPZD  32mm
+C681,,ea
+E681,,853
+F681,=E681*D681,0
+B682,,RPZD  20mm
+C682,,ea
+E682,,503
+F682,=E682*D682,0
+B683,,RPZD 100mm
+C683,,ea
+E683,,1809.63
+F683,=E683*D683,0
+B684,,Office - Water & Rough IN
+C684,,ea
+E684,,1650
+F684,=E684*D684,0
+B685,,Ofice - NOGINS & Fixings
+C685,,ea
+E685,,160
+F685,=E685*D685,0
+B686,,Safety shr fittings
+C686,,ea
+E686,,750
+F686,=E686*D686,0
+B687,,In Grnd Fittings misc
+C687,,ea
+E687,,450
+F687,=E687*D687,0
+B688,,Abv Grnd Fittings misc
+C688,,ea
+E688,,1250
+F688,=E688*D688,0
+B689,,HWU quickie kit
+C689,,ea
+E689,,190
+F689,=E689*D689,0
+B690,,TMV
+C690,,ea
+E690,,412.59
+F690,=E690*D690,0
+B691,,20mm Isolavtive valve 
+C691,,ea
+D691,,2
+E691,,18.65
+F691,=E691*D691,37.3
+B692,,25mm Isolavtive valve 
+C692,,ea
+D692,,4
+E692,,26.55
+F692,=E692*D692,106.2
+B693,,50mm Isolavtive valve 
+C693,,ea
+D693,,3
+E693,,92.1
+F693,=E693*D693,276.29999999999995
+B694,,450 SQ PIT
+C694,,ea
+E694,,30
+F694,=E694*D694,0
+B695,,Dock Office Water Mat
+C695,,ea
+E695,,1850
+F695,=E695*D695,0
+B696,,25mm RPZD 
+C696,,ea
+E696,,1800
+F696,=E696*D696,0
+C697,,ea
+F697,=E697*D697,0
+B698,,misc. 
+F698,=E698*D698,0
+B699,,150mm isolation valve in valve pit (connect to authority watermain )
+C699,,ea
+E699,,3800
+F699,=E699*D699,0
+B700,,25mm DCW Isolation vlave in valve pit with path box cover 
+C700,,ea
+E700,,371.37
+F700,=E700*D700,0
+B701,,	25mm water meter in tamper steel cage with isolative valves in both side 
+C701,,ea
+E701,=430.67+38.37,469.04
+F701,=E701*D701,0
+B702,,TMV in Box
+C702,,ea
+E702,=141.13+18.87+18.87+480.93,659.8
+F702,=E702*D702,0
+B703,,100 mm Water meter 
+C703,,ea
+E703,,587.96
+F703,=E703*D703,0
+B704,,90 valve in pit 
+C704,,ea
+D704,,1
+E704,,900
+F704,=E704*D704,900
+B705,,32 valve in pit 
+C705,,ea
+E705,,641.58
+F705,=E705*D705,0
+B706,,50mm control valve 
+C706,,ea
+E706,,50
+F706,=E706*D706,0
+B707,,TLV under basin 
+C707,,ea
+E707,,31.71
+F707,=E707*D707,0
+B708,,AUTOMATIC TRAP PRIMER 
+C708,,ea
+E708,,146.09
+F708,=E708*D708,0
+C709,,ea
+E709,,99.49
+F709,=E709*D709,0
+B711,,SEWER DRAINAGE - 
+B712,,Description
+B714,,PIPE DWV PVC S/WELD  150MM - In Grnd 
+C714,,m
+E714,,14.489999999999998
+F714,=E714*D714,0
+B715,,PIPE DWV SN8 PVC S/WELD  100MM
+C715,,m
+D715,,371
+E715,,9.5496
+F715,=E715*D715,3542.9016
+B716,,150MM * 45D PVC JUNCTION 
+C716,,ea
+E716,,9.66
+F716,=E716*D716,0
+B717,,100MM * 45D PVC JUNCTION 
+C717,,ea
+D717,,31
+E717,,4.7886
+F717,=E717*D717,148.4466
+B718,,150MM X 100MM 45D PVC JUNCTION 
+C718,,ea
+E718,,13.799999999999999
+F718,=E718*D718,0
+B719,,100*50 PVC DWV JUNCTION 
+C719,,ea
+E719,,6.5274
+F719,=E719*D719,0
+B720,,100MM * 65 PVC PVC JUNCTION 
+C720,,ea
+E720,,8.5974
+F720,=E720*D720,0
+B721,,150MM X 45 Deg Bend 
+C721,,ea
+E721,,6.8999999999999995
+F721,=E721*D721,0
+B722,,150MM X 90 Deg Bend 
+C722,,ea
+E722,,6.8999999999999995
+F722,=E722*D722,0
+B723,,100MM X 90Deg Bend
+C723,,ea
+D723,,52
+E723,,2.5667999999999997
+F723,=E723*D723,133.47359999999998
+B724,,100MM X 45Deg Bend
+C724,,ea
+D724,,35
+E724,,2.33082
+F724,=E724*D724,81.5787
+B725,,DWV PIPE REDUCER 150X100mm
+C725,,ea
+E725,,5.52
+F725,=E725*D725,0
+B726,,DWV PIPE REDUCER 100 X 50mm
+C726,,ea
+E726,,2.6771999999999996
+F726,=E726*D726,0
+B727,,PIPE DWV PVC S/WELD  100MM - In Grnd 
+C727,,m
+E727,,6.8999999999999995
+F727,=E727*D727,0
+B728,,PIPE DWV PVC S/WELD  65MM - In Grnd 
+C728,,m
+D728,,61
+E728,,5.52
+F728,=E728*D728,336.71999999999997
+B729,,63 HDPE PN12.5 SDR11 - BLACK or CREAM - In Grnd 
+C729,,m
+E729,,8.7354
+F729,=E729*D729,0
+B730,,PIPE DWV PVC S/WELD  50mm
+C730,,m
+D730,,104
+E730,,3.726
+F730,=E730*D730,387.504
+B731,,PIPE DWV PVC S/WELD  40mm
+C731,,m
+E731,,2.8979999999999997
+F731,=E731*D731,0
+B732,,65MM * 45D PVC JUNCTION 
+C732,,ea
+D732,,9
+E732,,3.5
+F732,=E732*D732,31.5
+B733,,50MM * 45D PVC JUNCTION 
+C733,,ea
+D733,,3
+E733,,3
+F733,=E733*D733,9
+B734,,DWV BEND 65X 90 DEG
+C734,,ea
+D734,,24
+E734,,2.3322
+F734,=E734*D734,55.97279999999999
+B735,,DWV BEND 65X 90 DEG
+C735,,ea
+D735,,18
+E735,,2.33
+F735,=E735*D735,41.94
+B736,,DWV BEND 40 X 85 DEG
+C736,,ea
+E736,,4.14
+F736,=E736*D736,0
+B737,,DWV BEND 50 X 45 DEG
+C737,,ea
+D737,,16
+E737,,0.9384
+F737,=E737*D737,15.0144
+B738,,DWV BEND 50 X85 DEG 
+C738,,ea
+D738,,14
+E738,,11.716199999999999
+F738,=E738*D738,164.02679999999998
+B739,,50mm Condensate INSULATION
+C739,,m
+E739,,14
+F739,=E739*D739,0
+B740,,100mm Condensate INSULATION
+C740,,m
+E740,,6
+F740,=E740*D740,0
+F741,=E741*D741,0
+B742,,150mm - Gas Tight H/D Cast Iron Clearout (Peepeye)
+C742,,ea
+E742,,40
+F742,=E742*D742,0
+B743,,150mm Clear Out Cover - L/D - Brass
+C743,,ea
+E743,,30
+F743,=E743*D743,0
+B744,,100mm - Gas Tight H/D Cast Iron Clearout (Peepeye)
+C744,,ea
+D744,,8
+E744,,33
+F744,=E744*D744,264
+B745,,100mm Clear Out Cover - L/D - Brass
+C745,,ea
+D745,,8
+E745,,23.26
+F745,=E745*D745,186.08
+B746,,100 mm Inspection Opening 
+C746,,ea
+E746,,50
+F746,=E746*D746,0
+B747,,100mm Trapped point - 100mm Gully Trap
+C747,,ea
+E747,,7.65
+F747,=E747*D747,0
+B748,,FWG - 100mm Gully Trap
+C748,,ea
+E748,,7.65
+F748,=E748*D748,0
+B749,,FWG - 100mm 4-way Riser
+C749,,ea
+E749,,13.59
+F749,=E749*D749,0
+B750,,FWG - Grate - Tile Insert 100*100 Chrome Plated
+C750,,ea
+E750,,0
+F750,=E750*D750,0
+B751,,In-Wall TD & View Panel - SS
+C751,,ea
+E751,,75
+F751,=E751*D751,0
+F752,=E752*D752,0
+B753,,100mm PVC 10mm nut hanging clip
+C753,,ea
+E753,,2
+F753,=E753*D753,0
+B754,,50mm PVC 10mm nut hanging clip
+C754,,ea
+E754,,1.5
+F754,=E754*D754,0
+B755,,10mm Zinc Threaded Rod
+C755,,m
+E755,=E644,0
+F755,=E755*D755,0
+F756,=E756*D756,0
+B757,,Glue - Blue - 4Ltr
+C757,,ea
+E757,,26.4
+F757,=E757*D757,0
+B758,,Primer - Red - 4Ltr
+C758,,ea
+E758,,23
+F758,=E758*D758,0
+B759,,Detectable SEWER Marker Tape - 250m
+C759,,ea
+E759,,75
+F759,=E759*D759,0
+B760,,100mm AbleFlex Roll 
+C760,,ea
+E760,,22
+F760,=E760*D760,0
+B761,,Concrete Mix bag
+C761,,ea
+E761,,10
+F761,=E761*D761,0
+F762,=E762*D762,0
+B763,,External Sewer Mains fitting
+C763,,ea
+E763,,520
+F763,=E763*D763,0
+B764,,Vents Complete
+C764,,ea
+E764,,230
+F764,=E764*D764,0
+B765,,Office Drainage mat
+C765,,ea
+E765,,2800
+F765,=E765*D765,0
+B766,,Dock Office Drainage Mat
+C766,,ea
+E766,,950
+F766,=E766*D766,0
+B767,,misc. 
+C767,,ea
+E767,,1250
+F767,=E767*D767,0
+B768,,Overflow Gully 
+C768,,ea
+D768,,2
+E768,,200
+F768,=E768*D768,400
+B769,,Tundish with HT
+C769,,ea
+E769,,60
+F769,=E769*D769,0
+B770,,COS
+C770,,ea
+E770,,120
+F770,=E770*D770,0
+B771,,Tundish 
+C771,,ea
+E771,,61.33
+F771,=E771*D771,0
+B772,,SIVEL EXPANSION JOINT
+C772,,ea
+D772,,1
+E772,,100
+F772,=E772*D772,100
+B773,,FWG-130x130 STAINLESS STEEL GRATE WITH 80Ø VERTICAL OUTLET. SPS MODEL Q130/80SR
+C773,,ea
+D773,,4
+E773,,250
+F773,=E773*D773,1000
+B774,,"FWG/BT - 200x200 PUSH IN BASKET TRAP WITH 316 STAINLESS STEEL GRATE CLASS 'C' SPS MODEL
+Q200 SR6-BT WITH FIXED SECONDARY STRAINER"
+C774,,ea
+E774,,250
+F774,=E774*D774,0
+B775,,Fire Collars & Misc
+C775,,ea
+E775,,300
+F775,=E775*D775,0
+B776,,plaster /slip trap 
+C776,,ea
+E776,,1200
+F776,=E776*D776,0
+B777,, Basket Arrestors for Floor Drains
+C777,,ea
+D777,,5
+E777,,350
+F777,=E777*D777,1750
+B779,,"CONTRACTOR TO LOCATE AND ASSESS EXISTING SEWER PUMP STATION PERFORMANCE, CONDITION AND CAPACITY. CONTRACTOR TO ALLOW ALL COSTS TO RELOCATE AND REINSTATE SEWER PUMP STATION AND ALL ASSOCIATED EQUIPMENT AWAY FROM NEW TRADES BUILDING'S FOOTPRINT (ROK 92 )"
+C779,,ea
+D779,,0
+E779,,8000
+F779,=E779*D779,0
+B783,,Trade Waste 
+B784,,Description
+B787,,	110 HDPE (TRADE WASTE DRAIN )
+C787,,m
+D787,,219
+E787,=58/5,11.6
+F787,=E787*D787,2540.4
+B788,,	110 HDPE 90 Deg Bend ( TRADE WASTE )
+C788,,ea
+D788,,20
+E788,,10
+F788,=E788*D788,200
+B789,,	110 HDPE X 45 DEG (TRADE WASTE )
+C789,,ea
+D789,,15
+E789,,5.16
+F789,=E789*D789,77.4
+B790,,	JUNCTION 110 HDPE X 45 DEG
+C790,,ea
+D790,,22
+E790,,8.35
+F790,=E790*D790,183.7
+B791,,100 HDPE (TRADE WASTE DRAIN )
+C791,,m
+D791,,31
+E791,,10
+F791,=E791*D791,310
+B792,,JUNCTION 100 HDPE X 45 DEG
+C792,,ea
+D792,,1
+E792,,4
+F792,=E792*D792,4
+B793,,110 HDPE  X 100 HDPE REDUCER
+C793,,ea
+D793,,2
+E793,,15
+F793,=E793*D793,30
+B794,,100 HDPE 90 Deg Bend ( TRADE WASTE )
+C794,,ea
+D794,,11
+E794,,8
+F794,=E794*D794,88
+B795,,	100 HDPE X 45 DEG (TRADE WASTE )
+C795,,ea
+D795,,4
+E795,,5.16
+F795,=E795*D795,20.64
+B796,,	65 HDPE (TRADE WASTE DRAIN )
+C796,,m
+D796,,12
+E796,,8
+F796,=E796*D796,96
+B797,,	65 HDPE X 45 DEG (TRADE WASTE )
+C797,,ea
+D797,,3
+E797,,4
+F797,=E797*D797,12
+B798,,	65 HDPE X 90 DEG (TRADE WASTE )
+C798,,ea
+D798,,1
+E798,,5
+F798,=E798*D798,5
+B799,,	50 HDPE (TRADE WASTE DRAIN )
+C799,,ea
+D799,,12
+E799,,7
+F799,=E799*D799,84
+B800,,	50 HDPE X 90 DEG (TRADE WASTE )
+C800,,ea
+D800,,3
+E800,,4
+F800,=E800*D800,12
+B801,,	BUCKEY TRAP /SILT TRAP
+C801,,ea
+D801,,9
+E801,,100
+F801,=E801*D801,900
+B802,,IOS TRADE WASTE 
+C802,,ea
+D802,,15
+E802,,80
+F802,=E802*D802,1200
+B804,,STORMWATER DRAINAGE
+B805,,Description
+B808,,PIPE 600MM - RIBBED
+C808,,m
+E808,,165.6
+F808,=E808*D808,0
+B809,,PIPE 450MM - RIBBED
+C809,,m
+E809,,89.69999999999999
+F809,=E809*D809,0
+B810,,PIPE 375MM - RIBBED BLACK MAX 
+C810,,m
+E810,,66.24
+F810,=E810*D810,0
+B811,,PIPE 300MM - RIBBED BLACK MAX 
+C811,,m
+E811,,0
+F811,=E811*D811,0
+B812,,PIPE DWV SN8 PVC S/WELD  375MM
+C812,,m
+E812,,85.10459999999999
+F812,=E812*D812,0
+B813,,PIPE DWV SN8 PVC S/WELD  300MM
+C813,,m
+E813,,84.17999999999999
+F813,=E813*D813,0
+B814,,PIPE DWV SN4 PVC S/WELD  300MM
+C814,,m
+E814,,68.77
+F814,=E814*D814,0
+B815,,PIPE SW H/D PVC S/WELD  300MM
+C815,,m
+E815,,55.199999999999996
+F815,=E815*D815,0
+B816,,PIPE DWV SN8 PVC S/WELD  225MM
+C816,,m
+D816,,168
+E816,,55.199999999999996
+F816,=E816*D816,9273.599999999999
+B817,,PIPE DWV SN4 PVC S/WELD  225MM
+C817,,m
+E817,,42.779999999999994
+F817,=E817*D817,0
+B818,,PIPE SW H/D PVC S/WELD  225MM
+C818,,m
+E818,,32.66
+F818,=E818*D818,0
+B819,,PIPE DWV SN8 PVC S/WELD  150MM
+C819,,m
+E819,,19.549999999999997
+F819,=E819*D819,0
+B820,,PIPE DWV SN4 PVC S/WELD  150MM
+C820,,m
+E820,,16.099999999999998
+F820,=E820*D820,0
+B821,,PIPE DWV SN8 PVC S/WELD  150MM - Suspended
+C821,,m
+E821,,19.549999999999997
+F821,=E821*D821,0
+B822,,PIPE DWV SN4 PVC S/WELD  150MM
+C822,,m
+D822,,8
+E822,,16.56
+F822,=E822*D822,132.48
+B823,,PIPE DWV SN8 PVC S/WELD  100MM
+C823,,m
+D823,,41
+E823,=(2415.3/(83*6))*1.38,6.6930000000000005
+F823,=E823*D823,274.413
+B824,,PIPE DWV SN4 PVC S/WELD  100MM
+C824,,m
+E824,,6.8999999999999995
+F824,=E824*D824,0
+B825,,PIPE DWV SN8 PVC S/WELD  50MM
+C825,,m
+E825,=(2415.3/(83*6))*1.38,6.6930000000000005
+F825,=E825*D825,0
+E826,,0
+F826,=E826*D826,0
+B827,,DWV Grade Option
+E827,,0
+F827,=E827*D827,0
+C828,,ea
+E828,,0
+F828,=E828*D828,0
+B829,,600*225 Ribbed Saddle
+C829,,ea
+E829,,676.1999999999999
+F829,=E829*D829,0
+B830,,600*45Deg RIBBED Bend
+C830,,ea
+E830,,896.9999999999999
+F830,=E830*D830,0
+B831,,600*450 Ribbed Reducer
+C831,,ea
+E831,,1517.9999999999998
+F831,=E831*D831,0
+B832,,450*375 Ribbed*PVC Reducer
+C832,,ea
+E832,,634.8
+F832,=E832*D832,0
+B833,,450 45 Deg ribbed Bend
+C833,,ea
+E833,,800.4
+F833,=E833*D833,0
+B834,,450 * 225 Ribbed Saddle
+C834,,ea
+E834,,441.59999999999997
+F834,=E834*D834,0
+B835,,375mm X 45Deg Junction
+C835,,ea
+E835,,579.5999999999999
+F835,=E835*D835,0
+B836,,375X300X45D PVC JUNCTION
+C836,,ea
+E836,,776.0981999999999
+F836,=E836*D836,0
+B837,,375X225X45D PVC JUNCTION
+C837,,ea
+E837,,777.4781999999999
+F837,=E837*D837,0
+B838,,375MM X 300MM Reducer
+C838,,ea
+E838,,524.4
+F838,=E838*D838,0
+B839,,375MM X 225MM Reducer
+C839,,ea
+E839,,496.79999999999995
+F839,=E839*D839,0
+B840,,375MM X 90Deg Bend
+C840,,ea
+E840,,745.1999999999999
+F840,=E840*D840,0
+B841,,375MM X 45Deg Bend
+C841,,ea
+E841,,621
+F841,=E841*D841,0
+B842,,300MM * 45D PVC JUNCTION
+C842,,ea
+E842,,496.79999999999995
+F842,=E842*D842,0
+B843,,300X225X45D PVC JUNCTION
+C843,,ea
+E843,,441.59999999999997
+F843,=E843*D843,0
+B844,,300MM X 225MM Reducer
+C844,,ea
+E844,,262.2
+F844,=E844*D844,0
+B845,,300MM X 90Deg Bend
+C845,,ea
+E845,,345
+F845,=E845*D845,0
+B846,,300MM X 45Deg Bend
+C846,,ea
+E846,,262.2
+F846,=E846*D846,0
+B847,,300MM X 150 Junction
+C847,,ea
+E847,,455.4
+F847,=E847*D847,0
+B848,,225MM * 45D PVC JUNCTION
+C848,,ea
+E848,,117.645
+F848,=E848*D848,0
+B849,,225X150X45D PVC JUNCTION
+C849,,ea
+E849,,289.79999999999995
+F849,=E849*D849,0
+B850,,225MM X 90Deg Bend
+C850,,ea
+D850,,74
+E850,,85.55999999999999
+F850,=E850*D850,6331.439999999999
+B851,,225MM X 45Deg Bend
+C851,,ea
+D851,,3
+E851,,84.17999999999999
+F851,=E851*D851,252.53999999999996
+B852,,225MM X 150MM Reducer
+C852,,ea
+E852,,62.099999999999994
+F852,=E852*D852,0
+B853,,150 PVC DWV 45Deg Junct
+C853,,ea
+E853,,24.839999999999996
+F853,=E853*D853,0
+B854,,150MM X 90Deg Bend
+C854,,ea
+D854,,3
+E854,,22.08
+F854,=E854*D854,66.24
+B855,,150MM X 45Deg Bend
+C855,,ea
+E855,,16.56
+F855,=E855*D855,0
+B856,,150X100X45D PVC JUNCTION
+C856,,ea
+E856,,22.08
+F856,=E856*D856,0
+B857,,PVC PIPE REDUCER 150X 100 mm
+C857,,ea
+E857,,22.08
+F857,=E857*D857,0
+B858,,100MM * 45D PVC JUNCTION 
+C858,,ea
+D858,,2
+E858,,6.486
+F858,=E858*D858,12.972
+B859,,100X50 X45D PVC JUNCTION
+C859,,ea
+E859,,22.08
+F859,=E859*D859,0
+B860,,PVC PIPE REDUCER 100X 50 mm
+C860,,ea
+E860,,22.08
+F860,=E860*D860,0
+B861,,100MM X 90Deg Bend
+C861,,ea
+D861,,8
+E861,,16.56
+F861,=E861*D861,132.48
+B862,,100MM X 45Deg Bend
+C862,,ea
+D862,,8
+E862,,16.56
+F862,=E862*D862,132.48
+B863,,50 PVC X 45D PVC JUNCTION
+C863,,ea
+E863,,19.32
+F863,=E863*D863,0
+B864,,50MM X 90Deg  PVC Bend
+C864,,ea
+E864,,0.8969999999999999
+F864,=E864*D864,0
+B865,,50MM X 45Deg  PVC Bend
+C865,,ea
+E865,,0.8969999999999999
+F865,=E865*D865,0
+E866,,0
+F866,=E866*D866,0
+E867,,0
+F867,=E867*D867,0
+B868,,150mm PVC 10mm nut hanging clip
+C868,,ea
+E868,,2.622
+F868,=E868*D868,0
+B869,,10mm Zinc Threaded Rod
+C869,,m
+E869,,2.76
+F869,=E869*D869,0
+B870,,Glue - Blue - 4Ltr
+C870,,ea
+E870,,36.431999999999995
+F870,=E870*D870,0
+B871,,Primer - Red - 4Ltr
+C871,,ea
+E871,,31.74
+F871,=E871*D871,0
+E872,,0
+F872,=E872*D872,0
+B873,,SW_RRJ (RIBBED) Fittings
+E873,,0
+F873,=E873*D873,0
+E874,,0
+F874,=E874*D874,0
+B875,,375MM X 45Deg  Bend
+C875,,ea
+E875,,362.1396
+F875,=E875*D875,0
+B876,,DN 375 X DN150 45 DEG BLACKMAX REDUCING JUNCTION (PVC FAB)
+C876,,ea
+E876,,827.9999999999999
+F876,=E876*D876,0
+B877,,DN375 x dn225 BlackMax® Reducing Adaptor FF RRJ x DWV SWJ (PVC Fab)
+C877,,ea
+E877,,552
+F877,=E877*D877,0
+E878,,0
+F878,=E878*D878,0
+B879,,DN 300 X DN150 45 DEG BLACKMAX REDUCING JUNCTION (PVC FAB)
+C879,,ea
+E879,,690
+F879,=E879*D879,0
+B880,,DN300 BLACK MAX 45 DEG BEND 
+C880,,ea
+E880,,413.99999999999994
+F880,=E880*D880,0
+B881,,DN300 x dn225 BlackMax® Reducing Adaptor FF RRJ x DWV SWJ (PVC Fab)
+C881,,ea
+E881,,413.99999999999994
+F881,=E881*D881,0
+B882,,DN300 BLACK MAX 45 DEG BEND 
+C882,,ea
+E882,,413.99999999999994
+F882,=E882*D882,0
+B883,,SW IOS 
+C883,,ea
+D883,,10
+E883,,80
+F883,=E883*D883,800
+B884,,SWGP 1 300 x300 x450 
+C884,,ea
+D884,,1
+E884,=89.62+37.92,127.54
+F884,=E884*D884,127.54
+B885,,SWGP 2 600x600 x600 
+C885,,ea
+D885,,1
+E885,=228+147,375
+F885,=E885*D885,375
+B886,,SWGP 4  450x450x600
+C886,,ea
+D886,,15
+E886,=166+84,250
+F886,=E886*D886,3750
+B887,,BTGP FOX ENVIRONMENTAL PT600/100
+C887,,ea
+D887,,1
+E887,,1500
+F887,=E887*D887,1500
+B888,,150mm Cap 
+C888,,ea
+E888,,20.7
+F888,=E888*D888,0
+B889,,	150mm expansion coupler
+C889,,ea
+E889,,110.39999999999999
+F889,=E889*D889,0
+B890,,	450X450 GRATED SW GULLY
+C890,,ea
+D890,,4
+E890,,180
+F890,=E890*D890,720
+B893,,FITOFF
+B895,,Fit-Off Material; Ground & First Floor -
+C895,,ea
+D895,,4
+E895,,1800
+F895,=E895*D895,7200
+B896,,Fit-Off Material; Ground & First Floor -
+C896,,ea
+D896,,2
+E896,,1801
+F896,=E896*D896,3602
+C900,,SUB TOTALS
+F901,=SUM(F15:F900),562924.6577471126
+E904,,Contingency
+F904,,1.15
+E905,,Deliveries
+F905,,3650
+C907,,TOTALS
+F908,=F901*F904+F905,651013.3564091794
+B914,,Excavation/Quarry/Misc/ Takeoff.
+C915,,Qty
+D915,,Unit
+B916,,Avrg Trench = .900D*.450W
+C916,=C920,1192
+D916,,m
+B917,,L/M Of Asphalt Reinstate
+C917,,0
+D917,,m
+B918,,M2 Of Asphalt Reinstate
+C918,,0
+D918,,m2
+B919,,L/M Of CBR Reinstate
+C919,,0
+D919,,m
+B920,,L/M of Inground Pipe (Average Depth)
+C920,=SUM(D173:D177)+SUM(D360:D370)+D715+D728+D730+SUM(D808:D825)+D787,1192
+D920,,m
+B921,,L/M of Inground Pipe (Deeper Than Average Depth)
+D921,,m
+B922,,Avergage of trtenches 'Shared'…. Shared trench Factor
+C922,,0.1
+D922,,m
+B923,,SEWER / SW / TW - InGrnd
+D923,,m
+E923,=C923/(C920+C921),0
+B924,,WAT / FIRE - InGrnd
+D924,,m
+E924,=C924/(C920+C921),0
+B925,,SPK - InGrnd
+D925,,m
+E925,=C925/(C920+C921),0
+C928,,D
+D928,,W
+E928,,L
+F928,,Spoil/Compact Factor;
+G928,,Shared Trench Factor
+H928,,Total m3 - EXCAVATED
+I928,,"Total M3 - Bed, Pipe, Cover reduction"
+J928,,Total M3 - Backfill Req (Less Bed&Pipe)
+K928,,Total M3 - Spoil - REMOVE
+L928,,TCS Load - Haulage & dump rate only
+B929,=B920,L/M of Inground Pipe (Average Depth)
+C929,,0.95
+D929,,0.6
+E929,=C920,1192
+F929,,1.3
+G929,=C922,0.1
+H929,=(C929*D929*E929)*F929-(C929*D929*E929*G929),815.328
+B930,=B921,L/M of Inground Pipe (Deeper Than Average Depth)
+C930,,1.1
+D930,,0.5
+E930,=C921,0
+F930,,1.3
+G930,,0
+H930,=(C930*D930*E930)*F930,0
+B931,,"L/M of Bed, Pipe, Cover material reduction (Average Depth)"
+C931,,0.35
+D931,=D929,0.6
+E931,=E929,1192
+F931,,0
+G931,=C922,0.1
+I931,=(C931*D931*E931)-(C931*D931*E931*G931),225.28799999999998
+B932,,"L/M of Bed, Pipe, Cover material reduction (Deeper Than Average Depth)"
+C932,,0.2
+D932,=D930,0.5
+E932,=E930,0
+F932,,0
+G932,=G930,0
+I932,=(C932*D932*E932)-(C932*D932*E932*G932),0
+B933,,L/M of BACKFILL required (Average Depth)
+C933,=C929,0.95
+D933,=D929,0.6
+E933,=E929,1192
+F933,,1.3
+G933,=C922,0.1
+J933,=(C933*D933*E933*F933)-(C933*D933*E933*G933)-I931,590.04
+B934,,L/M of BACKFILL required (Deeper Than Average Depth)
+C934,=C930,1.1
+D934,=D930,0.5
+E934,=E930,0
+F934,,1.3
+G934,=G930,0
+J934,=(C934*D934*E934*F934)-(C934*D934*E934*G934)-I932,0
+K935,,QTY
+L935,,Rate
+M935,,Total
+H936,=SUM(H929:H935),815.328
+I936,=SUM(I929:I935),225.28799999999998
+J936,=SUM(J929:J935),590.04
+K936,=H936-J936,225.288
+L936,,15
+M936,=K936*L936,3379.32
+B942,,Thrust Block Concrete
+C942,,m3/TB
+D942,,Qty
+E942,,Total m3
+F942,,Contingency
+G942,,Total m3
+H942,,Total Cost
+C943,,0.1
+E943,=D943*C943,0
+F943,,1.1
+G943,=E943*F943,0
+H943,=G943*E968,0
+B946,,Quarry & Concrete Product
+M947,,1.05
+B948,,Description
+C948,,Unit/LM
+D948,,Unit
+E948,,Rate
+F948,,Rate/LM
+I948,,QTY
+J948,,Shared Trench Factor
+K948,,Total Req.
+L948,,Total
+M948,,Contingency
+N948,,TOTAL
+O948,,Drainage Use
+P948,,Fire/WAT Use
+Q948,,SPK Use
+B949,,5-7mm Stone
+C949,,0.203
+D949,,Ton
+E949,=E961,62
+F949,=E949*C949,12.586
+I949,=C949*(C920+C921),241.97600000000003
+J949,=C922,0.1
+K949,=I949-(I949*J949),217.77840000000003
+L949,=K949*E949,13502.260800000002
+M949,=(L949*M947)-L949,675.1130400000002
+N949,=L949*M947,14177.373840000002
+O949,=N949*E923,0
+B950,,5-7mm Stone
+C950,,0.14
+D950,,m3
+E950,=E961,62
+F950,=(E950*C950)*1.95,16.926000000000002
+B951,,10-12mm Stone
+C951,,0.45
+D951,,Ton
+E951,=E962,62
+F951,=E951*C951,27.900000000000002
+I951,,0
+L951,=I951*E951,0
+N951,=L951*$L$297,0
+B952,,80-110mm Stone
+C952,,0
+D952,,Ton
+E952,=E963,25
+F952,=E952*C952,0
+I952,,0
+L952,=I952*E952,0
+N952,=L952*$L$297,0
+B953,,Medium River / Bed Sand
+C953,,0.225
+D953,,Ton
+E953,=E964,62
+F953,=E953*C953,13.950000000000001
+I953,=C953*(C920+C921),268.2
+J953,=C922,0.1
+K953,=I953-(I953*J953),241.38
+L953,=K953*E953,14965.56
+M953,=(L953*M947)-L953,748.2780000000002
+N953,=L953*M947,15713.838
+P953,=N953*E924,0
+Q953,=N953*E925,0
+B954,,Medium River / Bed Sand
+C954,,0.14
+D954,,m3
+E954,=E964,62
+F954,=(E954*C954)*1.5,13.020000000000003
+B955,,CBR15 Road Base
+C955,,0.36
+D955,,Ton
+E955,=F965,27
+F955,=E955*C955,9.719999999999999
+I955,=C919*C955,0
+L955,=I955*E955,0
+N955,=L955*$L$297,0
+B956,,CBR45
+C956,,0.36
+D956,,Ton
+E956,=F966,30
+F956,=E956*C956,10.799999999999999
+I956,=C956*C919,0
+L956,=I956*E956,0
+N956,=L956*$L$297,0
+B957,,LEANMIX
+C957,,0.3
+D957,,m3
+E957,=N967,0
+F957,=E957*C957,0
+I957,=C957*C917,0
+L957,=E957*I957,0
+N957,=L957*$L$297,0
+E959,,TCS
+F959,,Q2
+B960,,Description
+D960,,Unit
+E960,,Rate
+F960,,Rate
+B961,,5-7mm Stone
+D961,,T
+E961,,62
+F961,,31
+B962,,10-12mm Stone
+D962,,T
+E962,,62
+F962,,39
+B963,,80-110mm Stone
+D963,,T
+E963,,25
+F963,,29
+B964,,Medium River / Bed Sand
+D964,,T
+E964,,62
+F964,,26
+B965,,CBR15 Road Base
+D965,,T
+E965,,48
+F965,,27
+B966,,CBR45
+D966,,T
+E966,,50
+F966,,30
+B967,,LEANMIX_20mm-12:1
+D967,,M3
+E967,,168
+F967,,0
+B968,,Concrete_25/20/80
+D968,,M3
+E968,,153
+F968,,0

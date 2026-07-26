@@ -1,0 +1,844 @@
+{
+ "TriCore Docs\\Master Cost Sheets\\MasterCostSheet_Civ.V1.xlsx": {
+  "sheets": [
+   {
+    "name": "V1",
+    "state": "visible",
+    "dims": "B1:AD85",
+    "max_row": 85,
+    "max_col": 30,
+    "formulas": 18,
+    "hardcoded_numbers": 9,
+    "errors": [],
+    "merged": 13,
+    "hidden_rows": 0,
+    "hidden_cols": 0
+   },
+   {
+    "name": "Prelim_OH-Check",
+    "state": "visible",
+    "dims": "A1:L58",
+    "max_row": 58,
+    "max_col": 12,
+    "formulas": 24,
+    "hardcoded_numbers": 51,
+    "errors": [],
+    "merged": 4,
+    "hidden_rows": 0,
+    "hidden_cols": 0
+   },
+   {
+    "name": "SW Zone Sumry",
+    "state": "visible",
+    "dims": "A1:H73",
+    "max_row": 73,
+    "max_col": 8,
+    "formulas": 50,
+    "hardcoded_numbers": 34,
+    "errors": [],
+    "merged": 1,
+    "hidden_rows": 0,
+    "hidden_cols": 0
+   },
+   {
+    "name": "SW_Mataterial",
+    "state": "visible",
+    "dims": "B2:R370",
+    "max_row": 370,
+    "max_col": 18,
+    "formulas": 337,
+    "hardcoded_numbers": 321,
+    "errors": [],
+    "merged": 1,
+    "hidden_rows": 7,
+    "hidden_cols": 0
+   },
+   {
+    "name": "SW_Pit Takeoff",
+    "state": "visible",
+    "dims": "A1:BB120",
+    "max_row": 120,
+    "max_col": 54,
+    "formulas": 154,
+    "hardcoded_numbers": 109,
+    "errors": [],
+    "merged": 36,
+    "hidden_rows": 0,
+    "hidden_cols": 2
+   },
+   {
+    "name": "SW_insitu Takeoff",
+    "state": "visible",
+    "dims": "A2:M28",
+    "max_row": 28,
+    "max_col": 13,
+    "formulas": 8,
+    "hardcoded_numbers": 4,
+    "errors": [],
+    "merged": 2,
+    "hidden_rows": 0,
+    "hidden_cols": 0
+   },
+   {
+    "name": "Staff Rates",
+    "state": "visible",
+    "dims": "A1:J60",
+    "max_row": 60,
+    "max_col": 10,
+    "formulas": 168,
+    "hardcoded_numbers": 35,
+    "errors": [],
+    "merged": 1,
+    "hidden_rows": 0,
+    "hidden_cols": 0
+   },
+   {
+    "name": "Equip&HIRE",
+    "state": "visible",
+    "dims": "A2:O51",
+    "max_row": 51,
+    "max_col": 15,
+    "formulas": 30,
+    "hardcoded_numbers": 247,
+    "errors": [],
+    "merged": 4,
+    "hidden_rows": 0,
+    "hidden_cols": 0
+   }
+  ],
+  "named_ranges": [
+   {
+    "name": "aa",
+    "refers_to": "#REF!"
+   },
+   {
+    "name": "bh",
+    "refers_to": "#REF!"
+   },
+   {
+    "name": "Civil4",
+    "refers_to": "#REF!"
+   },
+   {
+    "name": "d",
+    "refers_to": "#REF!"
+   },
+   {
+    "name": "date",
+    "refers_to": "#REF!"
+   },
+   {
+    "name": "daz",
+    "refers_to": "#REF!"
+   },
+   {
+    "name": "ddd",
+    "refers_to": "#REF!"
+   },
+   {
+    "name": "for",
+    "refers_to": "#REF!"
+   },
+   {
+    "name": "job",
+    "refers_to": "#REF!"
+   },
+   {
+    "name": "No",
+    "refers_to": "#REF!"
+   },
+   {
+    "name": "qqq",
+    "refers_to": "#REF!"
+   },
+   {
+    "name": "Rep_List",
+    "refers_to": "#REF!"
+   },
+   {
+    "name": "site",
+    "refers_to": "#REF!"
+   },
+   {
+    "name": "site1",
+    "refers_to": "#REF!"
+   },
+   {
+    "name": "site2",
+    "refers_to": "#REF!"
+   }
+  ],
+  "external_links": [
+   "file:///\\\\SBSERVER\\Users\\tony.rieck\\My%20Documents\\60%20Richards%20St%20Loganlea%20Costings%20V2.xls"
+  ],
+  "issues": []
+ },
+ "TriCore Docs\\Master Cost Sheets\\MasterCostSheet_Hyd.V1.xlsx": {
+  "sheets": [
+   {
+    "name": "TCS $ Sched",
+    "state": "visible",
+    "dims": "A1:AD140",
+    "max_row": 140,
+    "max_col": 30,
+    "formulas": 30,
+    "hardcoded_numbers": 30,
+    "errors": [],
+    "merged": 72,
+    "hidden_rows": 0,
+    "hidden_cols": 0
+   },
+   {
+    "name": "00_ TCS Prelim & OH",
+    "state": "visible",
+    "dims": "A1:L101",
+    "max_row": 101,
+    "max_col": 12,
+    "formulas": 99,
+    "hardcoded_numbers": 17,
+    "errors": [
+     "C9: external-link formula: =[1]Program_MASTER!$B$102",
+     "C10: external-link formula: =[1]Program_MASTER!B103",
+     "C11: external-link formula: =[1]Program_MASTER!B104",
+     "C12: external-link formula: =[1]Program_MASTER!B105"
+    ],
+    "merged": 8,
+    "hidden_rows": 0,
+    "hidden_cols": 0
+   },
+   {
+    "name": "ClubHouse (NBC )",
+    "state": "visible",
+    "dims": "A1:R1003",
+    "max_row": 1003,
+    "max_col": 18,
+    "formulas": 1446,
+    "hardcoded_numbers": 673,
+    "errors": [],
+    "merged": 6,
+    "hidden_rows": 40,
+    "hidden_cols": 0
+   },
+   {
+    "name": "Public Amenities (PAM)",
+    "state": "visible",
+    "dims": "A1:R924",
+    "max_row": 924,
+    "max_col": 18,
+    "formulas": 1365,
+    "hardcoded_numbers": 568,
+    "errors": [],
+    "merged": 6,
+    "hidden_rows": 40,
+    "hidden_cols": 0
+   },
+   {
+    "name": "Siteworks ",
+    "state": "visible",
+    "dims": "A1:R934",
+    "max_row": 934,
+    "max_col": 18,
+    "formulas": 1376,
+    "hardcoded_numbers": 590,
+    "errors": [],
+    "merged": 6,
+    "hidden_rows": 29,
+    "hidden_cols": 0
+   },
+   {
+    "name": "LabourProject Rates_Master",
+    "state": "visible",
+    "dims": "A1:L115",
+    "max_row": 115,
+    "max_col": 12,
+    "formulas": 145,
+    "hardcoded_numbers": 48,
+    "errors": [
+     "B7: external-link formula: ='[2]Staff Costs_Lead Hand'!$B$193",
+     "B8: external-link formula: ='[2]Staff Costs_Lead Hand'!$E$212",
+     "C8: external-link formula: ='[2]Staff Costs_Lead Hand'!$F$212",
+     "B9: external-link formula: ='[2]Staff Costs_Lead Hand'!$E$213",
+     "C9: external-link formula: ='[2]Staff Costs_Lead Hand'!$F$213",
+     "B10: external-link formula: ='[2]Staff Costs_Lead Hand'!$E$214",
+     "C10: external-link formula: ='[2]Staff Costs_Lead Hand'!$F$214",
+     "B14: external-link formula: ='[2]Staff Costs_Lead Hand'!$B$4",
+     "E17: external-link formula: ='[2]Staff Costs_Lead Hand'!$F$211",
+     "B21: external-link formula: ='[2]Staff Costs_Tradesman'!$B$4",
+     "E24: external-link formula: ='[2]Staff Costs_Tradesman'!$F$121",
+     "B28: external-link formula: ='[2]Staff Costs_TA'!$B$4",
+     "E31: external-link formula: ='[2]Staff Costs_TA'!$F$122"
+    ],
+    "merged": 2,
+    "hidden_rows": 6,
+    "hidden_cols": 0
+   },
+   {
+    "name": "Material Rates_Master",
+    "state": "visible",
+    "dims": "A2:M257",
+    "max_row": 257,
+    "max_col": 13,
+    "formulas": 364,
+    "hardcoded_numbers": 218,
+    "errors": [
+     "D5: external-link formula: ='[3]240522_Supplier RFQ'!F16",
+     "D6: external-link formula: ='[3]240522_Supplier RFQ'!F17",
+     "D7: external-link formula: ='[3]240522_Supplier RFQ'!F18",
+     "D8: external-link formula: ='[3]240522_Supplier RFQ'!F19",
+     "D10: external-link formula: ='[3]240522_Supplier RFQ'!F21",
+     "D11: external-link formula: ='[3]240522_Supplier RFQ'!F22",
+     "D12: external-link formula: ='[3]240522_Supplier RFQ'!F23",
+     "D13: external-link formula: ='[3]240522_Supplier RFQ'!F24",
+     "D14: external-link formula: ='[3]240522_Supplier RFQ'!F25",
+     "D15: external-link formula: ='[3]240522_Supplier RFQ'!F26",
+     "D16: external-link formula: ='[3]240522_Supplier RFQ'!F27",
+     "D17: external-link formula: ='[3]240522_Supplier RFQ'!F28",
+     "D18: external-link formula: ='[3]240522_Supplier RFQ'!F29",
+     "D19: external-link formula: ='[3]240522_Supplier RFQ'!F30",
+     "D20: external-link formula: ='[3]240522_Supplier RFQ'!F31",
+     "D21: external-link formula: ='[3]240522_Supplier RFQ'!F32",
+     "D22: external-link formula: ='[3]240522_Supplier RFQ'!F33",
+     "D23: external-link formula: ='[3]240522_Supplier RFQ'!F34",
+     "D24: external-link formula: ='[3]240522_Supplier RFQ'!F35",
+     "D25: external-link formula: ='[3]240522_Supplier RFQ'!F36"
+    ],
+    "merged": 34,
+    "hidden_rows": 0,
+    "hidden_cols": 0
+   },
+   {
+    "name": "Equip&HIRE_Master",
+    "state": "visible",
+    "dims": "A2:F71",
+    "max_row": 71,
+    "max_col": 6,
+    "formulas": 35,
+    "hardcoded_numbers": 0,
+    "errors": [
+     "D4: external-link formula: ='[4]Hire Items_Dry'!$M$16",
+     "D5: external-link formula: ='[4]Hire Items_Dry'!$M$17",
+     "D6: external-link formula: ='[4]Hire Items_Dry'!$J$18",
+     "D8: external-link formula: ='[4]Hire Items_Dry'!$P$20",
+     "D10: external-link formula: ='[4]Hire Items_Dry'!$M$22",
+     "D11: external-link formula: ='[4]Hire Items_Dry'!$M$23",
+     "D13: external-link formula: ='[4]Hire Items_Dry'!$M$25",
+     "D14: external-link formula: ='[4]Hire Items_Dry'!$P$26",
+     "D17: external-link formula: ='[4]Hire Items_Dry'!$G$29",
+     "D19: external-link formula: ='[4]Hire Items_Dry'!G31",
+     "D20: external-link formula: ='[4]Hire Items_Dry'!G32",
+     "D21: external-link formula: ='[4]Hire Items_Dry'!G33",
+     "D22: external-link formula: ='[4]Hire Items_Dry'!G34",
+     "D24: external-link formula: ='[4]Hire Items_Dry'!G36",
+     "D28: external-link formula: ='[4]Hire Items_Dry'!$J$40",
+     "D29: external-link formula: ='[4]Hire Items_Dry'!$G$41",
+     "D30: external-link formula: ='[4]Hire Items_Dry'!$P$42",
+     "D33: external-link formula: ='[4]Hire Items_Dry'!$P$45",
+     "D34: external-link formula: ='[4]Hire Items_Dry'!$J$46",
+     "D40: external-link formula: ='[4]Hire Items_Dry'!$G$52"
+    ],
+    "merged": 15,
+    "hidden_rows": 4,
+    "hidden_cols": 0
+   },
+   {
+    "name": "Misc Subbie Rates_Master",
+    "state": "visible",
+    "dims": "A1:G121",
+    "max_row": 121,
+    "max_col": 7,
+    "formulas": 80,
+    "hardcoded_numbers": 52,
+    "errors": [
+     "D10: external-link formula: ='[4]Plant Hire_WET'!R16",
+     "D11: external-link formula: ='[4]Plant Hire_WET'!R17",
+     "D12: external-link formula: ='[4]Plant Hire_WET'!F18",
+     "D13: external-link formula: ='[4]Plant Hire_WET'!F19",
+     "D14: external-link formula: ='[4]Plant Hire_WET'!F20",
+     "D15: external-link formula: ='[4]Plant Hire_WET'!O21",
+     "D16: external-link formula: ='[4]Plant Hire_WET'!O22",
+     "D17: external-link formula: ='[4]Plant Hire_WET'!O23",
+     "D18: external-link formula: ='[4]Plant Hire_WET'!F24",
+     "D19: external-link formula: ='[4]Plant Hire_WET'!F25",
+     "D20: external-link formula: ='[4]Plant Hire_WET'!F26",
+     "D21: external-link formula: ='[4]Plant Hire_WET'!F27",
+     "D22: external-link formula: ='[4]Plant Hire_WET'!F28",
+     "D23: external-link formula: ='[4]Plant Hire_WET'!F29",
+     "D24: external-link formula: ='[4]Plant Hire_WET'!L30",
+     "D25: external-link formula: ='[4]Plant Hire_WET'!L31",
+     "D26: external-link formula: ='[4]Plant Hire_WET'!L32",
+     "D27: external-link formula: ='[4]Plant Hire_WET'!$R$33",
+     "D28: external-link formula: ='[4]Plant Hire_WET'!$R$34",
+     "D35: external-link formula: =[4]Subbies_Misc!$F$16"
+    ],
+    "merged": 23,
+    "hidden_rows": 0,
+    "hidden_cols": 0
+   },
+   {
+    "name": "Accomodation_Master",
+    "state": "visible",
+    "dims": "A1:K368",
+    "max_row": 368,
+    "max_col": 11,
+    "formulas": 395,
+    "hardcoded_numbers": 100,
+    "errors": [],
+    "merged": 26,
+    "hidden_rows": 223,
+    "hidden_cols": 0
+   }
+  ],
+  "named_ranges": [
+   {
+    "name": "aa",
+    "refers_to": "#REF!"
+   },
+   {
+    "name": "bh",
+    "refers_to": "#REF!"
+   },
+   {
+    "name": "Civil4",
+    "refers_to": "#REF!"
+   },
+   {
+    "name": "d",
+    "refers_to": "#REF!"
+   },
+   {
+    "name": "date",
+    "refers_to": "#REF!"
+   },
+   {
+    "name": "daz",
+    "refers_to": "#REF!"
+   },
+   {
+    "name": "ddd",
+    "refers_to": "#REF!"
+   },
+   {
+    "name": "for",
+    "refers_to": "#REF!"
+   },
+   {
+    "name": "job",
+    "refers_to": "#REF!"
+   },
+   {
+    "name": "No",
+    "refers_to": "#REF!"
+   },
+   {
+    "name": "qqq",
+    "refers_to": "#REF!"
+   },
+   {
+    "name": "site",
+    "refers_to": "#REF!"
+   },
+   {
+    "name": "site1",
+    "refers_to": "#REF!"
+   },
+   {
+    "name": "site2",
+    "refers_to": "#REF!"
+   }
+  ],
+  "external_links": [
+   "https://tricoreplumbing.sharepoint.com/sites/CQU-ROK-Admin/Shared%20Documents/Admin/01.A.%20Pre%20Bid/Costings/V.1/CQU%20ROK_PROGRAM%20-%20MASTER.V1.xlsx",
+   "https://tricoreplumbing.sharepoint.com/sites/CQU-ROK-Admin/Shared%20Documents/Admin/01.A.%20Pre%20Bid/Costings/V.1/Staff%20Costs/CQU%20ROK_Staff%20Costing.V1_Steph.xlsx",
+   "../../../../../../../../sites/TricoreCivilServices/Shared%20Documents/01%20TCS_Trust/04%20Proj.%20Potential/ROK%20-%20CQU%20Hydrant%20Upgrade/05.A.%20Material/Quotes/240614%20-%20Pipe%20&%20Fittings%20-%20Price%20Comparison.xlsx",
+   "../../../../../../../../sites/TricoreCivilServices/Shared%20Documents/01%20TCS_Trust/04%20Proj.%20Potential/ROK%20-%20CQU%20Hydrant%20Upgrade/05.A.%20Material/Quotes/240614%20-%20Suppliers%20Subbies%20-%20Price%20Comparison.xlsx"
+  ],
+  "issues": []
+ },
+ "TriCore Docs\\Master Cost Sheets\\CQU Examples\\CQU_TAFE- Civil Example.xlsx": {
+  "sheets": [
+   {
+    "name": "T04-GROUNDWORKS",
+    "state": "visible",
+    "dims": "A1:F177",
+    "max_row": 177,
+    "max_col": 6,
+    "formulas": 76,
+    "hardcoded_numbers": 138,
+    "errors": [],
+    "merged": 10,
+    "hidden_rows": 0,
+    "hidden_cols": 0
+   },
+   {
+    "name": "Tender Summary",
+    "state": "visible",
+    "dims": "A1:C26",
+    "max_row": 26,
+    "max_col": 3,
+    "formulas": 15,
+    "hardcoded_numbers": 0,
+    "errors": [],
+    "merged": 2,
+    "hidden_rows": 0,
+    "hidden_cols": 0
+   }
+  ],
+  "named_ranges": [],
+  "external_links": [],
+  "issues": []
+ },
+ "TriCore Docs\\Master Cost Sheets\\CQU Examples\\CQU_TAFE- HYD Example.xlsx": {
+  "sheets": [
+   {
+    "name": "TCS $ Sched",
+    "state": "visible",
+    "dims": "A1:AD140",
+    "max_row": 140,
+    "max_col": 30,
+    "formulas": 142,
+    "hardcoded_numbers": 231,
+    "errors": [],
+    "merged": 70,
+    "hidden_rows": 0,
+    "hidden_cols": 0
+   },
+   {
+    "name": "00_ TCS Prelim & OH",
+    "state": "visible",
+    "dims": "A1:L101",
+    "max_row": 101,
+    "max_col": 12,
+    "formulas": 99,
+    "hardcoded_numbers": 31,
+    "errors": [
+     "C9: external-link formula: =[1]Program_MASTER!$B$102",
+     "C10: external-link formula: =[1]Program_MASTER!B103",
+     "C11: external-link formula: =[1]Program_MASTER!B104",
+     "C12: external-link formula: =[1]Program_MASTER!B105",
+     "D45: external-link formula: =[1]Program_MASTER!$C$144"
+    ],
+    "merged": 8,
+    "hidden_rows": 0,
+    "hidden_cols": 0
+   },
+   {
+    "name": "MISC & SITEWIDE",
+    "state": "visible",
+    "dims": "A1:R981",
+    "max_row": 981,
+    "max_col": 18,
+    "formulas": 1412,
+    "hardcoded_numbers": 573,
+    "errors": [
+     "E936: cached error value #DIV/0!",
+     "E937: cached error value #DIV/0!",
+     "E938: cached error value #DIV/0!",
+     "O962: cached error value #DIV/0!",
+     "P966: cached error value #DIV/0!",
+     "Q966: cached error value #DIV/0!"
+    ],
+    "merged": 6,
+    "hidden_rows": 749,
+    "hidden_cols": 0
+   },
+   {
+    "name": "ROK092",
+    "state": "visible",
+    "dims": "A1:R968",
+    "max_row": 968,
+    "max_col": 18,
+    "formulas": 1415,
+    "hardcoded_numbers": 685,
+    "errors": [],
+    "merged": 6,
+    "hidden_rows": 40,
+    "hidden_cols": 0
+   },
+   {
+    "name": "ROK21A",
+    "state": "visible",
+    "dims": "A1:R913",
+    "max_row": 913,
+    "max_col": 18,
+    "formulas": 1360,
+    "hardcoded_numbers": 555,
+    "errors": [],
+    "merged": 6,
+    "hidden_rows": 40,
+    "hidden_cols": 0
+   },
+   {
+    "name": "ROK019",
+    "state": "visible",
+    "dims": "A1:R914",
+    "max_row": 914,
+    "max_col": 18,
+    "formulas": 1360,
+    "hardcoded_numbers": 555,
+    "errors": [],
+    "merged": 6,
+    "hidden_rows": 29,
+    "hidden_cols": 0
+   },
+   {
+    "name": "ROK033",
+    "state": "visible",
+    "dims": "A1:R920",
+    "max_row": 920,
+    "max_col": 18,
+    "formulas": 1368,
+    "hardcoded_numbers": 590,
+    "errors": [],
+    "merged": 6,
+    "hidden_rows": 10,
+    "hidden_cols": 0
+   },
+   {
+    "name": "ROK034",
+    "state": "visible",
+    "dims": "A1:R912",
+    "max_row": 912,
+    "max_col": 18,
+    "formulas": 1358,
+    "hardcoded_numbers": 550,
+    "errors": [],
+    "merged": 6,
+    "hidden_rows": 10,
+    "hidden_cols": 0
+   },
+   {
+    "name": "ROK036",
+    "state": "visible",
+    "dims": "A1:R998",
+    "max_row": 998,
+    "max_col": 18,
+    "formulas": 1439,
+    "hardcoded_numbers": 724,
+    "errors": [],
+    "merged": 6,
+    "hidden_rows": 10,
+    "hidden_cols": 0
+   },
+   {
+    "name": "ROK076",
+    "state": "visible",
+    "dims": "A1:R943",
+    "max_row": 943,
+    "max_col": 18,
+    "formulas": 1377,
+    "hardcoded_numbers": 621,
+    "errors": [],
+    "merged": 15,
+    "hidden_rows": 10,
+    "hidden_cols": 0
+   },
+   {
+    "name": "LabourProject Rates_Master",
+    "state": "visible",
+    "dims": "A1:L115",
+    "max_row": 115,
+    "max_col": 12,
+    "formulas": 145,
+    "hardcoded_numbers": 48,
+    "errors": [
+     "B7: external-link formula: ='[2]Staff Costs_Lead Hand'!$B$193",
+     "B8: external-link formula: ='[2]Staff Costs_Lead Hand'!$E$212",
+     "C8: external-link formula: ='[2]Staff Costs_Lead Hand'!$F$212",
+     "B9: external-link formula: ='[2]Staff Costs_Lead Hand'!$E$213",
+     "C9: external-link formula: ='[2]Staff Costs_Lead Hand'!$F$213",
+     "B10: external-link formula: ='[2]Staff Costs_Lead Hand'!$E$214",
+     "C10: external-link formula: ='[2]Staff Costs_Lead Hand'!$F$214",
+     "B14: external-link formula: ='[2]Staff Costs_Lead Hand'!$B$4",
+     "E17: external-link formula: ='[2]Staff Costs_Lead Hand'!$F$211",
+     "B21: external-link formula: ='[2]Staff Costs_Tradesman'!$B$4",
+     "E24: external-link formula: ='[2]Staff Costs_Tradesman'!$F$121",
+     "B28: external-link formula: ='[2]Staff Costs_TA'!$B$4",
+     "E31: external-link formula: ='[2]Staff Costs_TA'!$F$122"
+    ],
+    "merged": 2,
+    "hidden_rows": 6,
+    "hidden_cols": 0
+   },
+   {
+    "name": "Material Rates_Master",
+    "state": "visible",
+    "dims": "A2:M257",
+    "max_row": 257,
+    "max_col": 13,
+    "formulas": 364,
+    "hardcoded_numbers": 218,
+    "errors": [
+     "D5: external-link formula: ='[3]240522_Supplier RFQ'!F16",
+     "D6: external-link formula: ='[3]240522_Supplier RFQ'!F17",
+     "D7: external-link formula: ='[3]240522_Supplier RFQ'!F18",
+     "D8: external-link formula: ='[3]240522_Supplier RFQ'!F19",
+     "D10: external-link formula: ='[3]240522_Supplier RFQ'!F21",
+     "D11: external-link formula: ='[3]240522_Supplier RFQ'!F22",
+     "D12: external-link formula: ='[3]240522_Supplier RFQ'!F23",
+     "D13: external-link formula: ='[3]240522_Supplier RFQ'!F24",
+     "D14: external-link formula: ='[3]240522_Supplier RFQ'!F25",
+     "D15: external-link formula: ='[3]240522_Supplier RFQ'!F26",
+     "D16: external-link formula: ='[3]240522_Supplier RFQ'!F27",
+     "D17: external-link formula: ='[3]240522_Supplier RFQ'!F28",
+     "D18: external-link formula: ='[3]240522_Supplier RFQ'!F29",
+     "D19: external-link formula: ='[3]240522_Supplier RFQ'!F30",
+     "D20: external-link formula: ='[3]240522_Supplier RFQ'!F31",
+     "D21: external-link formula: ='[3]240522_Supplier RFQ'!F32",
+     "D22: external-link formula: ='[3]240522_Supplier RFQ'!F33",
+     "D23: external-link formula: ='[3]240522_Supplier RFQ'!F34",
+     "D24: external-link formula: ='[3]240522_Supplier RFQ'!F35",
+     "D25: external-link formula: ='[3]240522_Supplier RFQ'!F36"
+    ],
+    "merged": 34,
+    "hidden_rows": 0,
+    "hidden_cols": 0
+   },
+   {
+    "name": "Equip&HIRE_Master",
+    "state": "visible",
+    "dims": "A2:F71",
+    "max_row": 71,
+    "max_col": 6,
+    "formulas": 35,
+    "hardcoded_numbers": 0,
+    "errors": [
+     "D4: external-link formula: ='[4]Hire Items_Dry'!$M$16",
+     "D5: external-link formula: ='[4]Hire Items_Dry'!$M$17",
+     "D6: external-link formula: ='[4]Hire Items_Dry'!$J$18",
+     "D8: external-link formula: ='[4]Hire Items_Dry'!$P$20",
+     "D10: external-link formula: ='[4]Hire Items_Dry'!$M$22",
+     "D11: external-link formula: ='[4]Hire Items_Dry'!$M$23",
+     "D13: external-link formula: ='[4]Hire Items_Dry'!$M$25",
+     "D14: external-link formula: ='[4]Hire Items_Dry'!$P$26",
+     "D17: external-link formula: ='[4]Hire Items_Dry'!$G$29",
+     "D19: external-link formula: ='[4]Hire Items_Dry'!G31",
+     "D20: external-link formula: ='[4]Hire Items_Dry'!G32",
+     "D21: external-link formula: ='[4]Hire Items_Dry'!G33",
+     "D22: external-link formula: ='[4]Hire Items_Dry'!G34",
+     "D24: external-link formula: ='[4]Hire Items_Dry'!G36",
+     "D28: external-link formula: ='[4]Hire Items_Dry'!$J$40",
+     "D29: external-link formula: ='[4]Hire Items_Dry'!$G$41",
+     "D30: external-link formula: ='[4]Hire Items_Dry'!$P$42",
+     "D33: external-link formula: ='[4]Hire Items_Dry'!$P$45",
+     "D34: external-link formula: ='[4]Hire Items_Dry'!$J$46",
+     "D40: external-link formula: ='[4]Hire Items_Dry'!$G$52"
+    ],
+    "merged": 15,
+    "hidden_rows": 4,
+    "hidden_cols": 0
+   },
+   {
+    "name": "Misc Subbie Rates_Master",
+    "state": "visible",
+    "dims": "A1:G121",
+    "max_row": 121,
+    "max_col": 7,
+    "formulas": 80,
+    "hardcoded_numbers": 52,
+    "errors": [
+     "D10: external-link formula: ='[4]Plant Hire_WET'!R16",
+     "D11: external-link formula: ='[4]Plant Hire_WET'!R17",
+     "D12: external-link formula: ='[4]Plant Hire_WET'!F18",
+     "D13: external-link formula: ='[4]Plant Hire_WET'!F19",
+     "D14: external-link formula: ='[4]Plant Hire_WET'!F20",
+     "D15: external-link formula: ='[4]Plant Hire_WET'!O21",
+     "D16: external-link formula: ='[4]Plant Hire_WET'!O22",
+     "D17: external-link formula: ='[4]Plant Hire_WET'!O23",
+     "D18: external-link formula: ='[4]Plant Hire_WET'!F24",
+     "D19: external-link formula: ='[4]Plant Hire_WET'!F25",
+     "D20: external-link formula: ='[4]Plant Hire_WET'!F26",
+     "D21: external-link formula: ='[4]Plant Hire_WET'!F27",
+     "D22: external-link formula: ='[4]Plant Hire_WET'!F28",
+     "D23: external-link formula: ='[4]Plant Hire_WET'!F29",
+     "D24: external-link formula: ='[4]Plant Hire_WET'!L30",
+     "D25: external-link formula: ='[4]Plant Hire_WET'!L31",
+     "D26: external-link formula: ='[4]Plant Hire_WET'!L32",
+     "D27: external-link formula: ='[4]Plant Hire_WET'!$R$33",
+     "D28: external-link formula: ='[4]Plant Hire_WET'!$R$34",
+     "D35: external-link formula: =[4]Subbies_Misc!$F$16"
+    ],
+    "merged": 23,
+    "hidden_rows": 0,
+    "hidden_cols": 0
+   },
+   {
+    "name": "Accomodation_Master",
+    "state": "visible",
+    "dims": "A1:K368",
+    "max_row": 368,
+    "max_col": 11,
+    "formulas": 395,
+    "hardcoded_numbers": 100,
+    "errors": [],
+    "merged": 26,
+    "hidden_rows": 223,
+    "hidden_cols": 0
+   }
+  ],
+  "named_ranges": [
+   {
+    "name": "aa",
+    "refers_to": "#REF!"
+   },
+   {
+    "name": "bh",
+    "refers_to": "#REF!"
+   },
+   {
+    "name": "Civil4",
+    "refers_to": "#REF!"
+   },
+   {
+    "name": "d",
+    "refers_to": "#REF!"
+   },
+   {
+    "name": "date",
+    "refers_to": "#REF!"
+   },
+   {
+    "name": "daz",
+    "refers_to": "#REF!"
+   },
+   {
+    "name": "ddd",
+    "refers_to": "#REF!"
+   },
+   {
+    "name": "for",
+    "refers_to": "#REF!"
+   },
+   {
+    "name": "job",
+    "refers_to": "#REF!"
+   },
+   {
+    "name": "No",
+    "refers_to": "#REF!"
+   },
+   {
+    "name": "qqq",
+    "refers_to": "#REF!"
+   },
+   {
+    "name": "site",
+    "refers_to": "#REF!"
+   },
+   {
+    "name": "site1",
+    "refers_to": "#REF!"
+   },
+   {
+    "name": "site2",
+    "refers_to": "#REF!"
+   }
+  ],
+  "external_links": [
+   "https://tricoreplumbing.sharepoint.com/sites/CQU-ROK-Admin/Shared%20Documents/Admin/01.A.%20Pre%20Bid/Costings/V.1/CQU%20ROK_PROGRAM%20-%20MASTER.V1.xlsx",
+   "https://tricoreplumbing.sharepoint.com/sites/CQU-ROK-Admin/Shared%20Documents/Admin/01.A.%20Pre%20Bid/Costings/V.1/Staff%20Costs/CQU%20ROK_Staff%20Costing.V1_Steph.xlsx",
+   "../../../../../../../../01%20TCS_Trust/04%20Proj.%20Potential/ROK%20-%20CQU%20Hydrant%20Upgrade/05.A.%20Material/Quotes/240614%20-%20Pipe%20&%20Fittings%20-%20Price%20Comparison.xlsx",
+   "../../../../../../../../01%20TCS_Trust/04%20Proj.%20Potential/ROK%20-%20CQU%20Hydrant%20Upgrade/05.A.%20Material/Quotes/240614%20-%20Suppliers%20Subbies%20-%20Price%20Comparison.xlsx"
+  ],
+  "issues": []
+ }
+}
