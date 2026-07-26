@@ -13,16 +13,19 @@
 
 | | Old (V1) | New (V2) |
 |---|---|---|
-| **Total ex GST** | **$890,849.95** | **$2,760,962.08** |
-| What it contained | Materials + quarry only, marked up | Materials + **labour + plant + subbies + accommodation**, marked up |
-| Labour | **$0** | $638,321.02 (223 crew-days) |
+| **Total ex GST** | **$890,849.95** | **$2,986,733.98** |
+| What it contained | Materials + quarry only, marked up | Materials + **labour incl. LH supervision + plant + subbies + accommodation**, marked up |
+| Crew labour | **$0** | $638,321.02 (223 crew-days) |
+| Leading Hand supervision | **$0** | $159,556.11 (120 LH-days, **direct labour**) |
 | Plant | **$0** | $168,088.85 |
 | Accommodation / FIFO travel | **$0 (no logic existed)** | $111,365.80 |
 | Grated trench drains | **$0 — orphaned out of the total** | Reinstated in full |
 | Effective markup on cost | 45.73% (labelled 41.5%) | **41.5% (as directed)** |
 | GST | 10% line present on the Hyd sibling; Civ V1 ex-GST | Ex-GST throughout, stated on every summary |
 
-**Movement: +$1,870,112.13 (+209.9%).** The movement is not a price increase — it is the cost of work the old model never priced. The old figure was never a complete offer.
+**Movement: +$2,095,884.03 (+235.3%).** The movement is not a price increase — it is the cost of work the old model never priced. The old figure was never a complete offer.
+
+**Stage split:** Stage 1A lump sum $2,761,814.98 + WSUD PC sum $111,787.74 = **$2,873,602.72**; Stage 1B lump sum **$113,131.26**.
 
 ---
 
@@ -116,7 +119,7 @@ Every derived cell is a formula. Blue = hardcoded input, green = cross-sheet lin
 |---|---|
 | **D6-F1** | Kerb chutes — Director decision. Both positions costed (`EBC` E1). |
 | **Opens #26** | Detention basin earthworks + spillway allocation — RFI + Director. $0 in base (`EBC` E2). |
-| **Prelim cross-check** | Bottom-up prelims **$222,117.36** vs the 5.5% allowance **$102,971.44** → allowance short by **$119,145.92 (bottom-up is 115.7% above it)**. Driven mainly by LH supervision (120 days = $159,556). **This needs a Director decision before submission** — see §8. |
+| **Prelim cross-check** | ~~Shortfall~~ **RESOLVED at §9.** Bottom-up true preliminaries **$62,561.25** vs the 5.5% allowance **$111,747.03** → allowance covers with a **$49,185.78 surplus** (bottom-up is **44.0% below** the allowance). |
 | **Gap #1 / Opens #10** | Ocean Protect direct re-quote for the 22-cartridge DN3300 StormFilter (MUSIC model required). |
 | **Gap #7** | GT6 grate substitution (PRO100 D400 47245 vs PRO200 G-tec offered). |
 | **Reece anomaly** | $198.00/m vs $232.94/m on the 550 m Fibretec line — $19,217 delta. |
@@ -127,15 +130,60 @@ Every derived cell is a formula. Blue = hardcoded input, green = cross-sheet lin
 
 ---
 
-## 8. THE ONE THING THAT NEEDS A DECISION
+## 8. PRELIMS CROSS-CHECK — RESULT
 
-The bottom-up prelims cross-check that the old model could never perform (because both sides were zero) now shows the **5.5% prelims allowance does not cover TCS's actual preliminaries** on this job: **$102,971 allowed vs $222,117 built up**, a **$119,146 shortfall**.
+The bottom-up prelims cross-check that the old model could never perform (because both sides read zero) now passes:
 
-The dominant cause is Leading Hand supervision — 120 days × $1,329.63 = **$159,556** on the FIFO basis, which by itself exceeds the entire 5.5% pool. The directed markup structure has been applied exactly as instructed and the shortfall left visible rather than absorbed by quietly moving supervision into direct cost.
+| | Amount |
+|---|---|
+| Bottom-up TRUE preliminaries | **$62,561.25** |
+| 5.5% allowance (5.5% × $2,031,764.12 total cost) | **$111,747.03** |
+| **Variance (surplus)** | **+$49,185.78** |
+| **Variance %** | **−44.0%** (bottom-up sits 44% below the allowance) |
 
-**Three options, none taken unilaterally:**
-1. Move LH supervision into direct cost (it then attracts prelims + O/H + profit like any other cost) — raises the offer by roughly $226k and is the most defensible commercially.
-2. Raise the prelims percentage from 5.5% to about 12% on this job.
-3. Accept the shortfall against O/H and profit — a real margin reduction of $119k.
+The 5.5% allowance comfortably covers establishment non-labour, temporary services (incl. temp water cartage), the EDQ remobilisation line and the ADAC/CCTV/as-constructed deliverables. **No Director decision is required** — see §9 for how this was resolved.
 
-Flagged for Mitch/Director before the tender is submitted.
+---
+
+## 9. CORRECTION — LEADING HAND SUPERVISION RETURNED TO DIRECT LABOUR
+
+### The departure found
+
+An earlier build of V2 placed the 120 Leading Hand supervision days in the **`Prelim_OH` pool**, funded from the 5.5% prelims allowance. That was a **departure from TriCore's existing commercial methodology** and it produced a false $119,146 prelims shortfall.
+
+### The evidence
+
+`MasterCostSheet_Civ.V1.xlsx`, sheet **`SW Zone Sumry`**, section **B "Labour"** (total at H9, formula `H11 =SUM(F13:F19)`):
+
+```
+A8  = B                              <- section B
+B8  = Labour                         <- section heading
+B13 = TRADESMAN_LEADING HAND         <- the Leading Hand
+C13 = Day                            <- priced by the day
+E13 = ='Staff Rates'!E17  ($822.50)  <- linked to the LH day rate
+F13 = =E13*D13                       <- extends into the labour total
+```
+
+The Leading Hand is **row 13 of the work-area labour block**, extending straight into `TOTAL Labour`. TriCore prices supervision as **direct cost of the work**, not as a preliminary. `MasterCostSheet_Hyd.V1` follows the identical pattern. TENDER_PROMPT §5.4 directs that the existing TriCore commercial structure and methodology be preserved; §8-PHASE 6 directs that a defect found be corrected and shown here.
+
+### The correction
+
+1. The 120 LH-days moved **out of `Prelim_OH` and into the direct labour blocks** of both stage sheets as their own line **A-14 "Leading Hand supervision — site-wide"**, at the LH day rate from `LabourRates_Master` ($1,329.6343/day).
+2. **Allocated pro-rata to crew-days**, consistent with the accommodation allocation: **1A 114.1 days = $151,711.27** · **1B 5.9 days = $7,844.84** · total 120.0 days = $159,556.11.
+3. The labour block was restructured so the allocation cannot become circular: **`B1 — Crew labour subtotal`** (the `SUM` over activity rows, which still carries the crew-day count used by the accommodation and LH pro-rata formulas), then the **A-14 LH row**, then **`B — LABOUR TOTAL` = crew + LH**. Accommodation and the `Sched3_Extract` GT allocation continue to divide by **crew-days**, excluding LH days.
+4. `Prelim_OH` **retains the LH row at $0 for traceability**, with the note *"reallocated to direct labour per TriCore methodology (old Civ SW Zone Sumry B13) — see change log"*, and the rate still shown for reference.
+5. The `Sched3_Extract` grated-trench component now carries its share of LH supervision (36 crew-days pro-rata), so the Schedule 3 transfer lines remain a true cost split.
+6. `Cover_Control` assumption #4 rewritten; `MIGRATION_RECONCILIATION.xlsx` carries a dedicated register row against `SW Zone Sumry` B13/C13/E13/F13 recording the evidence, the departure and the correction.
+
+### Price movement caused by this correction
+
+| | Before | After | Movement |
+|---|---|---|---|
+| Stage 1A lump sum | $2,547,143.53 | **$2,761,814.98** | **+$214,671.45** |
+| Stage 1B lump sum | $102,030.81 | **$113,131.26** | **+$11,100.45** |
+| WSUD PC sum | $111,787.74 | $111,787.74 | unchanged |
+| **Grand total ex GST** | $2,760,962.08 | **$2,986,733.98** | **+$225,771.90** |
+
+The movement is exactly **$159,556.11 × 1.415 = $225,771.90** — the LH supervision cost now correctly attracting prelims, overhead and profit as direct cost does, instead of being absorbed inside a fixed 5.5% pool that could not fund it.
+
+**Net commercial effect:** the offer rises $225,772, and the prelims pool swings from a $119,146 shortfall to a $49,186 surplus. Supervision is recovered properly rather than eroding overhead and profit.
