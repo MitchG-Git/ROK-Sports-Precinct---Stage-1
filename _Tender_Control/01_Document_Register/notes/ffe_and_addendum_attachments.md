@@ -94,6 +94,8 @@ No showers, no urinals, no hot water units listed in PAM. Baby change here is Ve
 - Machinery/vehicle washdown before entering site (VFMP10 Table 9).
 - Imported fill to be clean and free of vegetative matter (VFMP10).
 - Tree protection fence for individually retained trees: min 1.2m 3-wire, within 500mm of construction activity, sign every 100m "NO GO ZONE - VEGETATION PROTECTION AREA" red on white, 50mm letters (VFMP10 Table 9).
+- **Tree Catalogue (VFMP06 pp7 / VFMP07 p8 — read visually at high resolution, 26/07/26 pass)**: 72 trees catalogued (numbered 1-98 with gaps: 10-11, 21-23, 60-77, 86-88 not listed). **RETAIN = 20 trees**: TR-009, 015, 016, 019, 020, 028, 033, 040, 041, 044, 045 (VFMP06) and TR-078, 079, 089, 090, 093, 094, 095, 096, 098 (VFMP07). **REMOVE = 52 trees** (all others). Species mix: Eucalyptus crebra (Narrow-leaved Ironbark), E. tereticornis (QLD Blue Gum), Corymbia erythrophloia (Red Bloodwood), C. tessellaris (Moreton Bay Ash), E. melanophloia (Silver-leaved Ironbark), Acacia concurrens, Albizia lebbeck (exotic, retained TR-090), plus dead stags. DSH 300-1400mm; NRZ radii 3.60-8.64m stated per tree; many notes "NSHF/NJKHT", termites nests, hollows. Largest NRZ: TR-046 (8.64m), TR-035 (8.40m), TR-090 (8.40m).
+- **VFMP08 TPZ Fencing & Clearing plan (p9, read visually)**: retained trees (green symbols) cluster along the northern boundary (TR-009/015/016/019/020/033), NE corner (TR-090/093/094/095/096 — TR-090 outside the fauna fence), adjacent the multi-sport/pickleball buildings (TR-044/045 — TPZs directly abut building footprints), and the SE landscape zone (TR-078/079/089/098). Fauna exclusion fencing (purple) runs the full eastern boundary (Norman Rd), western boundary and SW; vegetation protection fencing (orange) runs inside the north/east/south perimeter. Clearing direction arrows all point north. SE corner annotated "Landscaping to be undertaken in accordance with approved Plans."
 
 ### Addendum 9 — LD-21xx T2 Surface Finishes sheets (visual skim, hydraulic/drainage relevance)
 
@@ -149,6 +151,7 @@ Issue columns: 17/6/26 = T1 Initial Tender Issue; 3/7/26 = TENDER ISSUE [TC004] 
 ## Quantities stated (with refs)
 
 - VFMP02 (Direct Impacts): loss of approx **0.90 ha** Category C regulated vegetation; clearing of approx **6.86 ha** mapped Biodiversity Areas Overlay; removal of an estimated **546 non-juvenile Koala Habitat Trees (NJKHT)**; clearing of approx **54 mature trees >300mm DSH**.
+- VFMP06/07 catalogues (read 26/07/26): **72 trees catalogued; 20 RETAIN / 52 REMOVE**; DSH range 300-1400mm; NRZ radii 3.60-8.64m per tree (see Att 14 scope section for the retained-tree ID list).
 - VFMP00: site area 7.73 ha (77,300 m2); only trees >300mm DSH shown; GPS accuracy 0.8-1.5m.
 - VFMP10: tree protection fence min 1.2m high (3 wire) within 500mm of construction activity; TPZ signs every 100m, 50mm red lettering; VFMP08 inset: TPZ = DBH(mm)/1000 x 12 (min 1000mm), 1800mm steel posts at approx 1m intervals.
 - VOL 25: Billi 20 amps, 180-person capacity (p13); H.PS-04 double sink 2400x600 w/ 2x 50mm plug & waste, 450x450x300 bowls (p12); HW-04 cleaners sink 560x460x1100 (p11); H.DW-01 grate 104x103x22 (p14).
@@ -184,7 +187,7 @@ Issue columns: 17/6/26 = T1 Initial Tender Issue; 3/7/26 = TENDER ISSUE [TC004] 
 4. **WC-02 (ambulant suite) location = "PWD"** (VOL 25 p15), while ambulant signage N-2/N-3 (p4) and grab rail A.GA (p2) place ambulant WCs in Change room 1&2, Amenities M&F, OFC CR — the ambulant pan's stated location looks wrong/incomplete; fixture count by room cannot be built from this schedule.
 5. **HW-06 knee-op basin located "Kitchen" inside the Public Amenities block** (VOL 28 p6) — PAM otherwise has no kitchen/kiosk rooms listed in the schedule; also code differs from clubhouse equivalent (WB.KO1 vs SPPL.WB.KO1). Verify against PAM floor plans.
 6. **VFMP status**: latest rev inside is B "ISSUE FOR COORDINATION" 18.09.25, and the standing disclaimer on every sheet says the plans are "conceptual... intended for discussion purposes only". It has been issued as a tender addendum attachment without a tender-issue revision. Contractual weight vs its coordination status should be clarified.
-7. **VFMP tree count vs catalogue**: preamble states 54 mature trees >300mm DSH to be cleared, but tree tags visible on VFMP05/08 run TR-001 to TR-098 — retained/removed split could not be read (see Could not verify), so the 54 cannot be reconciled from within the document.
+7. **VFMP tree count vs catalogue** (updated 26/07/26 after reading the catalogue tables): preamble (VFMP02) states "approximately fifty-four (54)" mature trees >300mm DSH to be cleared, but the catalogues (VFMP06/07) list **52 trees marked REMOVE** out of 72 catalogued — close but not exact ("approximately" absorbs it; the tree numbering gaps of 26 unlisted IDs are unexplained inside the document).
 8. **Transmittal vs Addendum 9 contents**: Transmittal #3 (14/07/26) lists LD-2107, 2108, 2110, 2111 as still current at T1, and landscape plans LD-2001-2011 as reissued T2 — but Addendum 9 folder contains only the seven T2 surface finishes sheets (plus electrical/structural files). The T2 landscape plans LD-2001-2011 listed on the transmittal are not in the Addendum 9 folder reviewed; confirm they were issued elsewhere in the tender set.
 9. **LD-2109 T2 dated 13.07.2026 while LD-2101-2106 T2 dated 14.07.2026** — minor, but the set is not a single-date issue.
 10. Billi note says connection "to existing water supply and waste" — in a new-build clubhouse there is no existing supply; wording presumably means the new building services, but as written it is ambiguous (VOL 25 p13).
@@ -206,8 +209,9 @@ Issue columns: 17/6/26 = T1 Initial Tender Issue; 3/7/26 = TENDER ISSUE [TC004] 
 
 ## Could not verify
 
-- **VFMP06 & VFMP07 "Tree Catalogue (a)/(b)" (pages 7-8)**: entirely graphical/image tables — no extractable text and content not legible at render; individual tree species, DSH, retain/remove status NOT captured.
-- **VFMP05/VFMP08 plan graphics**: which specific TR-001..TR-098 trees are "retain" vs "remove" (colour-coded symbols not distinguishable); exact alignment of fauna exclusion vs vegetation protection fencing.
+- ~~VFMP06/07 tree catalogues~~ **RESOLVED 26/07/26**: catalogues rendered at high resolution and read in full — per-tree species/DSH/NRZ/retain-remove now recorded in the Att 14 scope section above. Remaining gap: reason for the 26 skipped tree numbers (10-11, 21-23, 60-77, 86-88) is not stated anywhere in the document.
+- **VFMP05 overview plan (p6)**: per-tree retain/remove colour coding on this sheet itself was not separately verified — it was cross-checked via the catalogue tables (VFMP06/07) and the VFMP08 plan, which carry the same tree set. Exact TPZ circle extents at plan scale (1:1250) remain approximate.
+- **Precise fencing chainages on VFMP08**: fencing alignments read visually (fauna exclusion east/west/SW; vegetation protection north/east/south perimeter) but the sheet gives indicative locations only — "located based on the indicative locations specified on Sheet VFMP08" (VFMP02).
 - **Downpipe counts/locations**: elevations tag H.RP with leaders to representative downpipes only (1:100); actual number/positions must come from hydraulic/roof drawings.
 - **Dashed pods between netball court rows on LD-2105** (paired thin rectangles + small circles inside dashed outlines): unidentified — could be shelters/seating with post footings; they are NOT tagged. If they are court-side structures they may sit over/near the netball court trench drain alignments (TCS scope) — check against SportEng civil court drawings.
 - **Whether any bubblers/drinking fountains exist in the external landscape works**: none tagged on the seven LD-21xx T2 sheets; furniture & fixture tags were "turned on" in the LD-2001..2011 landscape plan series (transmittal TC-004 comment), which was not part of this review batch.
@@ -222,7 +226,7 @@ Issue columns: 17/6/26 = T1 Initial Tender Issue; 3/7/26 = TENDER ISSUE [TC004] 
 |---|---|---|
 | VOL 25 Clubhouse FF&E T1 | 20 / 20 | full text extraction, all pages reviewed |
 | VOL 28 Amenities FF&E T1 | 9 / 9 | full text extraction |
-| Att 14 VFMP Rev B | 11 / 11 | full text extraction (pp7-8 graphical — flagged above) |
+| Att 14 VFMP Rev B | 11 / 11 | full text extraction; pp7-9 (tree catalogues + TPZ fencing plan) additionally rendered and read visually 26/07/26 |
 | 24253_RSP-LSC-Transmittal #3 | 2 / 2 | full text extraction |
 | LD-2101, 2102, 2103, 2104, 2105, 2106, 2109 T2 | 7 / 7 sheets | rendered at 150dpi + visually skimmed + vector text extracted; zoom crops on LD-2105 plaza/court strips, LD-2109 furniture |
 | MOD-AR-NBC-2001 & 2002 T2 | 2 / 2 sheets | rendered + visually reviewed + vector text extracted |
